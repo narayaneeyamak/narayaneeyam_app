@@ -1,5 +1,5 @@
 import React, { useRef, useEffect, useState } from 'react';
-import { Play, Pause, SkipBack, SkipForward, Repeat, RotateCcw } from 'lucide-react';
+import { Play, Pause, SkipBack, SkipForward, Repeat, ExternalLink } from 'lucide-react';
 import { getAudioStreamUrl } from '../utils/googleDrive';
 
 export default function AudioPlayerBar({
@@ -21,14 +21,24 @@ export default function AudioPlayerBar({
 
   const streamUrl = activeSloka?.audioUrl ? getAudioStreamUrl(activeSloka.audioUrl) : '';
 
+  // Reset audio error when active sloka changes
+  useEffect(() => {
+    setAudioError(false);
+    setCurrentTime(0);
+    setDuration(0);
+  }, [activeSloka?.audioUrl, activeSloka?.slokaNo]);
+
   // Handle Play / Pause changes
   useEffect(() => {
-    if (!audioRef.current) return;
+    if (!audioRef.current || !streamUrl) return;
     if (isPlaying) {
-      audioRef.current.play().catch(err => {
-        console.error("Audio playback error:", err);
-        setAudioError(true);
-      });
+      const playPromise = audioRef.current.play();
+      if (playPromise !== undefined) {
+        playPromise.catch(err => {
+          console.error("Audio playback error:", err);
+          setAudioError(true);
+        });
+      }
     } else {
       audioRef.current.pause();
     }
@@ -116,12 +126,23 @@ export default function AudioPlayerBar({
       <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
         {/* Track Title Info */}
         <div style={{ flex: 1, minWidth: 0, marginRight: '12px' }}>
-          <h4 style={{ fontSize: '0.9rem', fontWeight: 700, color: 'var(--text-main)', margin: 0, truncate: 'true', whiteSpace: 'nowrap', overflow: 'hidden', textOverflow: 'ellipsis' }}>
+          <h4 style={{ fontSize: '0.9rem', fontWeight: 700, color: 'var(--text-main)', margin: 0, whiteSpace: 'nowrap', overflow: 'hidden', textOverflow: 'ellipsis' }}>
             Dasakam {activeSloka.dasakamNo} • Sloka {activeSloka.slokaNo}
           </h4>
-          <p style={{ fontSize: '0.75rem', color: 'var(--text-muted)', margin: 0 }}>
-            {audioError ? 'Audio stream unavailable' : 'Playing...'}
-          </p>
+          {audioError ? (
+            <a
+              href={activeSloka.audioUrl}
+              target="_blank"
+              rel="noopener noreferrer"
+              style={{ fontSize: '0.75rem', color: '#ef4444', textDecoration: 'underline', display: 'flex', alignItems: 'center', gap: '2px', marginTop: '2px' }}
+            >
+              Permission needed in Drive <ExternalLink size={12} />
+            </a>
+          ) : (
+            <p style={{ fontSize: '0.75rem', color: 'var(--text-muted)', margin: 0 }}>
+              {isPlaying ? 'Playing...' : 'Paused'}
+            </p>
+          )}
         </div>
 
         {/* Buttons */}

@@ -1,5 +1,5 @@
 import React from 'react';
-import { Play, Pause, Music, Volume2 } from 'lucide-react';
+import { Play, Pause, ExternalLink, Volume2 } from 'lucide-react';
 
 export default function SlokaView({
   dasakam,
@@ -105,27 +105,45 @@ export default function SlokaView({
                   )}
                 </div>
 
-                {/* Play/Pause Button for individual sloka */}
+                {/* Play Buttons for individual sloka */}
                 {sloka.audioUrl && (
-                  <button
-                    onClick={() => onPlaySloka(dasakam.number, sloka.slokaNo)}
-                    aria-label={`Play sloka ${sloka.slokaNo}`}
-                    style={{
-                      backgroundColor: isThisPlaying ? 'var(--primary-light)' : 'var(--bg-card-hover)',
-                      color: isThisPlaying ? 'var(--primary)' : 'var(--text-main)',
-                      border: 'none',
-                      borderRadius: '50%',
-                      width: '40px',
-                      height: '40px',
-                      display: 'flex',
-                      alignItems: 'center',
-                      justifyContent: 'center',
-                      cursor: 'pointer',
-                      transition: 'transform 0.15s'
-                    }}
-                  >
-                    {isThisPlaying ? <Pause size={18} /> : <Play size={18} style={{ marginLeft: '2px' }} />}
-                  </button>
+                  <div style={{ display: 'flex', alignItems: 'center', gap: '6px' }}>
+                    <button
+                      onClick={() => onPlaySloka(dasakam.number, sloka.slokaNo)}
+                      aria-label={`Play sloka ${sloka.slokaNo}`}
+                      style={{
+                        backgroundColor: isThisPlaying ? 'var(--primary-light)' : 'var(--bg-card-hover)',
+                        color: isThisPlaying ? 'var(--primary)' : 'var(--text-main)',
+                        border: 'none',
+                        borderRadius: '50%',
+                        width: '40px',
+                        height: '40px',
+                        display: 'flex',
+                        alignItems: 'center',
+                        justifyContent: 'center',
+                        cursor: 'pointer',
+                        transition: 'transform 0.15s'
+                      }}
+                    >
+                      {isThisPlaying ? <Pause size={18} /> : <Play size={18} style={{ marginLeft: '2px' }} />}
+                    </button>
+
+                    <a
+                      href={sloka.audioUrl}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      title="Open audio link directly"
+                      style={{
+                        color: 'var(--text-light)',
+                        padding: '6px',
+                        display: 'flex',
+                        alignItems: 'center',
+                        justifyContent: 'center'
+                      }}
+                    >
+                      <ExternalLink size={16} />
+                    </a>
+                  </div>
                 )}
               </div>
 
