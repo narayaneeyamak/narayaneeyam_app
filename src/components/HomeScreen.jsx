@@ -1,16 +1,16 @@
 import React from 'react';
 import { BookOpen, Play, Search, Sparkles, Heart } from 'lucide-react';
 
-export default function HomeScreen({ 
-  onSelectNarayaneeyam, 
-  lastPlayedSloka, 
+export default function HomeScreen({
+  onSelectNarayaneeyam,
+  lastPlayedSloka,
   onPlaySloka,
   searchQuery,
   setSearchQuery
 }) {
   return (
     <div className="animate-fade-in" style={{ padding: '20px 16px', display: 'flex', flexDirection: 'column', gap: '20px' }}>
-      
+
       {/* Welcome Banner */}
       <div style={{
         background: 'linear-gradient(135deg, var(--primary) 0%, #3730a3 100%)',
@@ -151,9 +151,7 @@ export default function HomeScreen({
         color: 'var(--text-muted)',
         fontSize: '0.8rem'
       }}>
-        <p style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '4px' }}>
-          Made with <Heart size={14} color="#ef4444" fill="#ef4444" /> for Mom
-        </p>
+
         <p style={{ marginTop: '4px', opacity: 0.8 }}>Srimad Narayaneeyam Devotional Player</p>
       </div>
     </div>
