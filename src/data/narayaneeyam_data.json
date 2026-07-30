@@ -2,12 +2,12 @@
   "title": "Srimad Narayaneeyam",
   "titleTelugu": "శ్రీమన్నారాయణీయం",
   "author": "Melpathur Narayana Bhattathiri",
-  "totalDasakams": 16,
+  "totalDasakams": 50,
   "dasakams": [
     {
       "id": 1,
       "number": 1,
-      "title": "Dasakam 1: The Glory of the Form of the Supreme Being",
+      "title": "Dasakam 1: The Glory of the Supreme Being",
       "titleTelugu": "దశకం 1: భగవత్స్వరూప మహత్త్వము",
       "summary": "Focuses on the divine, all-pervading form of Lord Guruvayurappan.",
       "slokaCount": 10,
@@ -77,7 +77,7 @@
     {
       "id": 2,
       "number": 2,
-      "title": "Dasakam 2: Form of the Supreme & Devotion",
+      "title": "Dasakam 2: Meditation on the Divine Form",
       "titleTelugu": "దశకం 2: భగవత్స్వరూప ధ్యానము",
       "summary": "Meditation on the divine limbs and glory of the Lord.",
       "slokaCount": 10,
@@ -217,9 +217,9 @@
     {
       "id": 4,
       "number": 4,
-      "title": "Dasakam 4: Ashtanga Yoga & Practice",
+      "title": "Dasakam 4: Ashtanga Yoga & Sadhana",
       "titleTelugu": "దశకం 4: అష్టాంగ యోగము",
-      "summary": "Yogic sadhana and devotion.",
+      "summary": "Yogic sadhana and intense devotion.",
       "slokaCount": 15,
       "slokas": [
         {
@@ -457,7 +457,7 @@
     {
       "id": 7,
       "number": 7,
-      "title": "Dasakam 7: Manifestation of Brahma",
+      "title": "Dasakam 7: Manifestation of Lord Brahma",
       "titleTelugu": "దశకం 7: బ్రహ్మోత్పత్తి",
       "summary": "Birth of Lord Brahma and divine grace.",
       "slokaCount": 10,
@@ -527,7 +527,7 @@
     {
       "id": 8,
       "number": 8,
-      "title": "Dasakam 8: Dissolution & Creation",
+      "title": "Dasakam 8: Dissolution & Re-creation",
       "titleTelugu": "దశకం 8: ప్రళయము మరియు సృష్టి",
       "summary": "Pralaya and revival of creation.",
       "slokaCount": 13,
@@ -685,7 +685,7 @@
     {
       "id": 10,
       "number": 10,
-      "title": "Dasakam 10: The Diverse Worlds & Species",
+      "title": "Dasakam 10: Diverse Worlds & Species",
       "titleTelugu": "దశకం 10: నానావిధ సృష్టి",
       "summary": "Creation of various realms and beings.",
       "slokaCount": 10,
@@ -755,7 +755,7 @@
     {
       "id": 11,
       "number": 11,
-      "title": "Dasakam 11: Incarnation of Lord Varaha",
+      "title": "Dasakam 11: Avatar of Lord Varaha",
       "titleTelugu": "దశకం 11: వరాహ అవతారము",
       "summary": "Appearance of Lord Varaha to uplift Mother Earth.",
       "slokaCount": 10,
@@ -895,7 +895,7 @@
     {
       "id": 13,
       "number": 13,
-      "title": "Dasakam 13: Story of Kapila & Devahuti",
+      "title": "Dasakam 13: Kapila Avatar & Devahuti",
       "titleTelugu": "దశకం 13: కపిలావతారము",
       "summary": "Lord Kapila teaching Sankhya philosophy to Devahuti.",
       "slokaCount": 10,
@@ -1035,7 +1035,7 @@
     {
       "id": 15,
       "number": 15,
-      "title": "Dasakam 15: Story of Rishabhadeva",
+      "title": "Dasakam 15: Story of King Rishabhadeva",
       "titleTelugu": "దశకం 15: ఋషభదేవ చరిత్ర",
       "summary": "Life and teachings of King Rishabhadeva.",
       "slokaCount": 10,
@@ -1169,6 +1169,2446 @@
           "text": "క్రుద్ధేశమర్దితమఖస్ సతు కృత్తశీర్షః\nదేవప్రసాదితహరాదథ లబ్ధజీవః\nత్వత్పూరితక్రతువ క్ర రః పునరాప శాంతిం\nస త్వం ప్రశాంతికర! పాహి మరు త్పురేశ ॥ 10 ॥",
           "audioUrl": "/audio/dasakam16/sloka_10.mp3",
           "driveUrl": "https://drive.google.com/file/d/1t3PyDRk4O8a-gawL4WevKQJMiSwmPA99/view?usp=drive_link"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "number": 17,
+      "title": "Dasakam 17: Sacred Realms & Geography",
+      "titleTelugu": "దశకం 17: వర్షద్వీప వర్ణనము",
+      "summary": "Geography of Jambudvipa and sacred realms.",
+      "slokaCount": 11,
+      "slokas": [
+        {
+          "slokaNo": 1,
+          "text": "ఉత్తానపాదనృపతేర్మనునందనస్య\nజాయా బభూవ సురుచిర్నితరామభీష్టా।\nఅన్యా సునీతిరితి భర్తురనాదృతా సా\nత్వామేవ ని త్యమగతిశ్శరణం గతా భూత్ ॥ 1 ॥",
+          "audioUrl": "/audio/dasakam17/sloka_1.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1O9_rwCQI_JVldxImJI55z3N8BxvvMR4e/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 2,
+          "text": "అంకే పితు స్సురుచిపుత్రకముత్తమం తం\nదృష్ట్వా ధ్రువహ్ కిల సునీతిసుతో ధిరోక్ష్యన్ ।\nఆచిక్షిపే కిల శిశుస్ సుతరాం సురుచ్యా\nదుస్సంత్యజా ఖలు భవ ద్విముఖైరసూయా ॥ 2 ॥",
+          "audioUrl": "/audio/dasakam17/sloka_2.mp3",
+          "driveUrl": "https://drive.google.com/file/d/18s5GleiiEXClGvM29BRSywHH0YlJr7V6/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 3,
+          "text": "త్వన్మోహితే పి తరి పశ్యతి దారవశ్యే\nదూరం దురుక్తినిహతస్ సగతో నిజాంబామ్।\nసాపి స్వకర్మగతిసంతరణాయ పుంసాం\nత్వత్పాదమేవ శ రణం శిశవే శశంస ॥ 3 ॥",
+          "audioUrl": "/audio/dasakam17/sloka_3.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1eafFlltu1B00TqdoLqQiwTDn2JhKSRWh/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 4,
+          "text": "ఆకర్ణ్య సోపి భవదర్చననిశ్చితాత్మా\nమానీ నిరే త్య నగరాత్ కిల పంచవర్షః ।\nసందృష్టనారదనివేదితమంత్రమార్గః\nత్వామారరాధ తపసా మధుకాననాంతే ॥ 4 ॥",
+          "audioUrl": "/audio/dasakam17/sloka_4.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1fWU2PLcs9uqiP-9WTAhM1LJ6k2XUHVSH/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 5,
+          "text": "తాతే విష ణ్ణహృదయే నగరీం గతేన\nశ్రీ నా రదేన పరిసాంత్వితచిత్తవృత్తౌ ।\nబాలస్త్వ దర్సితమనాహ్ క్రమవ క్ర ర్ధితేన\nనిన్యే కఠోరతపసా కిల పంచమాసాన్ ॥ 5 ॥",
+          "audioUrl": "/audio/dasakam17/sloka_5.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1apzfqESq7Kqd4y8abgfqqm7jipX2csYx/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 6,
+          "text": "తావత్ తపోబలనిరుచ్ఛ్వసితే దిగంతే\nదేవార్థితస్త్వ ముదయత్కరుణార్ద్రచేతాః\nత్వద్రూపచిద్రసనిలీనమతేః పురస్తాత్\nఆవిర్ బభూవిథ విభో! గరుడాధిరూఢః ॥ 6 ॥",
+          "audioUrl": "/audio/dasakam17/sloka_6.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1EOSAa83U3yBh9tnBt3cow11rE2P24avo/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 7,
+          "text": "త్వద్దర్శన ప్రమదభారతరంగితన్ తం\nదృగ్భ్యాం నిమగ్నమివ రూపరసాయనే తే ।\nతుష్టూషమాణమవగమ్య కపోలదేశే\nసంస్పృష్టవానసి దరేణ తథాదరేణ ॥ 7 ॥",
+          "audioUrl": "/audio/dasakam17/sloka_7.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1YDocEBlyg3Q51AU8ehKUWIYOIuYQbeVy/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 8,
+          "text": "తావద్విబోధవిమలం ప్రణువంతమేనం\nఆభాషథాస్త్వ మవగమ్య తదీయభావమ్ ।\nరాజ్యం చిరం సమనుభూయ భజస్వ భూయః\nసర్వోత్తరం ధ్రువపదం వినివృత్తిహీనమ్ ॥ 8 ॥",
+          "audioUrl": "/audio/dasakam17/sloka_8.mp3",
+          "driveUrl": "https://drive.google.com/file/d/12y-h0uYyKfKWnXOWgdLsqD0qPtwdj6Y2/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 9,
+          "text": "ఇత్యూచుషి త్వయి గతే నృపనందనో సౌ\nఆనందితాఖిలజనో నగరీముపేతః ।\nరేమే చి రం భవదనుగ్రహపూగ్ర ర్ణకామః\nతాతే గతే చ వనమాదృతరాజ్యభారః ॥ 9 ॥",
+          "audioUrl": "/audio/dasakam17/sloka_9.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1nqFWic6yDK_jHDshn9pEHOU7WGZj2Dlw/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 10,
+          "text": "యక్షేణ దేవ! నిహతే పునరుత్తమేస్మిన్\nయక్షైస్సయుద్ధనిరతో వి రతో మనూక్త్యా ।\nశాంత్యా ప్రసన్నహృదయాత్ ధనదాదు పేతాత్\nత్వద్భక్తిమేవ సు దృఢామవృణోన్మహాత్మా ॥ 10 ॥",
+          "audioUrl": "/audio/dasakam17/sloka_10.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1T3XSJMyL59ah_wsybp6WZaFG9TqMuOF3/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 11,
+          "text": "అంతే భవత్పురుషనీతవిమానయాతః\nమాత్రా సమం ధ్రువపదే ముదితో యమాస్తే।\nఏవం స్వభృత్యజనపాలనలోలధీస్త్వం\nవాతాలయాధిప! నిరుంధి మమామయౌఘాన్ ॥ 11 ॥\n\nఓం నమో భగవతే వాసుదేవాయ → 3 సార్లు చదవవలెను",
+          "audioUrl": "/audio/dasakam17/sloka_11.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1lIGvPSaGUigObWjdaS7QK9RnhhdOBrGw/view?usp=drive_link"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "number": 18,
+      "title": "Dasakam 18: Story of King Prithu",
+      "titleTelugu": "దశకం 18: పృథు చక్రవర్తి చరిత్ర",
+      "summary": "Avatar of King Prithu and milking of Mother Earth.",
+      "slokaCount": 10,
+      "slokas": [
+        {
+          "slokaNo": 1,
+          "text": "జాతస్య ధ్రువకుల ఏవ తుంగకీర్తేః\nఅంగస్య వ్యజని సుతస్స వేననామా।\nయద్దోషవ్యథితమతి స్స రాజవర్యః\nత్వత్పాదే నిహి తమనా వనం గతో భూత్ ॥ 1 ॥",
+          "audioUrl": "/audio/dasakam18/sloka_1.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1x8VqyYZHdO1FCGhIz_8lJnkOc1jMWGUa/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 2,
+          "text": "పాపోపి క్షితితలపాలనాయ వేనః\nపౌరాద్యైరుపనిహితహ్ క ఠోరవీర్యః ।\nసర్వేభ్యో నిజబలమేవ సంప్రశంసన్\nభూచక్రే తవ యజనాన్యయం న్యరౌత్సీత్ ॥ 2 ॥",
+          "audioUrl": "/audio/dasakam18/sloka_2.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1pLM3R_Tw0fEfMSetNZgbiiXfudSkHmyv/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 3,
+          "text": "సంప్రాప్తే హితకథనాయ తాపసౌఘే\nమత్తోన్యో భువనపతిర్న కశ్చనేతి ।\nత్వన్నిందావచనపరో మునీశ్వరైస్తైః\nశాపాగ్నౌ శలభదశామనాయి వేనః ॥ 3 ॥",
+          "audioUrl": "/audio/dasakam18/sloka_3.mp3",
+          "driveUrl": "https://drive.google.com/file/d/15hBiXQ396FlOr83TcUT4ds1Lg-Mnl2IJ/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 4,
+          "text": "తన్నాశాత్ ఖలజనభీరుకైర్ము కై నీంద్రైః\nతన్మాత్రా చిరపరిరక్షితే తదంగే ।\nత్యక్తాఘే పరిమథితాదథోరుదండాత్\nదోర్దండే పరిమథితే త్వమావిరాసీః ॥ 4 ॥",
+          "audioUrl": "/audio/dasakam18/sloka_4.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1rCwUIs65gtJp-h1aDVn7AZd0-5FVNo-e/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 5,
+          "text": "విఖ్యాతః పృథురితి తాపసోపదిష్టైః\nసూతాద్యైః పరిణుత భావిభూరివీర్యః ।\nవేనార్త్యా కబలితసంపదం ధరిత్రీం\nఆక్రాం తాం నిజధనుషా సమామకార్షీః ॥ 5 ॥",
+          "audioUrl": "/audio/dasakam18/sloka_5.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1YyYfhIab3xx-x6PlMWrMhsRN8MpTTxlo/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 6,
+          "text": "భూయస్తాం నిజకులముఖ్యవత్సయుక్తైః\nదేవాద్యైస్ సముచితచారుభాజనేషు ।\nఅన్నాదీన్యభిలషితాని యాని తాని\nస్వచ్ఛందం సురభితనూమదూదుహస్త్వ మ్ ॥ 6 ॥",
+          "audioUrl": "/audio/dasakam18/sloka_6.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1pnUXf91k0LVWlaU91AGt07kqGIRexN3J/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 7,
+          "text": "ఆత్మానం యజతి మఖైస్త్వ యి త్రిధామన్\nఆరబ్ధే శతతమ వాజిమేధ యాగే ।\nస్పర్ధాళు శ్శతమఖ ఏ త్య నీచవేషః\nహృత్వాశ్వం తవ తనయాత్ పరాజితో భూత్ ॥ 7 ॥",
+          "audioUrl": "/audio/dasakam18/sloka_7.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1lliSMWmAXfS3bTJQ_fjBDqqKuBHeHOeD/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 8,
+          "text": "దేవేంద్రం ముహురితి వాజినం హరంతం\nవన్హౌ తం మునివరమండలే జుహూషౌ।\nరుంధానే కమలభవే క్రతోక్ర స్సమాప్తౌ\nసాక్షాత్ త్వం మధురిపుమైక్షథాస్ స్వయం స్వమ్ ॥ 8 ॥",
+          "audioUrl": "/audio/dasakam18/sloka_8.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1GQ4lk2TOBW775l0EUYevZ1RPSp3fPZ47/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 9,
+          "text": "తద్దత్తం వరముపలభ్య భక్తిమేకాం\nగంగాంతే విహి తపదహ్ కదాపి దేవ!\nసత్రస్థం మునినివహం హితాని శంసన్\nఐక్షిష్ఠాస్ సనకముఖాన్ మునీన్ పురస్తాత్ ॥ 9 ॥",
+          "audioUrl": "/audio/dasakam18/sloka_9.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1C_qJ40bUw6TT2PCQXIMwEh2sLmWes3Ot/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 10,
+          "text": "విజ్ఞానం సనకముఖోదితం దధానః\nస్వాత్మానం స్వయమగమో వనాంతసేవీ ।\nతత్తాదృక్ పృథువపురీశ! సత్వరం మే\nరోగౌఘం ప్రశమయ వాతగేహవాసిన్ ॥ 10 ॥",
+          "audioUrl": "/audio/dasakam18/sloka_10.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1-JR_IzqUGwdeA9wfIHx-8sdUEdWCJaw3/view?usp=drive_link"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "number": 19,
+      "title": "Dasakam 19: Story of Prachetas & Narada",
+      "titleTelugu": "దశకం 19: ప్రచేతసుల చరిత్ర",
+      "summary": "Devotion of Prachetas and teachings of Lord Shiva & Narada.",
+      "slokaCount": 10,
+      "slokas": [
+        {
+          "slokaNo": 1,
+          "text": "పృథోస్తు నప్తా పృథుధర్మకర్మఠః ప్రాచీనబర్హిర్యువతౌ శతద్రుతౌ ।\nప్రచేతసో నామ సుచేతసస్ సుతాన్, అజీజనత్ త్వత్కరుణాంకురానివ ॥ 1 ॥",
+          "audioUrl": "/audio/dasakam19/sloka_1.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1x2QXC34-jGbSHhCQ9M_QfuSX19t2kYvb/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 2,
+          "text": "పితుస్సిసృక్షానిరతస్య శాసనాత్, భవత్తపస్యాభిరతా దశాపితే ।\nపయోనిధిం పశ్చిమమేత్య తత్తటే, సరోవరం సందదృశుర్మనోహరమ్ ॥ 2 ॥",
+          "audioUrl": "/audio/dasakam19/sloka_2.mp3",
+          "driveUrl": "https://drive.google.com/file/d/168IttsIeHsIgbEC1-q--_4sjj_X8dGOH/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 3,
+          "text": "తదా భవతీర్థమిదం సమాగతః భవో భవత్సేవకదర్శనాదృతః ।\nప్రకాశమాసాద్య పురః ప్రచేతసామ్, ఉపాది శద్భక్తతక్తమస్తవ స్తవమ్ ॥ 3 ॥",
+          "audioUrl": "/audio/dasakam19/sloka_3.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1KrUmiz_YzNWDLQe3nvWPYDF4L9aXJ83R/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 4,
+          "text": "స్తవం జపంతస్తమమీ జలాంతరే, భవంతమాసేవిషతాయుతం సమాః ।\nభవత్సుఖాస్వాదరసాదమీష్వియాన్, బభూవ కాలో ధ్రువవన్న శీఘ్రతా ॥ 4 ॥",
+          "audioUrl": "/audio/dasakam19/sloka_4.mp3",
+          "driveUrl": "https://drive.google.com/file/d/128ezbxmVJt3dXv6C-kJOSbGd395WlMxW/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 5,
+          "text": "తపోభిరేషామ్ అ తిమాత్రవర్ధిభిః సయజ్ఞహింసానిరతో పి పావితః\nపితాపి తే షాం గృహయాతనారద ప్రదర్శితాత్మా భవదాత్మతాం యయౌ ॥ 5 ॥",
+          "audioUrl": "/audio/dasakam19/sloka_5.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1_EnbfhLtMc5eysUdGBoCDnzaKXJqN2em/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 6,
+          "text": "కృపాబలేనైవ పు రః ప్రచేతసాం, ప్రకాశమాగాః పతగేంద్రవాహనః ।\nవిరాజిచక్రాదివరాయుధాంశుభిః భుజాభిరష్టాభిరుదంచితద్యుతిః ॥ 6 ॥",
+          "audioUrl": "/audio/dasakam19/sloka_6.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1hCw5aoX1pL-D1CbaK-ydPGkuvP7wxmIG/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 7,
+          "text": "ప్రచేతసాం తావదయాచతామపి త్వమేవ కారుణ్యభరాద్వరానదాః ।\nభవద్విచింతా పి శివాయ దేహి నాం, భవత్వసౌ రు ద్రనుతిశ్చ కామదా ॥ 7 ॥",
+          "audioUrl": "/audio/dasakam19/sloka_7.mp3",
+          "driveUrl": "https://drive.google.com/file/d/16-BetNFNgWs8cwkMUCb4MmF-q_FQdDT4/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 8,
+          "text": "అవాప్య కాంతాం తనయాం మహీరుహాం, తయా రమధ్వం దశలక్ష వత్సరీమ్ ।\nసుతోస్తు దక్షో నను తత్-క్షణాచ్చ మాం, ప్రయాస్యథేతి న్యగదో ముదైవతాన్ ॥ 8॥",
+          "audioUrl": "/audio/dasakam19/sloka_8.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1f9Lq74eAz9KF0IAjSn_1g_zzTTx1dYq5/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 9,
+          "text": "తతశ్చ తే భూతలరోధినస్తరూన్, క్రుధా ద హంతో ద్రుహిణేన వారితాః ।\nద్రుమైశ్చ దత్తాం తనయామవాప్యతాం, త్వదుక్తకాక్త లం సుఖినో భిరేమిరే ॥ 9 ॥",
+          "audioUrl": "/audio/dasakam19/sloka_9.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1RFJIAyviUXN8d8lN2HVAYA8ztUZTjvdr/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 10,
+          "text": "అవాప్య దక్షం చ సుతం కృతాధ్వరాః ప్రచేతసో నారదలబ్ధయా ధియా ।\nఅవాపురానందపదం తథావిధః త్వమీశ! వాతాలయనాథ! పాహి మామ్ ॥ 10 ॥",
+          "audioUrl": "/audio/dasakam19/sloka_10.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1F8-ewGfEAzh822D0ASG2xcPcBnVik2OA/view?usp=drive_link"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "number": 20,
+      "title": "Dasakam 20: Dhruva's Penance & Grace",
+      "titleTelugu": "దశకం 20: ధ్రువోపాఖ్యానము",
+      "summary": "The steadfast devotion of child Dhruva.",
+      "slokaCount": 10,
+      "slokas": [
+        {
+          "slokaNo": 1,
+          "text": "ప్రియవ్రతస్య ప్రియపుత్రభూతాద్, ఆగ్నీ ధ్రరాజాదుదితో హి నా భిః ।\nత్వాం దృష్టవానిష్టదమిష్టిమధ్యే, తవైవ తుష్ట్యై కృతయజ్ఞకర్మా ॥ 1 ॥",
+          "audioUrl": "/audio/dasakam20/sloka_1.mp3",
+          "driveUrl": "https://drive.google.com/file/d/14W3yfdY1njR-ZIXR1XsLDdjjuhwKuP-e/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 2,
+          "text": "అభిష్టుతస్తత్ర మునీశ్వరైస్త్వం , రాజ్ఞస్ స్వతుల్యం సుతమర్థ్యమానః ।\nస్వయం జనిష్యేహమితి బ్రువాణః తిరోదధా బర్హిషి విశ్వమూర్తే! ॥ 2 ॥",
+          "audioUrl": "/audio/dasakam20/sloka_2.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1S7sBbDu3SbRiKcSd7Eei9ultpArzT8yZ/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 3,
+          "text": "నాభిప్రియాయామథ మేరుదేవ్యాం, త్వమంశతో భూర్ ఋషభాభిధానః ।\nఅలోకసామాన్యగుణప్రభావప్రభావితాశేషజనప్రమోదః ॥ 3 ॥",
+          "audioUrl": "/audio/dasakam20/sloka_3.mp3",
+          "driveUrl": "https://drive.google.com/file/d/14l9frj1a4FSawXImfpaC15y855jeELKe/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 4,
+          "text": "త్వయి త్రిలోకీభృతి రాజ్యభారం, నిధాయ నాభి స్సహ మేరుదేవ్యా ।\nతపోవనం ప్రాప్య భవన్ని షేవీ, గతహ్ కిలానందపదం పదం తే ॥ 4 ॥",
+          "audioUrl": "/audio/dasakam20/sloka_4.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1ZUeoSNmsoOujtbdQWP7kf3tkspmyZFbN/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 5,
+          "text": "ఇంద్రస్త్వ దుత్కర్షకృతాదమర్షాత్, వవర్షనాస్మిన్-నజనాభవర్షే ।\nయదా తదా త్వం నిజయోగశక్త్యా , స్వవర్షమేనద్-వ్యదధాస్ సువ ర్షమ్ ॥ 5 ॥",
+          "audioUrl": "/audio/dasakam20/sloka_5.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1tQp1qJ5RdQX9uMS7VoZnJfkix56iPb2b/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 6,
+          "text": "జితేంద్రదత్తాం కమనీం జయంతీమ్, అథోద్వహన్నాత్మరతాశయోపి ।\nఅజీజనత్ తత్ర శతం తనూజాన్, యేషాం క్షితీశో భరతో గ్రజగ్రన్మా ॥ 6 ॥",
+          "audioUrl": "/audio/dasakam20/sloka_6.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1Bbq2dLNbDB_2S3s4YIqLcmOQJz43QBPQ/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 7,
+          "text": "నవాభవన్ యో గివరా నవాన్యే, త్వపాలయన్ భా రతవర్షఖండాన్ ।\nసైకాత్వశీతిస్తవ శేషపుత్రాః తపో బలాత్ భూసురభూయమీయుః ॥ 7 ॥",
+          "audioUrl": "/audio/dasakam20/sloka_7.mp3",
+          "driveUrl": "https://drive.google.com/file/d/115JD6LoSYcKQxfRQcHx9cU_pqAZFsCkn/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 8,
+          "text": "ఉక్త్వా సుతేభ్యో థ మునీంద్రమధ్యే, విరక్తిభక్త్య న్వితముక్తిమార్గమ్ ।\nస్వయంగతః పారమహంస్యవృత్తిమ్, అధా జడో న్మత్తపిశాచచర్యామ్ ॥ 8 ॥",
+          "audioUrl": "/audio/dasakam20/sloka_8.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1BuN7IrqqFrwgTYDjYcRbh8SyNGU60K8I/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 9,
+          "text": "పరాత్మభూతో పి పరోపదేశం, కుర్వన్ భవాన్ సర్వనిరస్యమానః।\nవికారహీనో వి చచార కృత్-స్నాం, మహీమహీనాత్మరసాభిలీనః ॥ 9 ॥",
+          "audioUrl": "/audio/dasakam20/sloka_9.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1h9uReybukKApK9fngyy3yeN9DTfavttA/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 10,
+          "text": "శయువ్రతం గోమృగకాకచర్యాం, చిరం చరన్నాప్యపరం స్వరూపమ్ ।\nదవాహృతాంగహ్ కుటకా చలే త్వం, తాపాన్మమాపాకురు వాతనాథ! ॥ 10 ॥",
+          "audioUrl": "/audio/dasakam20/sloka_10.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1Jm4YR_nrEdPuj3dSOtYescei82F-pODZ/view?usp=drive_link"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "number": 21,
+      "title": "Dasakam 21: Glory of Dhruva & Story of King Vena",
+      "titleTelugu": "దశకం 21: వేనోపాఖ్యానము",
+      "summary": "Dhruva's ascension and story of King Vena.",
+      "slokaCount": 12,
+      "slokas": [
+        {
+          "slokaNo": 1,
+          "text": "మధ్యో ద్భవే భువ ఇలావృతనామ్ని వర్షే\nగౌరీప్రధానవనితాజనమాత్రభాజి ।\nశర్వేణ మంత్రనుతిభిస్ సముపాస్యమానం\nసంకర్షణాత్మకమధీశ్వర! సంశ్రయేశ్ర త్వామ్ ॥ 1 ॥",
+          "audioUrl": "/audio/dasakam21/sloka_1.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1B65hwYRJQg6x5MjDeUXdW8lVZkHGl9l6/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 2,
+          "text": "భద్రాశ్వనామక ఇలావృతపూర్వవర్షే\nభద్రశ్రవోశ్ర భిర్ ఋ షిభిః పరిణూయమానమ్ ।\nకల్పాంతగూఢనిగమోద్ధరణప్రవీణం\nధ్యాయామి దేవ! హయశీర్షతనుం భవంతమ్ ॥ 2 ॥",
+          "audioUrl": "/audio/dasakam21/sloka_2.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1F9C1z7BVoYcpH6IKuQBXQGh-UaDbXyy6/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 3,
+          "text": "ధ్యాయామి ద క్షిణగతే హరివర్షవర్షే\nప్రహ్లాదము ఖ్యపురుషైః పరిషేవ్యమాణమ్ ।\n\nఉత్తుం గశాంతధవళాకృతిమేకశుద్ధ-\nజ్ఞానప్రదం నరహరిం భగవన్ భవంతమ్ ॥ ॥ ౩",
+          "audioUrl": "/audio/dasakam21/sloka_3.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1vuHS0RltHA0zFU_j9hRuVznTVWj-QG1g/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 4,
+          "text": "వర్షే ప్రతీచి లలితాత్మని కేతుమాలే\nలీలావిశేషలలితస్మితశోభనాంగమ్ ।\nలక్ష్మ్యా ప్రజాపతిసుతైశ్చ నిషేవ్యమాణం\nతస్యాః ప్రియాయ ధృతకామతనుం భజే త్వామ్ ॥ 4॥",
+          "audioUrl": "/audio/dasakam21/sloka_4.mp3",
+          "driveUrl": "https://drive.google.com/file/d/10IS0WsD8Ntip-6bO_nLk5PAWvVOm5-yc/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 5,
+          "text": "రమ్యే హ్యుదీచి ఖలు రమ్యకనామ్ని వర్షే\nతద్వర్షనాథ మనువర్యసపర్యమాణమ్\nభక్తైకవత్సలమమత్-సరహృత్ సుభాంతం\nమత్య్సా కృతిం భువననాథ! భజే భవంతమ్ ॥ 5॥",
+          "audioUrl": "/audio/dasakam21/sloka_5.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1sYN5or3ZI9nhCJcBBYA-ot8b4yvI8PAL/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 6,
+          "text": "వర్షం హిరణ్మయసమాహ్వయమౌత్తరాహం\nఆసీనమద్రిధృతికర్మఠకామఠాం గమ్\nసంసేవతే పి తృగణప్రవరో ర్యమా యం\nతం త్వాం భజామి భగవన్! పరచిన్మయాత్మన్! ॥ 6॥",
+          "audioUrl": "/audio/dasakam21/sloka_6.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1_vBmJvg_4GL-QrQ62f7HPNfYSSBu6mVT/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 7,
+          "text": "కించోత్తరేషు కురుషు ప్రియయా ధరణ్యా\nసంసేవితో మహి తమంత్రనుతిప్రభేదైః ।\nదంష్ట్రాగ్రఘృ గ్ర ష్టఘనపృష్ఠగరిష్ఠవర్ష్మా\nత్వం పాహి విజ్ఞనుత! యజ్ఞవరాహమూర్తే! ॥ 7॥",
+          "audioUrl": "/audio/dasakam21/sloka_7.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1JcvYG2fBqoOLl-lrTORsrNoaYyKAhYNG/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 8,
+          "text": "యామ్యాం దిశం భజతి కింపురుషాఖ్యవర్షే\nసంసేవితో హనుమతా దృఢభక్తిభాజా ।\nసీతాభిరామ పరమాద్భుత రూపశాలీ\nరామాత్మకః పరిలసన్ పరిపాహి విష్ణో! ॥ 8॥",
+          "audioUrl": "/audio/dasakam21/sloka_8.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1hcgs6sn4kcr6kGZq7ItJnMdQZqK8sQyH/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 9,
+          "text": "శ్రీ నా రదేన సహ భారతఖండముఖ్యైః\nత్వం సాంఖ్యయోగనుతిభిస్ సముపాస్యమానః ।\nఆకల్పకాలమిహ సాధుజనాభిరక్షీ\nనారాయణో నరసఖః పరిపాహి భూమన్!॥ 9 ॥",
+          "audioUrl": "/audio/dasakam21/sloka_9.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1iT8z_1e6iFbhgz_30xjizFnV8XJLp1Lz/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 10,
+          "text": "ప్లాక్షే ర్కరూపమయి! శాల్మల ఇందురూపం\nద్వీపే భజంతి కుశనామని వన్-హిరూపమ్ ।\nక్రౌంచేంబురూపమథ వాయుమయం-చ శాకే\nత్వాం బ్రహ్మరూపమయి పుష్కరనామ్ని లోకాః ॥ 10 ॥",
+          "audioUrl": "/audio/dasakam21/sloka_10.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1sncn6JcN1tiT_aUABPxGQge6W-DfZpyn/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 11,
+          "text": "సర్వైర్-ధ్రువాదిభిరుడుప్రకరైర్-గ్రహైగ్రహైశ్చ\nపుచ్ఛాదికేష్వవయవేష్వభికల్ప్యమానైః\nత్వం శింశుమారవపుషా-మహతాముపాస్యః\nసంధ్యాసు రుంధి నరకం మమ సింధుశాయిన్! ॥ 11 ॥",
+          "audioUrl": "/audio/dasakam21/sloka_11.mp3",
+          "driveUrl": "https://drive.google.com/file/d/12ItcDdB_oMmVapHRnAQZkpgLAVHeNKsD/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 12,
+          "text": "పాతాలమూలభువి శేష తనుం భవంతం\nలోలైకకుండలవిరాజి సహస్రశీర్షమ్ ।\nనీలాంబరం ధృతహలం భుజగాంగనాభిః\nజుష్టం భజే హర గదాన్ గురుగేహనాథ! ॥ 12 ॥",
+          "audioUrl": "/audio/dasakam21/sloka_12.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1HL5dQNYH_HUsm0KFavbzLaCfITlQ0qc5/view?usp=drive_link"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "number": 22,
+      "title": "Dasakam 22: Story of King Ajamila",
+      "titleTelugu": "దశకం 22: అజామిలోపాఖ్యానము",
+      "summary": "Redemption of Ajamila by chanting the Name of Narayana.",
+      "slokaCount": 11,
+      "slokas": [
+        {
+          "slokaNo": 1,
+          "text": "అజామిలో నామ మహీసు రః పురా, చరన్ విభో! ధర్మపథాన్ గృహాశ్రమీశ్ర ।\nగురోర్గిరా కా ననమేత్య దృష్టవాన్, సుధృష్టశీలాం కులటాం మదాకులామ్॥ 1 ॥",
+          "audioUrl": "/audio/dasakam22/sloka_1.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1abyrQXPd9qvxHWafQmca2sxCU167ftLS/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 2,
+          "text": "స్వతః ప్రశాంతో పి తదాహృతాశయః స్వధర్మముత్ సృజ్య తయా సమారమన్।\nఅధర్మకారీ దశమీభవన్ పు నః దధౌ భవ న్నామయుతే సుతే రతిమ్ ॥ 2 ॥",
+          "audioUrl": "/audio/dasakam22/sloka_2.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1rrZp8AXz_mzNXQynkTkVO7L3ResVlgaU/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 3,
+          "text": "స మృత్యుకాలే యమరాజకింకరాన్, భయంకరాన్-త్రీనభిలక్షయన్ భియా ।\nపురా-మనాక్ త్వత్ స్మృతివాసనాబలాజ్జుహావ నారాయణనామ కం సుతమ్ ॥ 3 ॥",
+          "audioUrl": "/audio/dasakam22/sloka_3.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1tYcGcJ3bP7DY0T5GLzMou4oqthjtJ2AY/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 4,
+          "text": "దురాశయస్యాపి తదాస్యనిర్గతత్వదీయనామాక్షరమాత్రవైభవాత్ ।\nపురోభిపేతుర్భవదీయపార్షదాః చతుర్భుజాః పీతపటా మనోహరాః ॥ 4 ॥",
+          "audioUrl": "/audio/dasakam22/sloka_4.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1y7Vd070fq-_3TfIh-skxKAkNH2Hntbqe/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 5,
+          "text": "అముం చ సంపాశ్య వికర్షతో భటాన్, విముంచతేత్యారురుధుర్బ లాదమీ ।\nనివారితాస్తే చ భవజ్జనైస్తదా, తదీయపాపం నిఖిలం న్యవేదయన్ ॥ 5 ॥",
+          "audioUrl": "/audio/dasakam22/sloka_5.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1SzWZRFvteCjMND9RzGXakQyFsp0Rb5Jl/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 6,
+          "text": "భవంతు పాపాని కథం తు నిష్కృతే, కృతేపి భో! దండనమస్తిపండితాః! ।\nన నిష్కృతిహ్ కిం విదితా భవాదృశామ్, ఇతి ప్రభో! త్వత్పురుషా బభాషిరే ॥ 6॥",
+          "audioUrl": "/audio/dasakam22/sloka_6.mp3",
+          "driveUrl": "https://drive.google.com/file/d/107tr_MkrMvzsepCeZvtaWbrh-_f4g8Qt/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 7,
+          "text": "శ్రుతిస్మృతిభ్యాం విహితా వ్రతాదయః పునంతి పాపన్ న లునంతి వాసనామ్।\nఅనంతసేవా తు ని కృంతతి ద్వయీమ్, ఇతి ప్రభో! త్వత్పురుషా బభాషిరే ॥ 7 ॥",
+          "audioUrl": "/audio/dasakam22/sloka_7.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1KZSQRHJjXn4ex_2Cb7vSyCEmV2aSkqJO/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 8,
+          "text": "అనేన భో! జన్మ సహస్రకోటిభిః కృతేషు పాపేష్వపి నిష్కృతిహ్ కృతా ।\nయదగ్రహీగ్ర న్నామ భయాకులో హ రేః ఇతి ప్రభో! త్వత్పురుషా బభాషిరే ॥ 8 ॥",
+          "audioUrl": "/audio/dasakam22/sloka_8.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1CPRGRDSPzU90arEU3EnDgvQ956nppS3H/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 9,
+          "text": "నృణామబుద్ధ్యా పి ముకుందకీర్తనం, దహత్యఘౌఘాన్ మహి మా స్య తాదృశః\nయథాగ్నిరేధాంసి యథౌషధం గదాన్, ఇతి ప్రభో! త్వత్పురుషా బభాషిరే ॥9॥",
+          "audioUrl": "/audio/dasakam22/sloka_9.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1DAfDZYL8JGJHXH5A6u4ua271n-UDhwwy/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 10,
+          "text": "ఇతీరితైర్యామ్యభటైరపాసృతే, భవద్భటానాం చ- గణే తిరోహితే ।\nభవత్ స్మృతిం కంచన కాలమాచరన్, భవత్పదం ప్రాపి భవద్భటైరసౌ ॥ 10 ॥",
+          "audioUrl": "/audio/dasakam22/sloka_10.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1E4kBdYnk-xjyYUdegyBAmu5Z8xqX7B-p/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 11,
+          "text": "స్వకింకరావేదనశంకితో యమః త్వదంఘ్రిభక్తేషు న గమ్యతామితి।\nస్వకీయభృత్యానశిశిక్షదుచ్చకైః స దేవ! వాతాలయనాథ! పాహి మామ్ ॥11॥",
+          "audioUrl": "/audio/dasakam22/sloka_11.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1LZ4jqOikAtoVXwXKYcU7_H-GHiPDBjE6/view?usp=drive_link"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "number": 23,
+      "title": "Dasakam 23: Story of Chitraketu",
+      "titleTelugu": "దశకం 23: చిత్రకేతూపాఖ్యానము",
+      "summary": "King Chitraketu's devotion and transformation.",
+      "slokaCount": 11,
+      "slokas": [
+        {
+          "slokaNo": 1,
+          "text": "ప్రాచేతసస్తు భగవన్నపరో హి దక్షః\nత్వత్సేవనం వ్యధితసర్గవివృద్ధికామః ।\nఆవిర్బ భూవిథ తదా లసదష్టబాహుః\nతస్మై వరం దదిథ తాం-చ వధూమసిక్నీమ్ ॥ 1 ॥",
+          "audioUrl": "/audio/dasakam23/sloka_1.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1L-tsqYVjCz5LysjDXIASDZIIubPXht_X/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 2,
+          "text": "తస్యాత్మజాస్-త్వయుతమీశ! పునస్సహస్రం\nశ్రీనారదస్య వచసా తవ మార్గమాపుః ।\nనైకత్ర వాసమృషయే స ముమోచ శాపం\nభక్తోత్తమస్ త్వ ఋషిరను గ్రహమేవ గ్ర మెనే ॥ 2 ॥",
+          "audioUrl": "/audio/dasakam23/sloka_2.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1PZcRS8Whxa02PxGOTTu2HnxbyiFysvJx/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 3,
+          "text": "షష్ట్యా తతో దుహితృభిస్ సృజతహ్ కులౌఘాన్\nదౌహిత్రసూనురథ తస్య స విశ్వరూపః ।\nత్వత్-స్తోత్రవర్మితమజాపయదింద్రమాజౌ\nదేవ! త్వదీయమహిమా ఖలు సర్వజైత్రః ॥ 3 ॥",
+          "audioUrl": "/audio/dasakam23/sloka_3.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1IHrvl01TZOIXpg6Y3ZoL5tEgwfTDNLdj/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 4,
+          "text": "ప్రాక్ శూరసేనవిషయే కిల చిత్రకేతుః\nపుత్రాగ్రహీగ్ర నృపతిరంగిరసః ప్రభావాత్ ।\nలబ్ధ్వైకపుత్రమథ తత్ర హతే సపత్నీ-\nసంఘైరముహ్యదవశస్తవ మాయయా సౌ ॥ 4 ॥",
+          "audioUrl": "/audio/dasakam23/sloka_4.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1lRdiKN6J4icXF0sQgCV-esfliOy3OjWe/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 5,
+          "text": "తం నారదస్తు సమమంగిరసా దయాళుః\nసంప్రాప్య తావదుపదర్-శ్య సుతస్య జీవమ్ ।\nకస్యాస్మి పుత్ర ఇతి తస్య గిరా విమోహం\nత్యక్త్వా త్వదర్చనవిధౌ నృపతిం న్యయుంక్త॥ 5 ॥",
+          "audioUrl": "/audio/dasakam23/sloka_5.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1n2_F7feYtvIIlNEiorwU8NeRubRVYEfk/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 6,
+          "text": "స్తోత్రం చ మంత్రమపి నారదతోథ లబ్ధ్వా\nతోషాయ శేషవపుషో నను తే తపస్యన్ ।\nవిద్యాధరాధిపతితాం స హి సప్తరాత్రే\nలబ్-ధ్వా ప్యకుంఠమతిరన్వభజద్-భవంతమ్ ॥ 6 ॥",
+          "audioUrl": "/audio/dasakam23/sloka_6.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1CvCB2sVKxVQAnGM0GfqJFb2zIe_4eo18/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 7,
+          "text": "తస్మై మృణాళధవళేన సహస్రశీర్-ష్ణా\nరూపేణ బద్ధనుతిసిద్ధగణావృతేన ।\nప్రాదుర్-భవన్-నచిరతో ను తిభిః ప్రసన్నః\nదత్-త్వాత్మతత్త్వ మనుగృహ్య తిరోదధాథ ॥ 7 ॥",
+          "audioUrl": "/audio/dasakam23/sloka_7.mp3",
+          "driveUrl": "https://drive.google.com/file/d/17sxwzVbijvJyuwZtvMf08fsE1FOXUDhU/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 8,
+          "text": "త్వద్-భక్తమౌక్త ళిరథ సోపి చ లక్షలక్షం\nవర్షాణి హ ర్షులమనా భువనేషు కామమ్ ।\nసంగాపయన్ గుణగ ణం తవ సుందరీభిః\nసంగాతిరేకరహితో లలి తం చచార ॥ 8 ॥",
+          "audioUrl": "/audio/dasakam23/sloka_8.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1G7o2Kfx-KjvDgBEqtDKwjKIlH_s8v6Hj/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 9,
+          "text": "అత్యంతసంగవిలయాయ భవత్-ప్రణున్నః\nనూనం స రూప్యగిరిమాప్య మహత్ సమాజే।\nనిశ్శంకమంకకృతవల్లభమంగజారిం\nతం శంకరం పరిహసన్-నుమయాభిశేపే ॥ 9 ।",
+          "audioUrl": "/audio/dasakam23/sloka_9.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1dwqFqVbipPrRhkGwuZgB7W4pt5ti4edd/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 10,
+          "text": "నిస్-సంభ్రమస్-త్వయమయాచితశాపమోక్షః\nవృత్రాసురత్వముపగమ్య సురేంద్రయోధీ।\nభక్త్యా త్మతత్త్వ కథనైస్సమరే విచిత్రం\nశత్రోరపి భ్రమమపాస్య గతః పదం తే ॥ 10 ॥",
+          "audioUrl": "/audio/dasakam23/sloka_10.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1EqJpQ1Ij-zitMiQyEzfAi8SlxFInSpko/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 11,
+          "text": "త్వత్ సేవ నేన దితిరింద్రవధోద్యతా పి\nతాన్ ప్రత్యుతేంద్రసుహృదో మరుతో భిలేభే ।\nదుష్టాశయే పి శుభ దైవ భవన్నిషేవా\nతత్తాదృశస్త్వ మవ మాం పవనాలయేశ! ॥ 11 ॥",
+          "audioUrl": "/audio/dasakam23/sloka_11.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1znSyluBgekOSoFfBYFEzpE9okW0YC05_/view?usp=drive_link"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "number": 24,
+      "title": "Dasakam 24: Prahlada's Devotion",
+      "titleTelugu": "దశకం 24: ప్రహ్లాద చరిత్ర",
+      "summary": "Unshakeable devotion of Bhakta Prahlada.",
+      "slokaCount": 10,
+      "slokas": [
+        {
+          "slokaNo": 1,
+          "text": "[24 +25 – నరసింహావతారం]\n\nహిరణ్యాక్షే పోత్రిప్రవర వపుషా దేవ! భవతా\nహతే శోకక్రోధగ్లపితధృతిరేతస్య సహజః ।\nహిరణ్యప్రారంభహ్ కశిపురమరారాతిసదసి\nప్రతిజ్ఞామాతేనే తవ కిల వధార్థం మురరిపో! ॥ 1॥",
+          "audioUrl": "/audio/dasakam24/sloka_1.mp3",
+          "driveUrl": "https://drive.google.com/file/d/11b26tNXyqfKLUhSYcfZz2vBiAGwZHNe7/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 2,
+          "text": "విధాతారం ఘోరం స-ఖలు-తపసిత్వా-న చిరతః\nపురస్సాక్షాత్ కు ర్వన్ సురనరమృగాద్యైరనిధనమ్ ।\nవరం లబ్ధ్వా దృప్తోజగదిహ భవన్నాయకమిదం\nపరిక్షుందన్నింద్రాదహరత దివం త్వామగణయన్ ॥ 2 ॥",
+          "audioUrl": "/audio/dasakam24/sloka_2.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1Gj-ZdwEiWmWxY2stLnrQYINTuBQ4pK5x/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 3,
+          "text": "నిహంతుం త్వాం భూయస్తవ పదమవాప్తస్య చ-రిపోః\nబహిర్-దృష్టేరంతర్దధిథ హృదయే సూక్ష్మవపుషా ।\nనదన్నుచ్చై స్తత్రాప్యఖిలభువనాంతే చ మృగయన్\nభియా-యాతం మత్వా స-ఖలు జి తకాశీ నివవృతే ॥ 3 ।",
+          "audioUrl": "/audio/dasakam24/sloka_3.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1d3C_W2MO3jnyDIl1COggj_8bvPuu8krF/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 4,
+          "text": "తతో స్య ప్రహ్లాదస్ సమజని సుతో గర్భవసతౌ\nమునేర్వీణాపాణేరధిగతభవద్భక్తిమహిమా\nస-వై-జాత్యా-దైత్య శ్శిశురపి సమేత్య త్వయి రతిం\nగతస్త్వ ద్భక్తానాం వరద! పరమోదాహరణతామ్ ॥ 4 ॥",
+          "audioUrl": "/audio/dasakam24/sloka_4.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1BrVrIFYWCUaiQr0sj56VpVCOO3JQRlCj/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 5,
+          "text": "సురారీణాం హాస్యం తవచరణదాస్యం నిజసుతే\nస- దృష్ట్వా దుష్టాత్మా గురుభిరశిశిక్షచ్చిరమముమ్ ।\nగురుప్రోక్తం చాసావిదమిదమభద్రాయ దృఢమితి\nఅపాకుర్వన్ సర్వం తవచరణభక్త్యై వ వ వృధే ॥ 5 ॥",
+          "audioUrl": "/audio/dasakam24/sloka_5.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1YZu6Od1l15uzmVR9mw50EZT98lLG5qqw/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 6,
+          "text": "అధీతేషు శ్రేష్ఠం కిమితి పరిపృష్టేథ తనయే\nభవద్భక్తిం వర్యామభిగదతి పర్యాకులధృతిః ।\nగురుభ్యో రోషిత్వా సహజమతిరస్యేత్యభివిదన్\nవధోపాయానస్మిన్ వ్యతనుత భవత్పాదశరణే ॥ 6॥",
+          "audioUrl": "/audio/dasakam24/sloka_6.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1Abkf5psLSe54LReGv6UuVAR90xcYSQb1/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 7,
+          "text": "స శూలైరావిద్ధస్సుబహుమథితో దిగ్గజగణైః\nమహాసర్పైర్దష్టోప్యనశనగరాహారవిధుతః\nగిరీంద్రావక్షిప్తోప్యహహ! పరమాత్మన్నయి విభో!\nత్వయి-న్యస్తాత్మత్వాత్ కిమపి న నిపీడామభజత ॥ 7 ॥",
+          "audioUrl": "/audio/dasakam24/sloka_7.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1k8k-i8pmwDiEd6cbgNAF-DdRt_cuI5dn/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 8,
+          "text": "తతశ్శంకావిష్టస్ సపునరతిదుష్టోస్య జనకః\nగురూక్త్యా తద్గేహే కిల వరుణపాశైస్తశైస్తమరుణత్।\nగురోశ్చాసాన్నిధ్యే స-పునరనుగాన్ దైత్యతనయాన్\nభవద్భక్తేస్తత్వం పరమమపి విజ్ఞానమశిషత్ ॥ 8 ॥",
+          "audioUrl": "/audio/dasakam24/sloka_8.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1THb3VIyappbc5uv6CLHAsKR3mEC6w9Ku/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 9,
+          "text": "పితా శృణ్వన్ బాలప్రకరమఖిలం త్వత్-స్తుతిపరం\nరుషాంధః ప్రాహైనం కులహతక! కస్తేబలమితి।\nబలం మే వైకుంఠస్తవ చ-జగతాం చాపి-స-బలం\nస ఏవ త్రైలోత్రైక్యం సకలమితి-ధీరోయమగదీత్॥ 9 ॥",
+          "audioUrl": "/audio/dasakam24/sloka_9.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1eU1_IRaJSIdofNMBUtmi-Zo9_RQ-HQ9m/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 10,
+          "text": "అరే! క్వాసౌ క్వాసౌ సకలజగదాత్మా హరిరితి\nప్రభింతే స్మ స్తం భం చలితకరవాలో దితిసుతః ।\nఅతః పశ్చాద్విష్ణో! న హి వదితుమీశో స్మి సహసా\nకృపాత్మన్! విశ్వాత్మన్! పవనపురవాసిన్! మృడయ మామ్ ॥ 10 ॥",
+          "audioUrl": "/audio/dasakam24/sloka_10.mp3",
+          "driveUrl": "https://drive.google.com/file/d/17mbgEDqIgyFk_CjxGdLnDY9rrrS3Mwx7/view?usp=drive_link"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "number": 25,
+      "title": "Dasakam 25: Narasimha Avatar",
+      "titleTelugu": "దశకం 25: నృసింహావతారము",
+      "summary": "Appearance of Lord Narasimha and slaying of Hiranyakashipu.",
+      "slokaCount": 10,
+      "slokas": [
+        {
+          "slokaNo": 1,
+          "text": "[24 +25 – నరసింహావతారం]\n\n(ప్రతి రోజు సాయంత్రం లేదా స్వాతి నక్షత్రం నాడు చదవవలెను)\n\nస్తం భే ఘ ట్టయతో హిరణ్యకశిపోహ్ కర్ణౌ సమాచూర్ణయన్\nఆఘూర్ణజ్జగదండకుండకుహరో ఘోరస్తవాభూద్రవః ।\nశ్రుత్వా యం కిల దైత్యరాజహృదయే పూర్వం కదా ప్యశ్రుతం\nకంపహ్ కశ్చన సంపపాత చలితో ప్యంభోజభూర్విష్టరాత్ ॥ 1 ॥",
+          "audioUrl": "/audio/dasakam25/sloka_1.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1dveYA2v78n6ROIhmcXl3tWhhgc8kXrog/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 2,
+          "text": "దైత్యే దిక్షు విసృష్టచక్షుషి మహాసంరంభిణి స్తం భతః\nసంభూతం న మృగాత్మకం-న మనుజాకారం వపుస్తేవిభో! ।\nకిం కిం భీషణమేతదద్భుతమితి వ్యుద్భ్రాం తచిత్తే సురే\nవిస్ఫూర్జద్ధవళోగ్రరోగ్ర మవికసద్వర్ష్మా సమాజృంభథాః ॥ 2 ॥",
+          "audioUrl": "/audio/dasakam25/sloka_2.mp3",
+          "driveUrl": "https://drive.google.com/file/d/12NZpmh9YsX_rKGqLNy7Ne7SemUle3bXP/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 3,
+          "text": "తప్తస్వర్ణసవర్ణఘూర్ణదతిరూక్షాక్షం సటాకేసర-\nప్రోత్కంపప్రనికుంబితాంబరమహో జీ యాత్ తవేదం వపుః ।\nవ్యాత్తవ్యాప్తమహాదరీసఖముఖం ఖడ్గోగ్రవగ్రల్గన్మహా-\nజిహ్వానిర్గమదృశ్యమానసుమహాదంష్ట్రాయు గోడ్డామరమ్ ॥ 3 ।",
+          "audioUrl": "/audio/dasakam25/sloka_3.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1NwSwHN49eRIDQjuFTzsfVBUmhXetRzVF/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 4,
+          "text": "ఉత్సర్పద్వలిభంగభీషణహనుం హ్రస్వస్థవీయస్తర-\nగ్రీవం పీవరదోశ్శతోద్గతనఖక్రూరాంశుదూరోల్బ ణమ్।\nవ్యోమోల్లంఘి ఘనాఘనోపమఘన ప్రధ్వాననిర్ధావిత -\nస్పర్ధాలుప్రకరం నమామి భవతస్తన్నారసింహం వపుః ॥ 4 ॥",
+          "audioUrl": "/audio/dasakam25/sloka_4.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1ybXpdMdu7ewhG_o2W64GwE4V0E8Yqcln/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 5,
+          "text": "నూనం విష్ణురయం నిహన్-మ్యముమితి భ్రామ్యద్గదాభీషణం\nదైత్యేంద్రం సముపాద్రవంతమధృథాః దోర్భ్యాం పృథుభ్యామముమ్ ।\nవీరో నిర్గలితోథ ఖడ్గఫలకౌ గృణహన్ విచిత్రశ్రమాన్ శ్ర\nవ్యావృణ్వన్ పు నరాపపాత భువనగ్రాసోద్యతం త్వామహో ॥ 5 ॥",
+          "audioUrl": "/audio/dasakam25/sloka_5.mp3",
+          "driveUrl": "https://drive.google.com/file/d/16ufCpsgxBbMo9UDpwobqGoK-41Eufak1/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 6,
+          "text": "భ్రామ్యంతం దితిజాధమం పునరపి ప్రోద్-గృహ్య దోర్భ్యాం జవాత్\nద్వారే థోరుయు గే నిపాత్య నఖరాన్ వ్యుత్ఖాయ వక్షో భువి ।\nనిర్భిందన్నధిగర్భనిర్భరగలద్రక్తాం బుబద్ధోత్సవం\nపాయం పాయముదైరయో బహు జగత్సంహారిసింహారవాన్ ॥ 6 ॥",
+          "audioUrl": "/audio/dasakam25/sloka_6.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1G5yMLCkyDLzmHDUOr5_4Z9nHkAUhy9qL/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 7,
+          "text": "త్యక్త్వా తం హతమాశు రక్తలహరీసి క్త క్తోన్నమద్వర్ష్మణి\nప్రత్యుత్పత్య సమస్తదైత్యపటలీం చాఖాద్యమానే త్వయి ।\nభ్రామ్యద్భూమి వి కంపితాంబుధికులం వ్యాలోలశైలోశై త్కరం\nప్రోత్సర్పత్ఖచరం చరాచరమహో! దుఃస్థామవస్థాం దధౌ ॥ 7 ॥",
+          "audioUrl": "/audio/dasakam25/sloka_7.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1flitw6Zi6TQBXI-q9FU5ulNTAb3kCGa4/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 8,
+          "text": "తావన్మాంసవపాకరాళవపుషం ఘోరాంత్రమాలాధరం\nత్వాం-మధ్యే సభమిద్ధరోషముషితం దుర్వారగుర్వారవమ్ ।\nఅభ్యేతుం-న శశాక కో పి భువనే దూరే స్థితా భీరవః\nసర్వే శర్వవిరించవాసవముఖాః ప్రత్యేకమస్తోషత ॥ 8 ॥",
+          "audioUrl": "/audio/dasakam25/sloka_8.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1QXmo_S1CwrEuyvcA9SdGg2eWLO_Upgjc/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 9,
+          "text": "భూయో ప్యక్షత రోషధామ్ని భవతి బ్రహ్మాజ్ఞయా బాలకే\nప్రహ్లాదే పదయోర్నమత్యపభయే కారు ణ్యభారాకులః ।\nశాంతస్త్వం కరమస్య మూర్ధ్ని సమధాస్ స్తోత్రైరత్రైథోద్గాయతః\nతస్యాకామధియో పి తేనిథ వ రం లోకాయ చానుగ్రహమ్గ్ర ॥ 9 ॥",
+          "audioUrl": "/audio/dasakam25/sloka_9.mp3",
+          "driveUrl": "https://drive.google.com/file/d/10iuqkezVp-csJqOxnr33U2CY5RcPgbHh/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 10,
+          "text": "ఏవం నాటితరౌద్రచేష్టిత! విభో! శ్రీతాపనీయాభిద\nశ్రుత్యంతస్ఫుటగీతసర్వమహిమన్నత్యంతశుద్ధాకృతే!\nతత్తాదృఙ్ని ఖిలోత్తరం పునరహో కస్త్వాం పరో లంఘయేత్\nప్రహ్లాదప్రియ! హే మరు త్పురపతే! సర్వామయాత్ పాహి మామ్ ॥ 10 ॥\n(పై పంక్తిని మూడు సార్లు చదవవలెను)\nఆనంద చి న్మయనే శరణం\nశ్రీ గురువా యూరప్పనే శరణం",
+          "audioUrl": "/audio/dasakam25/sloka_10.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1n2kp3NP-5FM45-v8Tbz9-oBwiNjMvool/view?usp=drive_link"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "number": 26,
+      "title": "Dasakam 26: Praise of Lord Narasimha",
+      "titleTelugu": "దశకం 26: నృసింహ స్తుతి",
+      "summary": "Prahlada's soulful prayer to Lord Narasimha.",
+      "slokaCount": 10,
+      "slokas": [
+        {
+          "slokaNo": 1,
+          "text": "ఇంద్రద్యుమ్నః పాండ్యఖండాధిరాజః త్వద్భక్తాత్మా చందనాద్రౌకదాచిత్।\nత్వత్సేవాయాం మగ్నధీరాలులోకే, నైవాగస్త్యం ప్రాప్తమాతిథ్యకామమ్ ॥ 1 ॥",
+          "audioUrl": "/audio/dasakam26/sloka_1.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1GF5wi2fn4c01FeP6h7Ys6_KfDOqdy5Aj/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 2,
+          "text": "కుంభోద్భూతిస్సంభృతక్రోధభారః స్తబ్ధాత్మా త్వం హస్తిభూయం భజేతి ।\nశప్త్వా థైనం ప్రత్యగాత్ సో పి లేభే,హస్తీంద్రత్వం త్వత్స్మృతివ్యక్తిధన్యమ్ ॥ 2 ॥",
+          "audioUrl": "/audio/dasakam26/sloka_2.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1MAkRhHiZIevhpP6Y5wudlZC1Ot0jYPoq/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 3,
+          "text": "దుగ్ధాం భోధేర్మధ్యభాజి త్రికూటే, క్రీడన్ శైలేశై యూథపోయం వశాభిః ।\nసర్వాన్ జంతూనత్యవర్తిష్టశక్త్యా , త్వద్భక్తానాం కుత్ర నోత్కర్షలాభః ॥ ॥ ౩",
+          "audioUrl": "/audio/dasakam26/sloka_3.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1Cn5x1E5xgsEaEqzioqjn--MVMyXBwA7u/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 4,
+          "text": "స్వేన స్థేమ్నా దివ్యదేశత్వ శక్త్యా , సో యం ఖేదాన ప్రజానన్ కదాచిత్ ।\nశైలశైప్రాంతే ఘ ర్మతాంతస్ సరస్యాం, యూథైస్సార్థం త్వత్ప్రణున్నో భిరేమే ॥ 4 ॥",
+          "audioUrl": "/audio/dasakam26/sloka_4.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1zlTcxAOEtF7Xfh2lSQingaG69QDGtfnM/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 5,
+          "text": "హూహూస్తావత్ దేవల స్యాపి శాపాత్, గ్రాహీభూతస్తజ్జలే వ ర్తమానః ।\nజగ్రాహైనం హస్తినం పాదదేశే, శాంత్యర్థం- హి శ్రాంతిదో సి స్వకానామ్॥ 5 ॥",
+          "audioUrl": "/audio/dasakam26/sloka_5.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1XX6Kl4Lw588XraeY8m_pnN7X_3EjEre-/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 6,
+          "text": "త్వత్సేవాయా వైభవాద్దుర్నిరోధం, యుధ్యంతం తం వత్సరాణాం సహస్రమ్ ।\nప్రాప్తే-కాలే త్వత్పదైకాగ్ర్య సిద్ధ్యై , నక్రాక్రాం తం హస్తివర్యం వ్యధాస్త్వ మ్ ॥ 6 ॥",
+          "audioUrl": "/audio/dasakam26/sloka_6.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1BMQlKbM-HT0vV-VHrYJJtUJBRNPyOU06/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 7,
+          "text": "ఆర్తివ్యక్తప్రాక్తనక్తజ్ఞానభక్తిః శుండోత్క్షిప్తైః పుండరీకైస్స కై మర్చన్\nపూర్వాభ్యస్తం నిర్విశేషాత్మనిష్ఠం, స్తోత్రశ్రేష్ఠం సో న్వగాదీత్ పరాత్మన్ ॥ 7 ॥",
+          "audioUrl": "/audio/dasakam26/sloka_7.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1eejkO9SX1ENyjwiMlyGIOmk5cEg1VEDn/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 8,
+          "text": "శ్రుత్వా స్తోత్రం నిర్గుణస్థం సమస్తం , బ్రహ్మేశాద్యైర్నాహమిత్యప్రయాతే ।\nసర్వాత్మా త్వం భూరికారుణ్యవేగాత్, తార్ క్ష్యారూఢః ప్రేక్షితో భూః పురస్తాత్॥ 8 ॥",
+          "audioUrl": "/audio/dasakam26/sloka_8.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1KiOzizZtL530qD521kCII3V5MieTVeqd/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 9,
+          "text": "హస్తీంద్రం తం హస్తపద్మేన ధృత్వా, చక్రేణ త్వం నక్రవక్రర్యం వ్యదారీః ।\nగంధర్వే స్మిన్ ముక్తశాక్త పే స హస్తీ, త్వత్సారూప్యం ప్రాప్య దేదీప్యతే స్మ ॥ 9 ॥",
+          "audioUrl": "/audio/dasakam26/sloka_9.mp3",
+          "driveUrl": "https://drive.google.com/file/d/196m5S33LnqQytbvKbKOoUHCcTpzYJPcR/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 10,
+          "text": "ఏతద్వృత్తం త్వాం చ మాం చ ప్రగేయః గాయేత్ సోయం భూయసే శ్రేయసే స్యాత్ ।\nఇత్యుక్త్వై నం తేన సార్థం గతస్త్వం , ధిష్ణ్యం విష్ణో! పాహి వాతాలయేశ ॥10 ॥",
+          "audioUrl": "/audio/dasakam26/sloka_10.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1otV5iFgNmCsL_5h_P1QY0tMtXmWG2JZQ/view?usp=drive_link"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "number": 27,
+      "title": "Dasakam 27: Gajendra Moksham",
+      "titleTelugu": "దశకం 27: గజేంద్ర మోక్షము",
+      "summary": "Rescue of Gajendra the King Elephant.",
+      "slokaCount": 11,
+      "slokas": [
+        {
+          "slokaNo": 1,
+          "text": "[27 +28 + 29 – క్షీరాబ్ధిమథనం]\n\nదుర్వాసా స్సురవనితాప్తదివ్యమాల్యం\nశక్రాయ స్వయముపదాయ తత్ర భూయః ।\nనాగేంద్రప్రతిమృదితే శశా ప శక్రం\nకా క్షాంతిస్త్వ దితరదేవతాంశజానామ్ ॥ 1 ॥",
+          "audioUrl": "/audio/dasakam27/sloka_1.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1fnMiYc0SzPC6B2Hf51J0yspMufuqnD9Z/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 2,
+          "text": "శాపేన ప్రథితజరేథ నిర్జరేంద్రే, దేవేష్వప్యసురజితేషు నిష్ప్రభేషు।\nశర్వాద్యాహ్ కమలజమే త్య సర్వదేవాః నిర్వాణప్రభవ సమం భవంతమాపుః ॥ 2 ॥",
+          "audioUrl": "/audio/dasakam27/sloka_2.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1fqG4uiRVB8TFMMK6U_lIFqYpZkpE04Ir/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 3,
+          "text": "బ్రహ్మాద్యైస్తుతమహిమా చి రం తదానీం, ప్రాదుష్ష్యన్ వరద! పురః పరేణ ధామ్నా।\nహే దేవా! దితిజకులైర్విధాయ సంధిం, పీయూషం పరిమథతేతి పర్యశాస్త్వ మ్ ॥౩॥",
+          "audioUrl": "/audio/dasakam27/sloka_3.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1dU-Z0lJ26tppiNwTQWI6Z4UD2sydsqBM/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 4,
+          "text": "సంధానం కృతవతి దానవైస్సురౌఘే\nమంథానం నయతి మదేన మందరాద్రిమ్\nభ్రష్టే స్మిన్ బదరమివోద్వహన్ ఖగేంద్రే\nసద్యస్త్వం వినిహితవాన్ పయః పయోధౌ ॥ 4 ॥",
+          "audioUrl": "/audio/dasakam27/sloka_4.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1uOceIDouuKewXlomLZI0ocs0dsN7Oord/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 5,
+          "text": "ఆధాయ ద్రుతమథ వాసుకిం వరత్రాం\nపాథోధౌ వినిహి తసర్వబీజజాలే ।\nప్రారబ్ధే బ్ధేమథనవిధౌ సురాసురైస్తైః\nవ్యాజాత్-త్వం భుజగముఖే కరోస్సురారీన్ ॥ 5 ॥",
+          "audioUrl": "/audio/dasakam27/sloka_5.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1B7ivbU8tkREZVKHiWdyVGRciYFL2DL2b/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 6,
+          "text": "క్షుబ్ధాద్రౌ క్షుభితజలోదరే తదానీం, దుగ్ధాబ్ధౌ గురుతరభారతో నిమగ్నే\nదేవేషు వ్యథితతమేషు తత్ప్రియైషీ, ప్రాణైషీహ్ కమ ఠతనుం కఠోరపృష్ఠామ్ ॥ 6 ॥",
+          "audioUrl": "/audio/dasakam27/sloka_6.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1pJ6jwTKhWaQ1dqLAc3_wV7TRH3SCNe-I/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 7,
+          "text": "వజ్రాతిస్థిరతరకర్పరేణ విష్ణో! విస్తారాత్ పరిగతలక్షయోజనేన।\nఅంభోధేహ్ కుహ రగతేన వర్ష్మణా త్వం, నిర్మగ్నం క్షితిధరనాథమున్నినేథ॥ 7 ॥",
+          "audioUrl": "/audio/dasakam27/sloka_7.mp3",
+          "driveUrl": "https://drive.google.com/file/d/18QSIWlqGbkrxnFOtSyrx0bEiuViTY2eU/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 8,
+          "text": "ఉన్మగ్మే ఝటితి తదా ధరాధరేంద్రే, నిర్మేథుర్-దృఢమిహ సమ్మదేన సర్వే ।\nఆవిశ్య ద్వితయగణేపి సర్పరాజే, వైవశ్యం పరిశమయన్నవీవృధస్తాన్ ॥ 8 ॥",
+          "audioUrl": "/audio/dasakam27/sloka_8.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1B6YVATOHFFd2ssbfFOXrlF6rgthUd63k/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 9,
+          "text": "ఉద్దామభ్రమణజవోన్నమద్గిరీంద్రన్య స్తైకస్థిరతరహస్తపంకజం త్వామ్ ।\nఅభ్రాంతే విధిగిరిశాదయః ప్రమోదాత్, ఉద్ర్భాంతా నునువురుపాత్తపుష్పవర్షాః ॥ 9 ॥",
+          "audioUrl": "/audio/dasakam27/sloka_9.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1yofqJvlwMbvq1oMT6TSb6OrJblHa3-CS/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 10,
+          "text": "దైత్యౌ ఘే భుజగముఖానిలేన తప్తే, తేనైవ త్రిదశకులేపి కించిదార్తే।\nకారుణ్యాత్ తవ కిల దేవ వారివాహాః ప్రావర్షన్నమరగణాన్న దైత్యసంఘాన్ ॥ 10 ॥",
+          "audioUrl": "/audio/dasakam27/sloka_10.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1HXVhrVgifLxIBO52bu9YlcpT-YYzWqWE/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 11,
+          "text": "ఉద్భ్రామ్యద్బహుతిమినక్రచక్రక్రవాలే, తత్రాబ్ధౌ చిరమథితే పి నిర్వికారే ।\nఏకస్త్వం కరయుగకృష్టసర్పరాజః సంరాజన్ పవనపురేశ! పాహి రోగాత్॥ 11 ॥",
+          "audioUrl": "/audio/dasakam27/sloka_11.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1Uh0-2PyWyeGI-3a5RBabfFoAxa7lLXFi/view?usp=drive_link"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "number": 28,
+      "title": "Dasakam 28: Churning of the Ocean (Samudra Manthan)",
+      "titleTelugu": "దశకం 28: క్షీరసాగర మథనము",
+      "summary": "The Devas and Asuras churning the Milk Ocean.",
+      "slokaCount": 10,
+      "slokas": [
+        {
+          "slokaNo": 1,
+          "text": "గరలం తరలానలం పురస్తాజ్జలధేరుద్విజగాల కాలకూటమ్ ।\nఅమరస్తుతివాదమోదనిఘ్నః గిరిశస్తన్నిపపౌ భవత్ప్రియార్థమ్ ॥ 1 ।",
+          "audioUrl": "/audio/dasakam28/sloka_1.mp3",
+          "driveUrl": "https://drive.google.com/file/d/10pMNYmOMILmCBn_FVcmrpooTSffNHiy6/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 2,
+          "text": "నమస్తే అస్తు భగవన్ విశ్వేశ్వరాయ మహాదేవాయ\nత్రయంబకాయ త్రిపురాంతకాయ త్రికాగ్నికాలాయ\nకాలాగ్ని రుద్రాయ నీలకంఠాయ మ్రుత్యుంజయాయ\nసర్వేశ్వరాయ సదాశివాయ శ్రీమన్ మహాదేవాయ నమః\n\nవిమథత్సు సురాసురేషు జాతా, సురభిస్తామృషిషు న్యధాస్త్రిధామన్! ।\nహయరత్నమభూదథేభరత్నం, ద్యుతరుశ్చాప్సరసస్ సురేషు తాని ॥ 2 ॥",
+          "audioUrl": "/audio/dasakam28/sloka_2.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1HxPLPbBgmj94t2EbEoyW-AebETnXBddU/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 3,
+          "text": "జగదీశ భవ త్పరా తదానీం, కమనీయా కమలా బభూవ దేవీ ।\nఅమలామవలోక్య యాం విలోలః సకలో పి స్పృహయాంబభూవ లోకః ॥ 3॥",
+          "audioUrl": "/audio/dasakam28/sloka_3.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1E8b0e8MLk6Di4ieXfvNf9I-uBZW4kr5q/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 4,
+          "text": "త్వయి ద త్తహృదే తదైవ దేవ్యై, త్రిదశేంద్రో మణిపీఠికాం వ్యతారీత్ ।\nసకలోపహృతాభిషేచనీయైః ఋషయస్తాం శ్రుతిగీర్భిరభ్యషించన్ ॥ 4 ॥",
+          "audioUrl": "/audio/dasakam28/sloka_4.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1lhc6LJhUmgcU2ZQ16e3U3ZpwHpVhos5w/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 5,
+          "text": "అభిషేకజలానుపాతిముగ్ధత్వదపాంగైరవభూషితాంగవల్లీమ్ ।\nమణికుండలపీతచేలహారప్రముఖైస్తామమరాదయో న్వభూషన్ ॥ 5॥",
+          "audioUrl": "/audio/dasakam28/sloka_5.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1ru40zqaOeaBkQVhFQ274is-T16cFKPRx/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 6,
+          "text": "వరణస్రజమాత్తభృంగనాదాం, దధతీ సాకుచకుంభమందయానా।\nపదశింజితమంజునూపురా-త్వాం, కలితవ్రీలవిలాసమాససాద ॥ 6 ॥",
+          "audioUrl": "/audio/dasakam28/sloka_6.mp3",
+          "driveUrl": "https://drive.google.com/file/d/19kBLpTrbfVyKVAQRbCcSWrZPLMD9T__u/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 7,
+          "text": "గిరిశద్రుహిణాదిసర్వదేవాన్, గుణభాజో ప్యవిముక్తదోషలేశాన్ ।\nఅవమృశ్య సదైవ సర్వరమ్యే, నిహితా త్వయ్యనయా పి దివ్యమాలా ॥ 7 ॥",
+          "audioUrl": "/audio/dasakam28/sloka_7.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1ia-WC6zc0yRMhzr41zZBMtYtm2BVfaz8/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 8,
+          "text": "ఉరసా తరసా మమానిథైనాం, భువనానాం జననీమనన్య భావామ్ ।\nత్వదురో విలసత్తదీక్షణ శ్రీ పరివృష్ట్యా పరిపుష్టమాస విశ్వమ్ ॥ 8 ॥",
+          "audioUrl": "/audio/dasakam28/sloka_8.mp3",
+          "driveUrl": "https://drive.google.com/file/d/124ctAmHVwCwcUhuH_P91hLLaJt3r-ycq/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 9,
+          "text": "అతిమోహనవిభ్రమా తదానీం, మదయంతీ ఖలు వారుణీ ని రాగాత్ ।\nతమసః పదవీమదాస్త్వ మేనామ్, అతిసమ్మాననయా మహాసురే భ్యః ॥ 9 ॥",
+          "audioUrl": "/audio/dasakam28/sloka_9.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1WDIqMA-74FhJz43Hn9dQ6B8GWOypmrUN/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 10,
+          "text": "తరుణాంబుదసుందరస్తదా త్వం, నను ధన్వంతరిరుత్థితోంబురాశేః ।\nఅమృతం కలశే వహన్ కరాభ్యాం, అఖిలార్తిం హర మారుతాలయేశ ॥10 ॥",
+          "audioUrl": "/audio/dasakam28/sloka_10.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1LTLmHhCrzUZEXmzEb-I8pwhBiCQcQBoX/view?usp=drive_link"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "number": 29,
+      "title": "Dasakam 29: Kurma & Mohini Avatars",
+      "titleTelugu": "దశకం 29: కూర్మ మోహినీ అవతారములు",
+      "summary": "Lord Kurma holding Mandara and Mohini distributing Amrita.",
+      "slokaCount": 10,
+      "slokas": [
+        {
+          "slokaNo": 1,
+          "text": "ఉద్గచ్ఛతస్తవ కరాద మృతం హరత్సు\nదైత్యేషు తా నశరణాననునీయ దేవాన్।\nసద్యస్తిరోదధిథ దేవ! భవత్ప్రభావాత్\nఉద్యత్స్వయూథ్య కలహా దితిజా బభూవుః ॥ 1 ॥",
+          "audioUrl": "/audio/dasakam29/sloka_1.mp3",
+          "driveUrl": "https://drive.google.com/file/d/152Sn4Ou3gBmKI1MMYePrgzqgA0W8dh7b/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 2,
+          "text": "శ్యామాం రుచాపి వయసాపి తనుం తదానీం\nప్రాప్తోసి తుంగకుచమండలభంగురాం త్వమ్ ।\nపీయూషకుంభకలహం పరిముచ్య సర్వే\nతృష్ణాకులాః ప్రతియయుస్త్వ దురోజకుంభే ॥ 2 ॥",
+          "audioUrl": "/audio/dasakam29/sloka_2.mp3",
+          "driveUrl": "https://drive.google.com/file/d/11cp378ps_4rvUwza3jETvUThSkMmTWpe/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 3,
+          "text": "కా త్వం మృగాక్షి! విభజస్వ సుధామిమామి-\nత్యారూఢ రాగవివశానభియాచతో మూన్ ।\nవిశ్వస్యతే మయి క థం కులటా స్మి దైత్యాః\nఇత్యాలపన్నపి సువి శ్వసితానతానీః ॥ 3 ॥",
+          "audioUrl": "/audio/dasakam29/sloka_3.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1G2WqT21zAyU3SQELcA7f9qXJR8tKyoWR/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 4,
+          "text": "మోదాత్సుధా కలశమేషు దద త్సు సా త్వం\nదుశ్చేష్టితం మమ సహధ్వమితి బ్రువాణా ।\nపంక్తిప్రభేదవినివేశితదేవదైత్యా\nలీలావిలాసగతిభిస్ సమదాస్సుధాం తామ్ ॥ 4 ॥",
+          "audioUrl": "/audio/dasakam29/sloka_4.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1DtzZonwRi3Z67YT16VzdHPTUP5CCOIsN/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 5,
+          "text": "అస్మాస్వియం ప్రణయినీత్యసురేషు తేషు\nజోషం స్థితేష్వథ సమాప్య సుధాం సురేషు ।\nత్వం భక్తలోకవశగో నిజ క్త రూపమేత్య\nస్వర్భానుమర్ధపరిపీతసుధం వ్యలావీః ॥ 5॥",
+          "audioUrl": "/audio/dasakam29/sloka_5.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1uB0yntSG9BPsimfTR06V1DpJXSltYywS/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 6,
+          "text": "త్వత్తస్సుధాహరణయోగ్యఫలం పరేషు\nదత్త్వా గతే త్వయి సురైహ్ ఖలు తే వ్యగృహ్ణన్ ।\nఘోరేథ మూర్ఛతి రణే బలిదైత్యమాయా-\nవ్యామోహితే సు రగణే త్వమిహావిరాసీః ॥ 6॥",
+          "audioUrl": "/audio/dasakam29/sloka_6.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1_s2wZ1AJcABB87KhgiY7pekS8Ff60lJQ/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 7,
+          "text": "త్వం కాలనేమిమథ మాలిముఖాన్-జఘంత్థ\nశక్రో- జఘాన బలిజంభబలాన్ సపాకాన్ ।\nశుష్కార్-ద్రదుష్కరవధే నముచౌచ లూనే\nఫేనేన నారదగిరా న్యరుణో రణం త్వమ్ ॥ 7 ॥",
+          "audioUrl": "/audio/dasakam29/sloka_7.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1pMRNthieUHbQH-f3QQAgZGIdcojJ33_e/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 8,
+          "text": "యోషావపుర్దనుజమోహనమాహితం తే\nశ్రుత్వా విలోకనకుతూహలవాన్ మహేశః ।\nభూతైస్సమం గిరిజయాచ గతః పదం తే\nస్తుత్వా బ్రవీదభిమతం త్వమథో తిరోధాః ॥ 8 ॥",
+          "audioUrl": "/audio/dasakam29/sloka_8.mp3",
+          "driveUrl": "https://drive.google.com/file/d/17ku3ncCIFwf8BYTIZJwFLew3Q1LxjX1P/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 9,
+          "text": "ఆరామసీమని-చ కందుకఘాతలీలా-\nలోలాయమాననయనాం కమనీం మనోజ్ఞామ్ ।\nత్వామేష వీక్ష్య విగలద్వసనాం మనోభూ-\nవేగాదనంగరిపురంగ! సమాలిలింగ ॥ 9 ॥",
+          "audioUrl": "/audio/dasakam29/sloka_9.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1UH8equICyv2bVXfTzA36EOj6vjrYWBz3/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 10,
+          "text": "భూయోపి వి ద్రుతవతీముపధావ్య దేవో\nవీర్య ప్రమోక్ష వికసత్పరమార్థబోధః ।\nత్వన్మానితస్తవ మహ త్త్వ మువాచ దేవ్యై\nతత్తాదృశస్త్వ మవ వాతనికేతనాథ! ॥ 10 ॥",
+          "audioUrl": "/audio/dasakam29/sloka_10.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1yLNvQBa_fDlnV4XRefGkKX17aQDHmvQo/view?usp=drive_link"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "number": 30,
+      "title": "Dasakam 30: Story of Vamana Avatar",
+      "titleTelugu": "దశకం 30: వామనావతారము",
+      "summary": "Appearance of Vamana at King Bali's sacrifice.",
+      "slokaCount": 10,
+      "slokas": [
+        {
+          "slokaNo": 1,
+          "text": "శక్రేణ సంయతి హతోపి బలిర్మహాత్మా\nశుక్రేణ జీవితతనుహ్ క్రతువ క్ర ర్ధితోష్మా ।\nవిక్రాం తిమాన్ భయనిలీ నసురాం త్రిలోకీం\nచక్రే వశే స తవ చక్రముక్ర ఖాదభీతః ॥ 1॥",
+          "audioUrl": "/audio/dasakam30/sloka_1.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1Yjyd4_7N6qn2Y_BKRRE8hEhNI8aATGoK/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 2,
+          "text": "పుత్రార్తిదర్శనవశాదదితిర్విషణ్ణా\nతం కాశ్యపం నిజపతిం శరణం ప్రపన్నా।\nత్వత్పూజనం తదుదితం హి పయోవ్రతాఖ్యం\nసా ద్వాదశాహమచరత్ త్వయి భక్తిపూర్ణా॥ 2 ॥",
+          "audioUrl": "/audio/dasakam30/sloka_2.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1B014BkgoO0L3vMRqY7SAqUheLEiPkCBr/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 3,
+          "text": "తస్యావధౌ త్వయి నిలీనమతేరముష్యాః\nశ్యామశ్చతుర్భుజవపుస్ స్వయమావిరాసీః ।\nనమ్రాం చ తామిహ భవత్తనయో భవేయం\nగోప్యం మదీక్షణమితి ప్రలపన్నయాసీః ॥ 3 ॥",
+          "audioUrl": "/audio/dasakam30/sloka_3.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1l_XOPCEH9er1J5AflPhXTGuDP3LpggZ1/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 4,
+          "text": "త్వం కాశ్యపే తపసి సన్నిదధత్ తదానీం\nప్రాప్తోసి గ ర్భమదితేః ప్రణుతో విధాత్రా।\nప్రాసూత చ ప్రకటవైష్ణవదివ్యరూపం\nసా ద్వాదశీశ్రవణ పు శ్ర ణ్యదినే భవంతమ్ ॥ 4 ॥",
+          "audioUrl": "/audio/dasakam30/sloka_4.mp3",
+          "driveUrl": "https://drive.google.com/file/d/120yWfO3EhBjB0idPuK1V96vTOBWd5yI3/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 5,
+          "text": "పుణ్యాశ్రమం శ్ర తమభివర్షతి పుష్పవర్షైః\nహర్షాకులే సురగణే కృతతూర్యఘోషే ।\nబద్ధ్వాం జలిం జయ జయేతి నుతః పితృభ్యాం\nత్వం తత్-క్షణే పటుతమం వటురూపమాధాః ॥ 5॥",
+          "audioUrl": "/audio/dasakam30/sloka_5.mp3",
+          "driveUrl": "https://drive.google.com/file/d/143SxELHqYYc7VGdoMKTRWDH2P3d-KL_b/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 6,
+          "text": "తావత్ప్రజాపతిముఖైరుపనీయ మౌం జీ-\nదండాజినాక్షవలయాదిభిరర్చ్యమానః ।\nదేదీప్యమానవపురీశ కృతాగ్నికార్యః\nత్వం ప్రాస్థిథా బలిగృహం ప్రకృతాశ్వమేధమ్ ॥ 6 ॥\n(పై శ్లోకం చదివిన ఎన్నో యజ్ఞములు చేసిన ఫలితము కలుగును)",
+          "audioUrl": "/audio/dasakam30/sloka_6.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1YFHkMT8bBd5qJcKGu9SFiq6ONIXIedxr/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 7,
+          "text": "గాత్రేణ భావిమహిమోచి తగౌరవం ప్రాక్\nవ్యావృణ్వతేవ ధ రణీం చలయన్నయాసీః ।\nఛత్రం పరోష్మతిరణార్థమివాదధానో\nదండం చ దానవజనేష్వివ సన్నిధాతుమ్ ॥ 7 ॥",
+          "audioUrl": "/audio/dasakam30/sloka_7.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1xKmbbV3X9-wIpkkdG1kl53Z-OIAgXRKD/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 8,
+          "text": "తాం నర్మదోత్తరతటే హయమేధశాలాం\nఆసేదుషి త్వయి రుచా తవ రుద్ధనేత్రైః ।\nభాస్వాన్ కిమేష దహనో ను సనత్కుమారో\nయోగీ ను కో యమితి శుక్రముక్ర ఖై శ్శశంకే॥ 8 ॥",
+          "audioUrl": "/audio/dasakam30/sloka_8.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1xXy1bZ1jN5A7f1ZoMoSgJok1OtuVOA_g/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 9,
+          "text": "ఆనీతమాశు భృగుభిర్మహసాభిభూతైః\nత్వాం రమ్యరూపమసురః పులకావృతాంగః ।\nభక్త్యా సమేత్య సుకృతీ పరినిత్య పాదౌ\nతత్తోయమన్వధృత మూర్ధని తీర్థతీర్థమ్ ॥ 9 ॥",
+          "audioUrl": "/audio/dasakam30/sloka_9.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1IHBzzMHAWHu0uw2IoRC85fjseu2Uzzxy/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 10,
+          "text": "ప్రహ్లాదవంశజతయా క్రతుభి క్ర ర్ద్విజేషు\nవిశ్వాసతో ను తదిదం దితిజోపి లేభే ।\nయత్తే పదాంబు గిరిశస్య శిరో భిలాల్యం\nసత్వం విభో! గురుపురాలయ పాలయేథాః ॥ 10 ॥",
+          "audioUrl": "/audio/dasakam30/sloka_10.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1PEubZ_XW4aSl_nEOZaOwaw8JGzJ340Pz/view?usp=drive_link"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "number": 31,
+      "title": "Dasakam 31: Trivikrama Avatar & King Bali",
+      "titleTelugu": "దశకం 31: త్రివిక్రమావతారము",
+      "summary": "Lord Trivikrama measuring the three worlds.",
+      "slokaCount": 10,
+      "slokas": [
+        {
+          "slokaNo": 1,
+          "text": "ప్రీత్యా దైత్యస్తవతనుమహః ప్రేక్షణాత్ సర్వథాపి\nత్వామారాధ్యన్నజిత! రచయన్నంజలిం సంజగాద ।\nమత్తహ్ కిం తే సమభిలషితం విప్రసూనో! వద త్వం\nవిత్తం భక్తం భవనమవనీం వాపి సర్వం ప్రదాస్యే ॥ 1 ॥",
+          "audioUrl": "/audio/dasakam31/sloka_1.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1R9lNZkSrtQcLyuOaLExyFhaD--8LSQPN/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 2,
+          "text": "తామక్షీణాం బలిగిరముపాకర్ణ్య కారుణ్యపూర్ణోపి\nఅస్యోత్సేకం శమయితుమనా దైత్యవంశం ప్రశంసన్ ।\nభూమిం పాదత్రయపరిమితాం ప్రార్థయామాసిథ త్వం\nసర్వం దేహీతి తు నిగదితే కస్య హాస్యం న వా స్యాత్ ॥ 2 ॥",
+          "audioUrl": "/audio/dasakam31/sloka_2.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1Xhn987izCDaAFvP3rVCVC7CsKfd789fa/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 3,
+          "text": "విశ్వేశం మాం త్రిపదమిహ కిం యాచసే బాలిశస్త్వం\nసర్వాం భూమిం వృణు కిమమునేత్యాలపత్ త్వాం స దృప్యన్ ।\nయస్మాద్దర్పాత్ త్రిపదపరిపూర్త్య క్షమహ క్షేపవాదాన్\nబంధం చాసావగమదతదర్హోపి గాఢోపశాంత్యై ॥ 3 ॥",
+          "audioUrl": "/audio/dasakam31/sloka_3.mp3",
+          "driveUrl": "https://drive.google.com/file/d/18nnQRjAR1-Xo41KWd-fMUN8Sxd6kf-4o/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 4,
+          "text": "పాదత్రయ్యా యది న ముదితో విష్టపైర్నాపి తుష్యేత్\nఇత్యుక్తేస్మిన్ వరద! భవతే దాతుకామే థ తోయమ్ ।\nదైత్యాచార్యస్తవ ఖలు పరీక్షార్థినః ప్రేరణాత్ తం\nమా మా దే యం హరిరయమితి వ్యక్తమేవాక్త బభాషే ॥ 4 ॥",
+          "audioUrl": "/audio/dasakam31/sloka_4.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1xlSVi6pVZCxVXm_v2eaaBHt_OZ0lKFmc/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 5,
+          "text": "యాచత్యేవం యది స భగవాన్ పూర్ణకామో స్మి సోహం\nదాస్యామ్యేవ స్థిరమితి వదన్ కావ్యశప్తోపి దైత్యః ।\nవింధ్యావల్యా నిజదయితయా దత్తపాద్యాయ తుభ్యం\nచిత్రం చిత్రం సకలమపి స ప్రార్పయత్ తోయపూర్వమ్ ॥ 5 ॥",
+          "audioUrl": "/audio/dasakam31/sloka_5.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1iOtHuozC6yMdL3nLtHfJxwuIrDE5p04R/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 6,
+          "text": "నిస్సందేహం దితికులపతౌ త్వయ్యశేషార్పణం తత్\nవ్యాతన్వానే ముముచుర్ ఋషయ స్సామరాః పుష్పవర్షమ్ ।\nదివ్యం రూపం తవ చ తదిదం పశ్యతాం విశ్వభాజామ్\nఉచ్చై రుచ్చైః అవృధదవధీకృత్య విశ్వాండభాండమ్ ॥ 6 ॥",
+          "audioUrl": "/audio/dasakam31/sloka_6.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1fbqSShnIUv4nOrIFMEF98AzziOmk6_0N/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 7,
+          "text": "త్వత్పాదాగ్రం నిజపదగతం పుండరీకోద్భవోసౌ\nకుండీతోయైః అసిచదపునాద్యజ్జలం విశ్వలోకాన్ ।\nహర్షోత్కర్షాత్ సు బహు ననృతే ఖేచరైరుత్సవే స్మిన్\nభేరీం నిఘ్నన్ భువనమచరజ్జాం బవాన్ భక్తిశాలీ ॥ 7॥",
+          "audioUrl": "/audio/dasakam31/sloka_7.mp3",
+          "driveUrl": "https://drive.google.com/file/d/12SfPhDWjV9u4CLhzofawGTjFzWCMlHlU/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 8,
+          "text": "తావద్దైత్యాస్త్వ నుమతిమృతే భ ర్తురారబ్ధయుద్ధాః\nదేవోపేతైర్భవదనుచరైస్సంగతా భంగమాపన్ ।\nకాలాత్మా యం వసతి పురతో యద్వశాత్ ప్రాగ్ జితాస్స్మః\nకిం వో యుద్ధైరితి బలిగిరా తేథ పాతాళమాపుః ॥ 8 ॥",
+          "audioUrl": "/audio/dasakam31/sloka_8.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1pCg_zkTuNyRJILATq-0Tm68r7WYB_GQD/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 9,
+          "text": "పాశైర్బశైర్బద్ధం పతగపతినా దైత్యముచ్చై రవాదీః\nతార్తీయీకం దిశ మమ పదం కిం న విశ్వేశ్వరో సి ।\nపాదం మూర్ధ్ని ప్రణయ భగవన్నిత్యకంపం వదంతం\nప్రహ్లాదస్తం స్వయముపగతో మానయన్నస్తవీత్త్వా మ్ ॥ 9 ॥",
+          "audioUrl": "/audio/dasakam31/sloka_9.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1_avS3Zy1QvBoP4zE4tITvIeOTR1oP1UP/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 10,
+          "text": "దర్పోచ్ఛిత్యై విహితమఖిలం దైత్య! సిద్ధో సి పుణ్యైః\nలోకస్తేస్తు త్రిదివవిజయీ వాసవత్వం చ పశ్చాత్ ।\nమత్సాయుజ్యం భజ చ పునరిత్యన్వగృహ్ణా బలిం తమ్\nవిప్రైస్సం ప్రై తానితమఖవరః పాహి వాతాలయేశ! ॥ 10 ॥",
+          "audioUrl": "/audio/dasakam31/sloka_10.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1RjoYw7D9TZxVYRQPz2uF2ege3JgVBN18/view?usp=drive_link"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "number": 32,
+      "title": "Dasakam 32: Matsya Avatar",
+      "titleTelugu": "దశకం 32: మత్స్యావతారము",
+      "summary": "Lord Matsya saving King Satyavrata and the Vedas.",
+      "slokaCount": 10,
+      "slokas": [
+        {
+          "slokaNo": 1,
+          "text": "పురా హయగ్రీవమహాసురేణ, షష్ఠాంతరాంతోద్యదకాండకల్పే ।\nనిద్రోన్ముఖబ్రహ్మముఖాద్ హృతేషు, వేదేష్వధిత్సహ్ కిల మత్స్యరూపమ్ ॥ 1 ॥",
+          "audioUrl": "/audio/dasakam32/sloka_1.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1RGFKicHbFzv3SwGqrKE_DCujkN51YPWc/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 2,
+          "text": "సత్యవ్రతస్య ద్రమిళాధిభర్తుః నదీజలే తర్పయతస్తదానీమ్\nకరాంజలౌ సంజ్వలితాకృతిస్త్వ మ్, అదృశ్యథాహ్ కశ్చన బాలమీనః ॥ 2 ॥",
+          "audioUrl": "/audio/dasakam32/sloka_2.mp3",
+          "driveUrl": "https://drive.google.com/file/d/18jvLUiJvmSSPfg8srBL7YKjdfzCMy2hZ/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 3,
+          "text": "క్షిప్తం జలే త్వాం చకితం విలోక్య, నిన్యేంబుపాత్రేణ మునిస్ స్వగేహమ్ ।\nస్వల్పైరహోభిహ్ కల శీంచ కూపం, వాపీం సరశ్చానశిషే విభో! త్వమ్ ॥ ॥ ౩",
+          "audioUrl": "/audio/dasakam32/sloka_3.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1lHSuMMvCyR6J8zVT71kLibmIox5BWNjD/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 4,
+          "text": "యోగప్రభావాత్ భవదాజ్ఞయైవ, నీతస్తతస్త్వం మునినా పయోధిమ్ ।\nపృష్టోమునా కల్పదిదృక్షుమేనం, సప్తాహమాస్స్వేతి వదన్నయాసీః॥ 4 ॥",
+          "audioUrl": "/audio/dasakam32/sloka_4.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1yVPOe52Gm55Hbb8ql5XshShhEyFoN1sx/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 5,
+          "text": "ప్రాప్తే త్వదుక్తేహని వారిధారాపరిఫ్లుతే భూమితలే మునీంద్రః ।\nసప్తర్షిభిస్ సార్థమపారవారిణి, ఉద్ఘూర్ణమాన శ్శరణం యయౌ త్వామ్ ॥ 5 ॥",
+          "audioUrl": "/audio/dasakam32/sloka_5.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1faxYVZ0JvNDFOn5gqXBIBIXUTdAp9P6b/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 6,
+          "text": "ధరాం త్వదాదేశకరీమవాప్తాం , నౌరూపిణీమారురుహుస్తదా తే ।\nతత్కంపకంప్రేషు చ తేషు భూయః త్వమంబుధేరావిరభూర్మహీయాన్ ॥ 6 ॥",
+          "audioUrl": "/audio/dasakam32/sloka_6.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1L028Ul-wVjpd986WM-YDtK8JqZTIyQMV/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 7,
+          "text": "ఝషాకృతిం యోజనలక్షదీర్ఘాం , దధానముచ్చై స్తరతేజసం త్వామ్ ।\nనిరీక్ష్య తుష్టామునయస్త్వ దుక్త్యా , త్వత్తుం గశృంగే తరణిం బబంధుః ॥ 7 ॥",
+          "audioUrl": "/audio/dasakam32/sloka_7.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1TtOFD8C3nSFH_zw-_Iy6G7PgdtANBbGU/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 8,
+          "text": "ఆకృష్టనౌకో మునిమండలాయ, ప్రదర్శయన్ వి శ్వజగద్విభాగాన్ ।\nసంస్తూయమానో నృవరేణ తేన, జ్ఞానం పరం చోపదిశన్నచారీః ॥ 8 ॥",
+          "audioUrl": "/audio/dasakam32/sloka_8.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1QR1L7qngETldlgcoAH94ULvofb97pcUr/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 9,
+          "text": "కల్పావధౌ సప్త మునీన్ పురోవత్, ప్రస్థాప్య సత్యవ్రతభూమిపం తమ్ ।\nవైవస్వతాఖ్యం మనుమాదధానః క్రోధాద్ధయగ్రీవమభిద్రుతో భూః ॥ 9 ॥",
+          "audioUrl": "/audio/dasakam32/sloka_9.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1Qo27EtBDw-BjoZgFc6sOezJq8Xd_ild4/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 10,
+          "text": "స్వతుంగశృంగక్షతవక్షసం తం, నిపాత్య దైత్యం నిగమాన్ గృహీత్వా!\nవిరించయే ప్రీతహృదే దదానః ప్రభంజనాగారపతే! ప్రపాయాః ॥ 10 ॥",
+          "audioUrl": "/audio/dasakam32/sloka_10.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1vWjY_9anwGFWD75T1U1xHld9VuRx1gaJ/view?usp=drive_link"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "number": 33,
+      "title": "Dasakam 33: Story of Ambarisha & Durvasa",
+      "titleTelugu": "దశకం 33: అంబరీష చరిత్ర",
+      "summary": "King Ambarisha's Ekadashi vow and protection by Sudarshana Chakra.",
+      "slokaCount": 12,
+      "slokas": [
+        {
+          "slokaNo": 1,
+          "text": "వైవస్వతాఖ్యమనుపుత్రనభాగజాత-\nనాభాగనామకనరేంద్రసుతోంబరీషః ।\nసప్తార్ణవావృతమహీదయితో పి రేమే\nత్వత్సంగిషు త్వయి చ మగ్నమనాస్సదైవ ॥ 1॥",
+          "audioUrl": "/audio/dasakam33/sloka_1.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1FVBnFthSi5B1a_IaRZqNcqQYK_6bLaw3/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 2,
+          "text": "త్వత్ప్రీతయే సకలమేవ వితన్వతో స్య\nభక్త్యై వ దేవ న చిరాదభృథాః ప్రసాదమ్ ।\nయేనాస్య యాచనమృతే ప్యభిరక్షణార్థం\nచక్రం భవాన్ ప్రవితతార సహస్రధారమ్ ॥ 2 ॥",
+          "audioUrl": "/audio/dasakam33/sloka_2.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1cJfesTIPp0Ce8bV9S9X3cKUtf_q_o9o4/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 3,
+          "text": "స ద్వాదశీవ్రతమథో భవదర్చనార్థం\nవర్షం దధౌ మధువనే యమునోపకంఠే ।\nపత్న్యా సమం సుమనసా మహతీం వితన్వన్\nపూజాం ద్విజేషు విసృజన్ పశుషష్టికోటిమ్ ॥ 3 ॥",
+          "audioUrl": "/audio/dasakam33/sloka_3.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1_ZLaOULnTxrcp8L7P29n68dCDUWz0DuX/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 4,
+          "text": "తత్రాథ పారణదినే భవదర్చనాంతే\nదుర్వాససాస్య మునినా భవనం ప్రపేదే ।\nభోక్తుం వృతశ్చ స నృపేణ పరార్తిశీలో\nమందం జగామ యమునాం నియమాన్ విధాస్యన్ ॥ 4 ॥",
+          "audioUrl": "/audio/dasakam33/sloka_4.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1fX8PEOrYtf0Qzp15ywpcExv_I9eJ5cxW/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 5,
+          "text": "రాజ్ఞాథ పారణముహూర్తసమాప్తిఖేదాద్\nవారైవ పారణమకారి భవత్పరేణ ।\nప్రాప్తో మునిస్తదథ దివ్యదృశా విజానన్\nక్షిప్యన్ క్రుధోద్ధృతజటో వితతాన కృత్యామ్ ॥ 5 ॥",
+          "audioUrl": "/audio/dasakam33/sloka_5.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1EPac2tAm2gw2VPpIGJ4PQ726IJcsX8_S/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 6,
+          "text": "కృత్యాం చ తామసిధరాం భువనం దహంతీం\nఅగ్రేభివీక్ష్య నృపతిర్న పదాచ్చకం పే ।\nత్వద్భక్తబాధమభి క్త వీక్ష్య సుదర్శనం తే\nకృత్యానలం శలభయన్మునిమన్వధావీత్ ॥ 6॥",
+          "audioUrl": "/audio/dasakam33/sloka_6.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1ns7KaLsHc7ZabU-djUQZ10LMPjOXHjWZ/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 7,
+          "text": "ధావన్నశేషభువనేషు భియా స పశ్యన్\nవిశ్వత్రచక్రమపి తే గ క్ర తవాన్ విరించమ్ ।\nకహ్ కాలచక్రమక్ర తిలంఘయతీత్యపాస్తః\nశర్వం యయౌ స చ భవంతమవందతైవ ॥ 7 ॥",
+          "audioUrl": "/audio/dasakam33/sloka_7.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1wNwto5jPz4Ewa9mLT4VKWbsqHBLqA_yL/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 8,
+          "text": "భూయో భవ న్నిలయమేత్య మునిం నమంతం\nప్రోచే భవానహమృషే నను భక్తదాక్త సః ।\nజ్ఞానం తపశ్చ వినయాన్వితమేవ మాన్యం\nయాహ్యంబరీషపదమేవ భ జేతి భూమన్ ! ॥ 8॥",
+          "audioUrl": "/audio/dasakam33/sloka_8.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1ViUjeYUe1uLCFpQeb1sVpjYA1xp8Y6Ie/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 9,
+          "text": "తావత్ సమేత్య మునినా స గృహీతపాదో\nరాజా పసృత్య భవదస్త్రమస్త్ర సావనౌషీత్ ।\nచక్రే గతే మునిరదాదఖిలాశిషో స్మై\nత్వద్భక్తిమాగసి కృతేపి కృపాం చ శంసన్ ॥ 9 ॥",
+          "audioUrl": "/audio/dasakam33/sloka_9.mp3",
+          "driveUrl": "https://drive.google.com/file/d/14DfPE5wp8QKaMsZhOdPQIkIIfl8HBsPe/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 10,
+          "text": "రాజా ప్రతీక్ష్య మునిమేకసమామనాశ్వాన్\nసంభోజ్య సాధు తమృషిం విసృజన్ ప్రసన్నమ్ ।\nభుక్త్వా స్వయం త్వయి తతోపి దృఢం రతోభూత్\nసాయుజ్యమాప చ సమాం పవనేశ! పాయాః ॥ 10 ॥",
+          "audioUrl": "/audio/dasakam33/sloka_10.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1mHt2XcXkkYBs2iXl3hXyzdyRxXhQr5S8/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 11,
+          "text": "చక్రే గతే మునిరదాదఖిలాశిషో స్మై",
+          "audioUrl": "",
+          "driveUrl": ""
+        },
+        {
+          "slokaNo": 12,
+          "text": "త్వద్భక్తిమాగసి కృతేపి కృపాం చ శంసన్ ॥ 9 ॥",
+          "audioUrl": "",
+          "driveUrl": ""
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "number": 34,
+      "title": "Dasakam 34: Solar Dynasty & Bhagiratha",
+      "titleTelugu": "దశకం 34: సూర్యవంశ వర్ణనము",
+      "summary": "Ancestors of Lord Rama and Bhagiratha bringing Ganga.",
+      "slokaCount": 10,
+      "slokas": [
+        {
+          "slokaNo": 1,
+          "text": "గీర్వాణైరర్థ్యమానో దశముఖనిధ నం కోసలేష్వృష్యశృంగే\nపుత్రీయామిష్టిమిష్ట్వా దదుషి దశరథక్ష్మాభృతే పాయసాగ్ర్య మ్ ।\nతద్భుక్త్యా తత్పురంధ్రీష్వపి తిసృషు సమం జాతగర్భాసు జాతః\nరామస్త్వం లక్ష్మణేన స్వయమథ భరతేనాపి శత్రుఘ్ననామ్నా ॥ 1 ।",
+          "audioUrl": "/audio/dasakam34/sloka_1.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1ppCC2d6NDXNoKTbgOSB_nZWQje-dfGsR/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 2,
+          "text": "కోదండీ కౌశికస్య క్రతువ క్ర రమవితుం లక్ష్మణేనానుయాతః\nయాతో భూస్తాత వాచా మునికథితమనుద్వంద్వశాంతాధ్వఖేదః ।\nనౄ ణాం త్రాణాయ బాణైర్మునివచనబలాత్ తాటకాం పాటయిత్వా\nలబ్ధ్వా స్మాదస్త్రజాస్త్రలం మునివనమగమో దేవ సిద్ధాశ్రమాశ్ర ఖ్యమ్ ॥ 2 ॥",
+          "audioUrl": "/audio/dasakam34/sloka_2.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1G6TPVI7JT9K6lZaZZY-ViNRiYq8lfcCK/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 3,
+          "text": "మారీచం ద్రావయిత్వా మఖశిరసి శరైరన్యరక్షాంసి నిఘ్నన్\nకల్యాం కుర్వన్నహల్యాం పథి పదరజసా ప్రాప్య వైదేహగేహమ్ ।\nభిందానశ్చాంద్రచూడం ధనురవనిసుతామిందిరామేవ లబ్ధ్వా\nరాజ్యం ప్రాతిష్ఠథాస్త్వం త్రిభిరపి చ సమం భ్రాతృవీరైస్సదారైః ॥ 3 ॥",
+          "audioUrl": "/audio/dasakam34/sloka_3.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1sU0GASvdI4Nka_1HSft66XAk9j57kAX9/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 4,
+          "text": "ఆరుంధానే రుషాంధే భృగుకులతిలకే సంక్రమక్ర య్య స్వతేజః\nయాతే యాతో స్యయోధ్యాం సుఖమిహ నివసన్ కాంతయా కాంతమూర్తే।\nశత్రుఘ్నే నైకదా థో గ తవతి భరతే మాతులస్యాధివాసం\nతాతారబ్ధో భిషేకస్తవ కిల విహతహ్ కేకయాధీశపుత్ర్యా ॥ 4 ॥",
+          "audioUrl": "/audio/dasakam34/sloka_4.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1OwZIPsqWB5CDWm5FD2W35bj3PHIzfSGd/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 5,
+          "text": "తాతోక్త్యా యాతుకామో వనమనుజవధూసంయుతశ్చాపధారః\nపౌరానారుధ్య మార్గేగుహనిలయగతః త్వం జటాచీరధారీ ।\nనావా సంతీర్య గంగామధిపదవిపునస్తం భరద్వాజమారాత్\nనత్వా తద్వాక్యహేతోరతిసుఖమవసచ్చిత్రకూటే గిరీంద్రే॥ 5 ॥",
+          "audioUrl": "/audio/dasakam34/sloka_5.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1eHs04G3Y0Xyqj-1DOHL8xamN-QBQNNNE/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 6,
+          "text": "శ్రుత్వా పుత్రార్తిఖిన్నం ఖలు భరతముఖాత్ స్వర్గయాతం స్వతాతం\nతప్తో దత్వాంబు తస్మై నిదధిథ భరతే పాదుకాం మేదినీం చ ।\nఅత్రిం నత్వా థ గత్వా వనమతివిపులం దండకం చండకాయం\nహత్వా దైత్యం విరాధం సుగతిమకలయశ్చారు భో! శ్శారభంగీమ్ ॥ 6 ॥",
+          "audioUrl": "/audio/dasakam34/sloka_6.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1dIuEW47_7C2ZgPaxx9Y8CZ7bfRO2UM5p/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 7,
+          "text": "నత్వాగస్త్యం సమస్తాశరనికరసపత్రాకృతిం తాపసేభ్యః\nప్రత్యశ్రౌషీః శ్రౌ ప్రియైషీ తదను చ మునినా వైష్ణవే దివ్యచాపే ।\nబ్రహ్మాస్త్రే చాపి దత్తేపథి పితృసుహృదం వీక్ష్య భూయో జటాయుం\nమోదాద్గోదాతటాంతే పరిరమసి పురా పంచవట్యాం వధూట్యా ॥ 7 ॥",
+          "audioUrl": "/audio/dasakam34/sloka_7.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1qtPiKR1Yv0_-eqtyrhxTpJ0ihJ2TJozx/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 8,
+          "text": "ప్రాప్తాయా శ్శూర్పణఖ్యా మదనచలధృతేర్ అర్థనైర్ నిస్సహాత్మా\nతాం సౌమిత్రౌ విసృజ్య ప్రబలతమరుషా తేన నిర్లూననాసామ్ ।\nదృష్ట్వైనాం రుష్టచిత్తం ఖరమభిపతితం దూషణం చ త్రిమూర్ధం\nవ్యామింసీరాశరానప్యయుతసమధికాంస్తత్ క్ష ణాదక్షతోష్మా ॥ 8 ॥",
+          "audioUrl": "/audio/dasakam34/sloka_8.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1u3Cdl_y0Gwwam9BknN4OXdrQmZBoUAgj/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 9,
+          "text": "సోదర్యా ప్రోక్త వార్తావివశ దశముఖాదిష్టమారీచమాయా-\nసారంగం సారసాక్ష్యా స్పృహితమనుగతః ప్రావధీర్బా ణఘాతమ్ ।\nతన్మాయాక్రం దనిర్యాపిత భవదనుజాం రావణస్తామహార్షీత్\nతేనార్తోపి త్వమంతహ్ కిమపి ముదమధాః తద్వధోపాయలాభాత్ ॥ 9 ॥",
+          "audioUrl": "/audio/dasakam34/sloka_9.mp3",
+          "driveUrl": "https://drive.google.com/file/d/14BURdycV3eurfewUTSBW0GME-71NVSGD/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 10,
+          "text": "భూయస్తన్వీం విచిన్వన్నహృత దశముఖః త్వద్వధూం మద్వధేనే తి\nఉక్త్వా యాతే జటాయౌ దివమథ సుహృదః ప్రాతనోః ప్రేతకార్యమ్ ।\nగృహ్ణానం తం కబంధం జఘనిథ శబరీం ప్రేక్ష్య పంపాతటే త్వం\nసంప్రాప్తో వాతసూనుం భృశముదితమనాః పాహి వాతాలయేశ! ॥ 10 ॥",
+          "audioUrl": "/audio/dasakam34/sloka_10.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1FbMOhnTt_sqzSm-22bjMdeAVg5YEn0y6/view?usp=drive_link"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "number": 35,
+      "title": "Dasakam 35: Sri Rama Avatar - Early Life",
+      "titleTelugu": "దశకం 35: శ్రీరామావతారము (బాలకాండ)",
+      "summary": "Incarnation of Sri Rama and protection of Vishvamitra's yajna.",
+      "slokaCount": 10,
+      "slokas": [
+        {
+          "slokaNo": 1,
+          "text": "నీతస్సుగ్రీవమైత్రీం తదను హనుమతా దుందుభేః కాయముచ్చైః\nక్షిప్త్వాం గుష్ఠేన భూయో లులువిథ యుగపత్ పత్రిణా సప్తసాలాన్।\nహత్వా సుగ్రీవఘాతోద్యతమతులబలం వాలినం వ్యాజవృత్త్యా\nవర్షావేలామనైషీః విరహతరలితస్త్వం మతంగాశ్రమాం శ్ర తే ॥ 1 ॥",
+          "audioUrl": "",
+          "driveUrl": ""
+        },
+        {
+          "slokaNo": 2,
+          "text": "సుగ్రీవేణానుజోక్త్యా సభయమభియతా వ్యూ హితాం వాహినీం తాం\nఋక్షాణాం వీక్ష్య దిక్షు ద్రుతమథ దయితామార్గణాయావనమ్రామ్ ।\nసందేశం చాంగులీయం పవనసుతకరే ప్రాదిశో మోదశాలీ\nమార్గే మార్గేమమార్గేకపిభిరపి తదా త్వత్ ప్రియా సప్రయాసైః ॥ 2 ॥",
+          "audioUrl": "/audio/dasakam35/sloka_2.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1tCPjkUoV273lzOdgAzw0yhgrG_N3i22_/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 3,
+          "text": "త్వద్-వార్తాకర్ణనోద్యద్గరుదురుజవసంపాతిసంపాతివాక్య-\nప్రోత్తీర్ణార్ ణో ధిరంతర్ నగరి జనకజాం వీక్ష్య దత్త్వాం గుళీయమ్ ।\nప్రక్షుద్యోద్యానమక్షక్షపణచణరణః సోఢబంధో దశాస్యం\nదృష్ట్వా ఫ్లుష్ట్వా చ లంకాం ఝటితి స హనుమాన్ మౌళిరత్నం దదౌ తే ॥ 3॥\n[పై శ్లోకము సుందరకాండ సారాంశము]",
+          "audioUrl": "/audio/dasakam35/sloka_3.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1tdN3wFfYtiZ3GSfinLcDsITy_Z8JYUMt/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 4,
+          "text": "త్వం సుగ్రీవాంగదాదిప్రబలకపిచమూచక్రవిక్రక్రాం తభూమీ\nచక్రోభిక్రమ్య క్ర పారే జలధి నిశిచరేంద్రానుజా శ్రీయమాణః ।\nతత్ప్రోక్తాం శత్రువార్తాం రహసి నిశమయన్ ప్రార్థనాపార్థ్యరోష-\nప్రాస్తాగ్నేయాస్త్రతేజస్త్రసదుదధిగిరా లబ్ధవాన్ మధ్య మార్గమ్ ॥ 4 ॥",
+          "audioUrl": "/audio/dasakam35/sloka_4.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1opLPSftwPWo71U6FdkCmnvUgSEfINz6S/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 5,
+          "text": "కీశైరాశై శాంతరోపాహృతగిరినికరైస్ సేతుమాధా ప్య యాతః\nయాతూన్యామర్ద్య దంష్ట్రానఖశిఖరిశిలాసాలశస్త్రైస్ స్వసైన్యైః ।\nవ్యాకుర్వన్ సానుజస్త్వం సమరభువి పరం విక్రమం క్ర శక్రజేక్రత్రా\nవేగాన్నాగాస్త్రబద్ధః పతగపతిగరున్మారుతైర్మోచితో భూః ॥ 5 ।",
+          "audioUrl": "/audio/dasakam35/sloka_5.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1DffA1AWn52Tyjn_Wdyc5qyK_oqVzKya2/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 6,
+          "text": "సౌమిత్రిస్త్వ త్ర శక్తిప్రహృతిగలదసుర్వాతజానీతశైలశై-\nఘ్రాణాత్ ప్రాణానుపేతో వ్యకృణుత కుసృతిశ్లాఘినం మేఘనాదమ్ ।\nమాయాక్షోభేషు వైభీషణవచనహృతస్తం భనహ్ కుంభకర్ణం\nసంప్రాప్తం కంపితోర్వీతలమఖిలచమూభక్షిణం వ్యక్షిణోస్త్వ మ్ ॥ 6॥",
+          "audioUrl": "/audio/dasakam35/sloka_6.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1G8jOT8RieWLu_8Hjf7cCrSm5HgZjmdVP/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 7,
+          "text": "గృహ్ణన్ జంభారిసంష్రేషితరథకవచౌ రావణేనాభియుధ్యన్\nబ్రహ్మాస్త్రేణాస్య భిందన్ గళతతిమబలామగ్నిశుద్ధాం ప్రగృహ్ణన్ ।\nదేవశ్రేణీవరోజ్జీవితసమరమృతైరక్షతైఋక్షసంఘైః\nలంకాభర్త్రాచ సాకం నిజనగరమగా స్సప్రియః పుష్పకేణ ॥ 7॥",
+          "audioUrl": "/audio/dasakam35/sloka_7.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1dWAwVYe5OWk9WHIwb4zUFJFqCQYWoRFh/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 8,
+          "text": "ప్రీతోప్రీ దివ్యాభిషేకైః అయుతసమధికాన్ వత్సరాన్ పర్యరంసీః\nమైథిల్యాం పాపవాచా శివ శివ కిల తాం గర్భిణీమభ్యహాసీః ।\nశత్రుఘ్నే నార్దయిత్వా లవణనిశిచరం ప్రార్దయశ్శూద్రపాశం\nతావద్వాల్మీకిగేహే కృతవసతిరుపాసూత సీతాసుతౌతే ॥ 8॥",
+          "audioUrl": "/audio/dasakam35/sloka_8.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1K8VCQDqEHwLm4JgSFIF5SG_Gi5Eje1yf/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 9,
+          "text": "వాల్మీకేస్ త్వత్సుతోద్గాపితమధురకృతేరాజ్ఞయా య జ్ఞవాటే\nసీతాం త్వయ్యాప్తుకామే క్షితిమవిశదసౌ త్వం చ కాలార్థితో భూః ।\nహేతోస్ సౌమిత్రిఘాతీ స్వయమథ సరయూమగ్ననిశ్శేషభృత్యైః\nసాకం నాకం ప్రయాతో నిజపదమగమో దేవ! వైకుంఠమాద్యమ్ ॥ 9 ॥",
+          "audioUrl": "/audio/dasakam35/sloka_9.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1UUstf4lZk9hzse8BYXKzDf3UcL8vzOx3/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 10,
+          "text": "సోయం మర్త్యా వతారః తవ ఖలు నియ తం మర్త్య శిక్షార్థమేవం\nవిశ్లేషార్తిర్ నిరాగః త్యజనమపి భవేత్ కామధ ర్మాతిసక్త్యా ।\nనోచేత్స్వాత్మానుభూతేః క్వ ను తవ మనసో విక్రియా చక్రపాక్ర ణే!\nస త్వం సత్వైకమూర్తే! పవనపురపతే! వ్యాధును వ్యాధితాపాన్ ॥ 10 ॥\n(పై పంక్తిని 2 సార్లు చదవవలెను)",
+          "audioUrl": "/audio/dasakam35/sloka_10.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1lUTISHGw-gAXpbgi0IV-kkVIf_cHGdZJ/view?usp=drive_link"
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "number": 36,
+      "title": "Dasakam 36: Sri Rama Avatar - Exile & Ravana Vadha",
+      "titleTelugu": "దశకం 36: శ్రీరామావతారము (వనవాసము & రావణవధ)",
+      "summary": "Forest exile, Sita's abduction, and victory over Ravana.",
+      "slokaCount": 11,
+      "slokas": [
+        {
+          "slokaNo": 1,
+          "text": "అత్రేః పుత్రతయా పురా త్వమనసూయాయాం హి దత్తాభిధో\nజాతశ్శిష్యనిబంధతంద్రితమనాః స్వస్థశ్చరన్ కాంతయా।\nదృష్టో భక్తతక్తమేన హైహయమహీపాలేన తస్మై వరాన్\nఅష్టైశ్వష్టై ర్యముఖాన్ ప్రదాయ దదిథ స్వేనైవ చాంతే వధమ్ ॥ 1 ॥",
+          "audioUrl": "/audio/dasakam36/sloka_1.mp3",
+          "driveUrl": "https://drive.google.com/file/d/12JdnmfLDzHT9etmu2eIvtXOioPxaLcVD/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 2,
+          "text": "సత్యం కర్తుమథార్జునస్య చ వరం తచ్ఛక్తిమాత్రానతం\nబ్రహ్మద్వేషి తదాఖిలం నృపకులం హంతుం చ భూమేర్భరమ్ ।\nసంజాతో జమద గ్నితో భృగుకులే త్వం రేణుకాయాం హరే!\nరామో నామ తదాత్మజేష్వవరజః పిత్రోరధాస్సమ్మదమ్ ॥ 2 ॥",
+          "audioUrl": "/audio/dasakam36/sloka_2.mp3",
+          "driveUrl": "https://drive.google.com/file/d/14E16zmp-4I4zHorB7NaKW0pQivTRYm8_/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 3,
+          "text": "లబ్ధామ్నాయగణశ్చతుర్దశవయా గంధర్వరాజే మనాక్\nఆసక్తాం కిల మాతరం ప్రతి పితుః క్రోధాకులస్యాజ్ఞయా ।\nతాతాజ్ఞాతిగసోదరైః సమమిమాం ఛిత్త్వా థ శాంతాత్పితుః\nతేషాం జీవనయోగమాపిథ వరం మాతా చ తే దాద్వరాన్ ॥ 3 ॥",
+          "audioUrl": "/audio/dasakam36/sloka_3.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1v1DF6rqDHG_ZKNi3CxIOXbLCi4VCWahu/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 4,
+          "text": "పిత్రా మాతృముదేస్తవాహృత వియద్ధేనోర్నిజాదాశ్రమాత్ శ్ర\nప్రస్థాయాథ భృగోర్గిరా హిమగిరౌఆరాధ్య గౌరీపతిమ్ ।\nలబ్ధ్వా తత్పరశుం తదుక్తదనుజ క్త చ్ఛేదీ మహాస్త్రాదికం\nప్రాప్తో మిత్రమథాకృతవ్రణమునిం ప్రాప్యాగమస్స్వాశ్రమమ్శ్ర ॥ 4 ॥",
+          "audioUrl": "/audio/dasakam36/sloka_4.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1KbTFAuGyfdsSxt7Fqp9NqW7bY2B8jDwk/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 5,
+          "text": "ఆఖేటోపగతోర్జునస్ సు రగవీసంప్రాప్తసంపద్గణైః\nత్వత్పిత్రా పరిపూజితః పురగతో దుర్మంత్రివాచా పునః ।\nగాం క్రేతుం సచివం న్యయుంక్త కుధియా తేనాపి రుంధన్ముని-\nప్రాణక్షేపసరోషగోహతచమూచక్రేణ వ త్సో హృతః ॥ 5 ॥",
+          "audioUrl": "/audio/dasakam36/sloka_5.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1DQdvGsuz139IKRg6AT5DUej1evGiKSqY/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 6,
+          "text": "శుక్రోజ్జీవితతాతవాక్యచలితక్రోధో థ సఖ్యా సమం\nబిభ్రద్ధ్యా తమహోదరోపనిహితం చాపం కుఠారం శరాన్ I\nఆరూఢస్సహవాహ యంతృకరథం మాహిష్మతీమావిశన్\nవాగ్భిర్వత్సమదాశుషి క్షితిపతౌ సంప్రాస్తుథాస్ సంగరమ్ ॥ 6 ॥",
+          "audioUrl": "/audio/dasakam36/sloka_6.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1g8UMFiXHx-5nIz79Swxxb_4uUMOfKGCV/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 7,
+          "text": "పుత్రాణామయుతేన సప్తదశభిశ్చాక్షౌహిణీభిర్మహా-\nసేనానీభిరనేకమిత్రనివ హైర్వ్యాజృంభితాయోధనః ।\nసద్యస్త్వ త్కకుఠారబాణవిదలన్నిశ్శేషసైన్యోత్కరో\nభీతిప్రదృతనష్టశిష్టతనయః త్వామాపతద్ధేహయః ॥ 7 ॥",
+          "audioUrl": "/audio/dasakam36/sloka_7.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1KjM-7TdpXopIX5MLkWrZzg-Bs8RKE--S/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 8,
+          "text": "లీలావారితనర్మదాజలవలల్లంకేశగర్వాపహ-\nశ్రీమద్బా హుసహస్రముక్తబక్తహుశస్త్రాస్త్రం నిరుంధన్నముమ్ ।\nచక్రే త్వయ్యథ వైష్ణవే పి విఫలే బుద్ద్వా హరిం త్వాం ముదా\nధ్యాయంతం ఛితసర్వదోషమవధీః సో-గాత్ పరం తే పదమ్ ॥ 8 ॥",
+          "audioUrl": "/audio/dasakam36/sloka_8.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1x-KHHDmEdo7Drp5XdT78_T-9UXmZun9Z/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 9,
+          "text": "భూయో మ ర్షితహైహయాత్మజగణైస్తాతే హతే రేణుకాం\nఆఘ్నానాం హృదయం నిరీక్ష్య బహుశో ఘోరాం ప్రతిజ్ఞాం వహన్ ।\nధ్యానానీతరథాయుధస్త్వ మకృథా వి ప్రద్రుహహ క్షత్రియాన్\nదిక్చక్రేషు కు ఠారయన్ విశిఖయన్ నిహిక్షత్రియాం మేదినీమ్ ॥ 9 ॥",
+          "audioUrl": "/audio/dasakam36/sloka_9.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1-f0UvIG-GxDCShsoKKkoOKeTEDI9_hmI/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 10,
+          "text": "తాతోజ్జీవనకృన్నృపాలకకులం త్రిస్సప్తకృత్వో జయన్\nసంతర్ప్యాథ సమంతపంచకమహారక్తహ్రదౌఘే పితౄ న్ ।\nయజ్ఞే క్ష్మామపి కాశ్యపాదిషు దిశన్ సాల్వేన యుధ్యన్ పునః\nకృష్ణో ముం నిహనిష్యతీతి శమితో యుద్ధాత్ కుమారైర్భవాన్ ॥ 10 ॥",
+          "audioUrl": "/audio/dasakam36/sloka_10.mp3",
+          "driveUrl": "https://drive.google.com/file/d/170nA8avXZ_Dl90R1xlCIFoa1DLDXx9E_/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 11,
+          "text": "న్యస్యాస్త్రాణి మహేంద్రభూభృతి తపస్తన్వన్ పునర్మజ్జితాం\nగోకర్ణావధిసాగరేణ ధ రణీం దృష్ట్వార్థితస్తాపసైః ।\nధ్యాతేష్వాసధృతానలాస్త్రచకితం సింధుం స్రువక్షేపణాత్\nఉత్సార్యోద్ధృతకేరళో భృగుపతే! వాతేశ సంరక్ష మామ్ ॥ 11 ॥",
+          "audioUrl": "/audio/dasakam36/sloka_11.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1CH-bO8xYMODvS2dSKbzloRSJUca5UoGP/view?usp=drive_link"
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "number": 37,
+      "title": "Dasakam 37: Parasurama Avatar",
+      "titleTelugu": "దశకం 37: పరశురామావతారము",
+      "summary": "Incarnation of Lord Parasurama destroying wicked kshatriyas.",
+      "slokaCount": 10,
+      "slokas": [
+        {
+          "slokaNo": 1,
+          "text": "సాంద్రానందతనో! హరే! నను పురా దైవాసురే సంగరే\nత్వత్కృత్తా అపి కర్మ శేషవశతో యేతేన యాతా గతిమ్ ।\nతేషాం భూతల జన్మనాం దితిభువాం భారేణ దూరార్దితా\nభూమిః ప్రాప విరించమాశ్రితపదం దేవైః పురైవాగతైః ॥ 1 ॥",
+          "audioUrl": "/audio/dasakam37/sloka_1.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1oe9baUvE4ErqqKaHL1JsJqhXCGby1vSD/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 2,
+          "text": "హా హా దు ర్జన భూరి భారమథితాం పాథోనిధౌ పాతుకామ్\nఏతాం పాలయ హంత మే వివశతాం సంపృచ్ఛ దేవానిమాన్ ।\nఇత్యాది ప్రచుర ప్రలాప వివశామ్ ఆలోక్య ధాతా మహీం\nదేవానాం వదనాని వీక్ష్య పరితో దధ్యౌ భవంతం హరే! ॥ 2 ॥",
+          "audioUrl": "/audio/dasakam37/sloka_2.mp3",
+          "driveUrl": "https://drive.google.com/file/d/11VmYTiAAFNypiu6hig5BlBIWCirOlZ-6/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 3,
+          "text": "ఊచే చాంబుజభూరమూనయి సురాః! సత్యం ధరిత్ర్యా వచః\nనన్వస్యా భవతాం చ రక్షణవిధౌ దక్షో హి లక్ష్మీపతిః\nసర్వే శర్వ పురస్సరా వయమితో గత్వా పయోవారిధిం\nనత్వా తం స్తుమహే జవాదితి యయుః సాకం తవాకేతనమ్ ॥ । ౩",
+          "audioUrl": "/audio/dasakam37/sloka_3.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1n_ha6a_A-P6QQgV0tw3NEAG8xMD5NDGN/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 4,
+          "text": "తే ము గ్ధానిలశాలి దుగ్ధజలధేః తీరం గతాస్సంగతాః\nయావత్ త్వత్పద చింతనైకమనసః తావత్ స పాథోజభూః ।\nత్వద్వాచం హృదయే నిశమ్య సకలాన్ ఆనందయన్నూచివాన్\nఆఖ్యాతః పరమాత్మనా స్వయమహం వాక్యం తదాకర్ణ్యతామ్ ॥ 4 ॥",
+          "audioUrl": "/audio/dasakam37/sloka_4.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1KSxqyH0FBimXIbyQfeCTeR55OG4WmVVY/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 5,
+          "text": "జానే దీనదశామహం దివిషదాం భూమేశ్చ భీమైర్నృపైః\nతత్-క్షేపాయ భవామి యాదవకులే సోహం సమగ్రాత్మనా ।\nదేవా వృష్ణికులే భవంతు కలయా దేవాంగనాశ్చావనౌ\nమత్సేవార్థమితి త్వదీయవచనం పాథోజభూరూచివాన్ ॥ 5 ॥",
+          "audioUrl": "/audio/dasakam37/sloka_5.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1k7zYOidB7LnAbUhxXRwO8747sVf5jwjD/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 6,
+          "text": "శ్రుత్వా కర్ణరసాయనం తవ వచః సర్వేషు నిర్వాపిత-\nస్వాంతేష్వీశ! గతేషు తావక కృపాపీయూష తృప్తాత్మసు ।\nవిఖ్యాతే మ ధురాపురే కిల భవత్సాన్నిధ్యపుణ్యోత్తరే\nధన్యాం దేవకనందనాముదవహత్ రాజా స శూరాత్మజః ॥ 6 ॥",
+          "audioUrl": "/audio/dasakam37/sloka_6.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1IaAKOFCUQ2D32Gh8HXm442Q-ZWOz-kvN/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 7,
+          "text": "ఉద్వాహావసితౌ తదీయసహజః కంసోథ సమ్మానయన్\nఏతౌ సూతతయా గతః పథి రథే వ్యోమోత్థయా త్వద్గిరా।\nఅస్యాస్త్వా మతిదుష్టమష్టమసుతో హంతేతి హంతేరితః\nసంత్రాసాత్ స తు హంతుమంతికగతాం తన్వీం కృపాణీమధాత్ ॥ 7 ॥",
+          "audioUrl": "/audio/dasakam37/sloka_7.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1ldRlg-4-fpDrUAWHuTLRXx82uEITAGK5/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 8,
+          "text": "గృహ్ణానశ్చికురేషు తాం ఖలమతిః శౌరేశ్చిరం సాంత్వనైః\nనో ముంచన్ పునరాత్మజార్పణగిరా ప్రీతో థ యాతో గృహాన్ ।\nఆద్యం త్వత్సహజం తథార్పితమపి స్నేహేన నాహన్నసౌ\nదుష్టానామపి దేవ! పుష్టకరుణా దుష్టాహి ధీరేకదా ॥ 8 ॥",
+          "audioUrl": "/audio/dasakam37/sloka_8.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1LmZTYD7mNFJbYu2sV0LjnoS0pjZB32S-/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 9,
+          "text": "తావత్ త్వన్మనసైవ నారదమునిః ప్రోచే స భోజేశ్వరం\nయూయం నన్వసురాః సురాశ్చ యదవో జానాసి కిం న ప్రభో! ।\nమాయావీ స హరిర్ భవద్వధకృతే భావీ సుర ప్రార్థనాత్\nఇత్యాకర్ణ్య యదూనదూధునదసౌ శౌరేశ్చ సూనూనహన్ ॥ 9 ॥",
+          "audioUrl": "/audio/dasakam37/sloka_9.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1UGBnvLtlNBYQVwNicaKYlhJHeVIkOhqm/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 10,
+          "text": "ప్రాప్తే సప్తమగర్భతామహిపతౌ త్వత్ప్రేరణాన్మాయయా\nనీతే మాధవ! రోహిణీం త్వమపి భోః! సచ్చిత్సుఖైకాత్మకః ।\nదేవక్యా జఠరం వివేశిథ విభో! సంస్తూయమానస్సురైః\nస త్వం కృష్ణవిధూయ రోగపటలీం భక్తిం పరాం దేహి మే ॥ 10 ॥",
+          "audioUrl": "/audio/dasakam37/sloka_10.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1jXDRO5x7RN8iYMhEbFeKEeUlFP-aPgPK/view?usp=drive_link"
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "number": 38,
+      "title": "Dasakam 38: Lunar Dynasty & King Yayati",
+      "titleTelugu": "దశకం 38: చంద్రవంశ వర్ణనము",
+      "summary": "Soma dynasty and the story of King Yayati.",
+      "slokaCount": 10,
+      "slokas": [
+        {
+          "slokaNo": 1,
+          "text": "ఆనందరూప! భగవన్నయి! తేవతారే\nప్రాప్తే ప్రదీప్తభవదంగనిరీయమాణైః ।\nకాంతివ్రజైరివ ఘనాఘనమండలైర్ద్యా మ్\nఆవృణ్వతీ విరురు చే కిల వర్షవేళా ॥ 1 ॥",
+          "audioUrl": "/audio/dasakam38/sloka_1.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1UuHpmrApLeM3sz9GX5zoL5trHDyGk6AU/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 2,
+          "text": "ఆశాసు శీ తలతరాసు పయోదతోయైః\nఆశాసితాప్తివివశేషు చ సజ్జనేషు ।\nనైశాకరోదయవిధౌ నిశి మ ధ్యమాయాం\nక్లేశాపహస్త్రిజగతాం త్వమిహావిరాసీః ॥ 2 ॥",
+          "audioUrl": "/audio/dasakam38/sloka_2.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1u5eSOIO_z8wqQyqLQszTYmJopFzB7zqN/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 3,
+          "text": "నారాయణ నారాయణ ..... 16 సార్లు చదవవలెను\nబాల్యస్పృశాపి వపు షా దధుషా విభూతీః\nఉద్యత్కిరీటకటకాంగదహారభాసా ।\nశంఖారి వారిజ గదా పరిభాసితేన\nమేఘాసితేన పరిలేసిథ సూతిగేహే ॥ 3 ॥",
+          "audioUrl": "/audio/dasakam38/sloka_3.mp3",
+          "driveUrl": "https://drive.google.com/file/d/150RoY9FWP6wMg29-97eEdd96Xuee5YmZ/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 4,
+          "text": "వక్షఃస్థలీ సుఖ నిలీ న విలాసి లక్ష్మీ-\nమందాక్ష ల క్షిత కటాక్ష విమోక్ష భేదైః।\nతన్మందిరస్య ఖలకంస కృతామలక్ష్మీం\nఉన్మార్జయన్నివ విరేజిథ వాసుదేవ ! ॥ 4 ॥",
+          "audioUrl": "/audio/dasakam38/sloka_4.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1lKqB_x5BGRzlclT8EEHDKfR8KDR77EIr/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 5,
+          "text": "శౌరిస్తు ధీర ముని మండల చేతసోపి\nదూర స్థితం వపురుదీక్ష్య నిజేక్షణాభ్యామ్ ।\nఆనంద బా ష్ప పులకోద్గమ గద్గదార్ధ్రః\nతుష్టావ దృష్టిమకరందరసం భవంతమ్ ॥ 5 ॥",
+          "audioUrl": "/audio/dasakam38/sloka_5.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1WpDg1tthTBO3MBvtelSocSWT4xAMLMn3/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 6,
+          "text": "దేవ! ప్రసీద పర పూరుష తాప వల్లీ-\nనిర్లూనదాత్ర! సమనేత్ర! కలా విలాసిన్! ।\nఖేదానపాకురు కృపా గురుభిహ్ కటాక్షైః\nఇత్యాది తేన ముదితేన చిరం నుతో భూః ॥ 6 ॥",
+          "audioUrl": "/audio/dasakam38/sloka_6.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1Q4IK6ma-nG3ahN5yK4Nc9dI27HwkJvfZ/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 7,
+          "text": "మాత్రా చ నేత్రసలిలాస్తృ తగాత్రవల్ల్యా\nస్తోత్రైరత్రైభిష్టుతగుణహ్ కరుణాలయస్త్వ మ్ ।\nప్రాచీన జన్మ యుగళం ప్రతిబోధ్య తాభ్యాం\nమాతుర్గిరా దధిథ మానుష బాల వేషమ్ ॥ 7॥",
+          "audioUrl": "/audio/dasakam38/sloka_7.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1F6Z6lfb1nQ6OuCvWChj7f4CQouCmHsL7/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 8,
+          "text": "త్వత్ప్రేరితస్తదను నందతనూజయా తే\nవ్యత్యాసమారచయితుం స హి శూరసూనుః ।\nత్వాం హస్తయోరధిత చిత్త విధార్యమార్యైః\nఅంభోరుహస్థకలహంసకిశోరరమ్యమ్ ॥ 8॥",
+          "audioUrl": "/audio/dasakam38/sloka_8.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1c1h0zLm7OkPUX13qBauKDVe707ZPImuh/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 9,
+          "text": "జాతా తదా పశుపసద్మని యోగనిద్రా\nనిద్రా విముద్రితమథాకృత పౌరలోకమ్ ।\nత్వత్ప్రేరణాత్ కిమివ చిత్రమచేతనైర్యత్\nద్వారైస్స్వయం వ్యఘటి సంఘటితైః సుగాఢమ్ ॥ 9 ॥",
+          "audioUrl": "/audio/dasakam38/sloka_9.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1LKzvjpDjnVeFHwiaf74dTzgP37-m-Nyx/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 10,
+          "text": "శేషేణ భూరిఫణవారితవారిణా థ\nస్వైరం ప్రదర్శితపథో మణిదీపితేన ।\nత్వాం ధారయన్ స ఖలు ధన్యతమః ప్రతస్థే\nసోయం త్వమీశ మమ నాశయ రోగవేగాన్ ॥ 10 ॥\n\nకరారవిందేన పదారవిందం ముఖారవిందే వినివేశయంతమ్ ।\nవటస్య పత్రస్య పుటే శయానం బాలం ముకుందం మనసా స్మరామి ॥",
+          "audioUrl": "/audio/dasakam38/sloka_10.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1GgFbNiIpdsilCqZZET9pUZvZa2j9qVxW/view?usp=drive_link"
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "number": 39,
+      "title": "Dasakam 39: Story of King Dushyanta & Bharata",
+      "titleTelugu": "దశకం 39: దుష్యంత భరత చరిత్ర",
+      "summary": "Lineage of Kuru and birth of Emperor Bharata.",
+      "slokaCount": 10,
+      "slokas": [
+        {
+          "slokaNo": 1,
+          "text": "భవంతమయముద్వహన్ యదుకులో ద్వహో నిస్సరన్\nదదర్శ గగనోచ్చలజ్జలభరాం కలిందాత్మజామ్ ।\nఅహో సలిలసంచయస్ సపునరైంద్రజాలోదితో\nజలౌఘ ఇవ తత్క్షణాత్ ప్రపదమేయతామాయయౌ ॥ 1 ॥",
+          "audioUrl": "/audio/dasakam39/sloka_1.mp3",
+          "driveUrl": "https://drive.google.com/file/d/15krNtVypyrDScfUrtfahnxNUJAiHsvbz/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 2,
+          "text": "ప్రసుప్తపశుపాలికాం నిభృతమారుదద్బా లికాం\nఅపావృతకవాటికాం పశుపవాటికామావిశన్ ।\nభవంతమయమర్పయన్ ప్రసవతల్పకే తత్పదాద్\nవహన్ క పటకన్యకాం స్వపురమాగతో వేగతః ॥ 2 ॥",
+          "audioUrl": "/audio/dasakam39/sloka_2.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1diw-ywWso_mnrYqYIFYn6vA86gu2kN1S/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 3,
+          "text": "తతస్త్వ దనుజారవ క్షపి త నిద్రవేగ ద్రవద్\nభటోత్కర నివేదిత ప్రసవ వార్తయైవార్తిమాన్ ।\nవిముక్త క్తచికురోత్కరస్త్వ రిత మాపతన్ భోజరా-ట్\nఅతుష్ట ఇవ దృష్టవాన్ భగినికాకరే కన్యకామ్ ॥ 3 ।",
+          "audioUrl": "/audio/dasakam39/sloka_3.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1VMp9wbmrkWP4B4X_qciByUWesMExpdpe/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 4,
+          "text": "ధ్రువం కపటశాలినో మధుహరస్య మాయా భవేత్\nఅసావితి కిశోరికాం భగినికాకరాలింగితామ్ ।\nద్విపో నలినికాంతరాదివ మృణాళికామాక్షిపన్\nఅయం త్వదనుజామజాముపలపట్టకే పిష్టవాన్ ॥ 4 ।",
+          "audioUrl": "/audio/dasakam39/sloka_4.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1zv1UznWYQOccAWpuYBzhrgacEC-RVTQD/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 5,
+          "text": "తతో భవదు పాసకో ఝటితి మృత్యుపాశాదివ\nప్రముచ్య తరసైవ సా సమధిరూఢరూపాంతరా ।\nఅధస్తలమజగ్ముషీ వికసదష్టబాహుస్ఫుర-న్\nమహాయుధమహో గతా కిల విహాయసా దిద్యుతే॥ 5 ॥\nనమో దే వ్యై మహాదేవ్యై శివాయై సతతం నమః ।\nనమః ప్రకృత్యై భద్రాయై నియతాః ప్రణతాస్ స్మతాం ॥",
+          "audioUrl": "/audio/dasakam39/sloka_5.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1ZQlCWRMDgKOiWp8LP7EXeb6zDpI3vkOY/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 6,
+          "text": "నృశంసతర! కంస! తే కిము మయా వినిష్పిష్టయా\nబభూవ భవ దంతకహ్ క్వచన చింత్యతాం తే హితమ్।\nఇతి త్వదనుజా విభో! ఖలముదీర్య తం జగ్ముషీ\nమరుద్గణపణాయితా భువి చ మందిరాణ్యేయుషీ ॥ 6 ॥",
+          "audioUrl": "/audio/dasakam39/sloka_6.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1acMg5mruRUgnijJK2u_vlzy0uFxM21d1/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 7,
+          "text": "ప్రగే పునరగాత్మజావచనమీరితా భూభుజా\nప్రలంబబకపూతనాప్రముఖదానవా మాని నః ।\nభవన్నిధనకామ్యయా జగ తి బభ్రముర్నిర్భయాః\nకుమారకవిమారకాహ్ కిమివ దుష్కరం నిష్కృపైః ॥ 7 ॥",
+          "audioUrl": "/audio/dasakam39/sloka_7.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1LtXebi0WCHT9x2m7s3JjgsvMs9LEoQS6/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 8,
+          "text": "తతః పశుపమందిరే త్వయి ముకుంద! నందప్రియా-\nప్రసూతిశయనే శయే రుదతి కించిదంచత్పదే ।\nవిబుధ్య వనితాజనైస్తనయసంభవే ఘోషితే\nముదా కిము వదామ్యహో! సకలమాకులం గోకులమ్ ॥ 8 ॥",
+          "audioUrl": "/audio/dasakam39/sloka_8.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1pGv1LS7ol31vZQSiDymyNdVlmiomM2Ea/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 9,
+          "text": "అహో! ఖలు య శోదయా నవకలాయచేతోహరం\nభవంతమలమంతికే ప్రథమమాపిబంత్యా దృశా ।\nపునస్తనభరం నిజం సపది పాయయంత్యా ముదా\nమనోహరతనుస్పృశా జగ తి పుణ్యవంతో జితాః ॥ 9 ॥",
+          "audioUrl": "/audio/dasakam39/sloka_9.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1vTCTAoM7naLEKjqXt1gyXl04FCJ7AQRB/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 10,
+          "text": "భవత్కుశలకామ్యయా స ఖలు నందగోపస్తదా\nప్రమోదభరసంకులో ద్విజకులాయ కిం నాదదాత్ ।\nతథైవ పశుపాలకాః కిము న మంగళం తేనిరే\nజగత్త్రితయమంగళ! త్వమిహ పాహి మామామయాత్ ॥ 10 ॥",
+          "audioUrl": "/audio/dasakam39/sloka_10.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1GMj3Zh_QiPUaa6l2qNRIFrn5WgBIvaZX/view?usp=drive_link"
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "number": 40,
+      "title": "Dasakam 40: Descent of Sri Krishna - Prophecy",
+      "titleTelugu": "దశకం 40: శ్రీకృష్ణావతార భూమిక",
+      "summary": "Mother Earth praying to Lord Vishnu for relief.",
+      "slokaCount": 10,
+      "slokas": [
+        {
+          "slokaNo": 1,
+          "text": "తదను నందమమందశుభాస్పదం, నృపపురీం కరదానకృతే గతమ్ I\nసమవలోక్య జగాద భవత్-పితా, విదితకంససహాయజనోద్యమః ॥ 1॥",
+          "audioUrl": "/audio/dasakam40/sloka_1.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1Te_-hq5GRFZjGJbB31mYRV3284l3llqu/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 2,
+          "text": "అయి! సఖే! తవ బాలకజ న్మ మాం, సుఖయతేద్య నిజాత్మజజన్మవత్ ।\nఇతి భవత్పితృతాం వ్రజనాయకే, సమధిరోప్య శశంస తమాదరాత్ ॥ 2 ॥",
+          "audioUrl": "/audio/dasakam40/sloka_2.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1l6mOJD-n71khJXc-x_3bAFK2wr8FCfcl/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 3,
+          "text": "ఇహ చ సంత్యనిమిత్తశతాని తే, కటకసీమ్ని తతో లఘు గమ్యతామ్ ।\nఇతి చ తద్వచసా వ్రజనాయకో, భవదపాయభియా ద్రుతమాయయౌ ॥ 3॥",
+          "audioUrl": "/audio/dasakam40/sloka_3.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1zCU9ZNS6qc5tPwy8lhjFzx4BsfebOK-Z/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 4,
+          "text": "అవసరే ఖలు తత్ర చ కాచన, వ్రజపదే మ ధురాకృతిరంగనా ।\nతరల షట్పదలాలితకుంతలా, కపట పోతక! తే నిక టం గతా ॥ 4॥",
+          "audioUrl": "/audio/dasakam40/sloka_4.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1ldbGgm_IYoEtQ5mgFWcSvYTt8bHGPkcY/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 5,
+          "text": "సపది సా హృతబాలకచేతనా, నిశిచరాన్వయజా కిల పూ తనా ।\nవ్రజవధూష్విహ కేయమి తి క్షణం, విమృశతీషు భ వంతముపాదదే ॥ 5 ॥",
+          "audioUrl": "/audio/dasakam40/sloka_5.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1KKzE0jK1rc1rbYZNLt72MSV00ATEeK5h/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 6,
+          "text": "లలితభావవిలాసహృతాత్మభిః యువతిభిః ప్రతిరోద్ధుమపారితా ।\nస్తనమసౌ భవనాంతనిషేదుషీ, ప్రదదుషీ భవతే క పటాత్మనే ॥ 6 ॥",
+          "audioUrl": "/audio/dasakam40/sloka_6.mp3",
+          "driveUrl": "https://drive.google.com/file/d/131uKqlpiqZ6jYFHasvOyARaazp1Oq1wu/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 7,
+          "text": "సమధిరుహ్య తదంకమశంకితః త్వమథ బాలకలో పనరోషితః ।\nమహదివామ్రఫలం కుచమండలం, ప్రతిచుచూషిథ దు ర్విషదూషితమ్ ॥ 7 ॥",
+          "audioUrl": "/audio/dasakam40/sloka_7.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1E0cvXBy0T3WbzKDv0yDuf7A4zO7KholE/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 8,
+          "text": "అసుభిరేవ సమం ధయతి త్వయి, స్తనమసౌ స్తనితోపమనిస్స్వనా ।\nనిరపతద్భయదాయి ని జం వపుః ప్రతిగతా ప్రవిసార్య భుజావుభౌ ॥ 8 ॥",
+          "audioUrl": "/audio/dasakam40/sloka_8.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1gSqdarOwzqpGtW3SuY5J441cDDyVDJB4/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 9,
+          "text": "భయదఘోషణభీషణవిగ్రహగ్ర శ్రవణద శ్ర ర్శనమోహితవల్లవే ।\nవ్రజపదే తదురస్-స్థలఖేలనమ్, నను భ వంతమగృహ్ణత గోపికాః ॥ 9॥",
+          "audioUrl": "/audio/dasakam40/sloka_9.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1e_pwaOrqqOJzqxwT9QBStzdOaQlquWST/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 10,
+          "text": "భువనమంగళ! నామభిరేవ తే, యువతిభిర్బహుధా కృతరక్షణః ।\nత్వమయి వాతనికేతననాథ! మామ్, అగదయన్ కురు తావకసేవకమ్ ॥ 10 ॥",
+          "audioUrl": "/audio/dasakam40/sloka_10.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1KQoTfA3dq20lmOioQLR824liKvxd3gcN/view?usp=drive_link"
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "number": 41,
+      "title": "Dasakam 41: Birth of Bhagavan Sri Krishna",
+      "titleTelugu": "దశకం 41: శ్రీకృష్ణ జననము",
+      "summary": "Divine birth of Sri Krishna in Mathura prison.",
+      "slokaCount": 10,
+      "slokas": [
+        {
+          "slokaNo": 1,
+          "text": "వ్రజేశ్వర శ్శౌ రివచో నిశమ్య, సమావ్రజన్నధ్వని భీ తచేతాః ।\nనిష్పిష్టనిశ్శేషతరుం నిరీక్ష్య, కంచిత్ పదార్థం శరణం గతస్త్వా మ్ ॥ 1 ॥",
+          "audioUrl": "/audio/dasakam41/sloka_1.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1F2V9aHy-Q0HPGXpoW1V1VlRnmKqRLp-j/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 2,
+          "text": "నిశమ్య గోపీవచనాదుదంతం, సర్వేపి గో పా భయవిస్మయాంధాః ।\nత్వత్పాతితం ఘోరపిశాచదేహం, దేహుర్విదూరేథ కు ఠారకృత్తమ్ ॥ 2 ॥",
+          "audioUrl": "/audio/dasakam41/sloka_2.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1CwcR4Vlba229RQ-bYQlbxXXQ0XCNPxUF/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 3,
+          "text": "త్వత్-పీతపూతస్-తనతచ్ఛరీరాత్, సముచ్చలన్నుచ్చతరో హి ధూమః ।\nశంకామధాదాగరవహ్ కిమేషః కిం చాందనో గౌల్గుల వోథవేతి ॥ 3 ॥",
+          "audioUrl": "/audio/dasakam41/sloka_3.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1O4Wg3mYqNxc1J4C-tXJYfzKpH0qvpqw6/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 4,
+          "text": "మదంగసంగస్య ఫలం న దూరే, క్షణేన తావద్భవతామపి స్యాత్ ।\nఇత్యుల్లపన్ వల్లవతల్లజేభ్యః త్వం పూతనామాతనుథాస్ సుగంధిమ్ ॥ 4 ॥",
+          "audioUrl": "/audio/dasakam41/sloka_4.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1HgxGneyJekX08a-IS6xuhtLf-vWkxm7x/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 5,
+          "text": "చిత్రం పిశాచ్యా న హతహ్ కుమారః చిత్రం పురైవాకథి శౌరిణేదమ్ ।\nఇతి ప్రశంసన్ కిల గోపలోకో, భవన్ముఖాలోకరసే న్యమాంక్షీత్ ॥ 5 ॥",
+          "audioUrl": "/audio/dasakam41/sloka_5.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1M_js8ZLy-UQRrcjkZBllyBTROw4qzbDv/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 6,
+          "text": "దినే దినేథ ప్రతివృద్ధలక్ష్మీః అక్షీణమాంగళ్యశతో వ్రజోయమ్ ।\nభవన్నివాసాదయి వాసుదేవ! ప్రమోదసాంద్రః పరితో విరేజే ॥ 6 ॥",
+          "audioUrl": "/audio/dasakam41/sloka_6.mp3",
+          "driveUrl": "https://drive.google.com/file/d/184JLCRVQmU1_v0NOdJxC10aBeOaMQYBL/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 7,
+          "text": "గృహేషు తే కోమల రూపహాసమిథహ్ కథాసంకులితాహ్ కమన్యః ।\nవృత్తేషు కృత్యేషు భవన్నిరీక్షా, సమాగతాః ప్రత్యహమత్యనందన్ ॥ 7 ॥",
+          "audioUrl": "/audio/dasakam41/sloka_7.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1YUlryURKm535Nj7vaZuORIz_lvFE_GAg/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 8,
+          "text": "అహో! కుమారో మయి దత్తదృష్టిః స్మితం కృతం మాం ప్రతి వత్సకేన ।\nఏహ్యేహి మామి త్యుపసార్య పాణీం, త్వయీశ! కిం కిం న కృతం వధూభిః ॥ 8 ॥",
+          "audioUrl": "/audio/dasakam41/sloka_8.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1M5yqou-yziHbtZQKbWYmD3VKWmz2YLHW/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 9,
+          "text": "భవద్వపుస్ స్పర్శనకౌతుకేన, కరాత్ క రం గోపవధూజనేన ।\nనీతస్త్వ మాతామ్రసరోజమాలావ్యాలంబిలోలంబతులామలాసీః ॥ 9॥",
+          "audioUrl": "/audio/dasakam41/sloka_9.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1gCj-r6Y3qYopksScg4CcYHexXwl9q2A-/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 10,
+          "text": "నిపాయయంతీ స్తనమంకగం త్వాం, విలోకయంతీ వద నం హసంతీ ।\nదశాం యశోదా కతమాం న భేజే, స తాదృశః పాహి హరే గదాన్మామ్ ॥ 10 ॥",
+          "audioUrl": "/audio/dasakam41/sloka_10.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1XaDkmow75JlF69a0a5hbbtrEwK91ZzVN/view?usp=drive_link"
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "number": 42,
+      "title": "Dasakam 42: Transfer to Gokulam & Putana Moksham",
+      "titleTelugu": "దశకం 42: పూతనా మోక్షము",
+      "summary": "Arrival in Gokulam and liberation of demoness Putana.",
+      "slokaCount": 11,
+      "slokas": [
+        {
+          "slokaNo": 1,
+          "text": "కదాపి జన్మర్క్షదినే తవ ప్రభో! నిమంత్రితజ్ఞాతివధూ మహీసురా ।\nమహానసస్త్వాం సవిధే నిధాయ సా, మహానసాదౌ వ వృతే వ్రజేశ్వరీ ॥ 1 ॥",
+          "audioUrl": "/audio/dasakam42/sloka_1.mp3",
+          "driveUrl": "https://drive.google.com/file/d/10fapBm2jaKaIrAx99Ooe1xSUwe8BonOE/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 2,
+          "text": "తతో భవ త్రాణనియుక్తబాలక క్త ప్రభీతిసంక్రం దనసంకులారవైః ।\nవిమిశ్రమశ్ర శ్రావి భవ త్సమీపతః పరిస్ఫుటద్దారుచటచ్చటారవః ॥ 2 ॥",
+          "audioUrl": "/audio/dasakam42/sloka_2.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1VVyiLX9X9Qvg7XyH2Wo3sGKb9Y6XCU7E/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 3,
+          "text": "తతస్తదాకర్ణనసంభ్రమశ్రమశ్ర ప్రకంపివక్షోజభరా వ్రజాంగనాః ।\nభవంతమంతర్-దదృశుస్సమంతతో, వినిష్పతద్దారుణదారుమధ్యగమ్ ॥ 3 ॥",
+          "audioUrl": "/audio/dasakam42/sloka_3.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1HEGWDAF68EwqlPKIyWLMXZ17A4lfDLlb/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 4,
+          "text": "శిశోరహో! కిం కిమభూదితి ద్రుతం, ప్రధావ్య నందః పశుపాశ్చ భూసురాః ।\nభవంతమాలోక్య యశోదయా ధృతం, సమాశ్వసన్నశ్రుజలార్ద్రలోర్ద్రచనాః ॥ 4 ॥",
+          "audioUrl": "/audio/dasakam42/sloka_4.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1jUSwEamQhFwzoUMFM_NWH3Qw3o-1EDfy/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 5,
+          "text": "శిశోరహో! కిం కిమభూదితి ద్రుతం, ప్రధావ్య నందః పశుపాశ్చ భూసురాః ।\nభవంతమాలోక్య యశోదయా ధృతం, సమాశ్వసన్నశ్రుజలార్ద్రలోర్ద్రచనాః ॥ 4 ॥",
+          "audioUrl": "/audio/dasakam42/sloka_5.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1MRwyxNxZacU5Ridmm1upCaGfBst8zG7x/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 6,
+          "text": "శిశోరహో! కిం కిమభూదితి ద్రుతం, ప్రధావ్య నందః పశుపాశ్చ భూసురాః ।\nభవంతమాలోక్య యశోదయా ధృతం, సమాశ్వసన్నశ్రుజలార్ద్రలోర్ద్రచనాః ॥ 4 ॥",
+          "audioUrl": "/audio/dasakam42/sloka_6.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1hlScb_hKPgRgTpho-6y9zlYD3vahMyyO/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 7,
+          "text": "భియా తదా కించిదజానతామిదం, కుమారకాణామతిదుర్ఘటం వచః I\nభవత్ప్రభావావిదురైరితీరితం, మనాగివాశంక్యత దృష్టపూతనైః ॥ 7 ॥",
+          "audioUrl": "/audio/dasakam42/sloka_7.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1Fa5KsYNgbtJ_vN8BVy9n4GaGAv4rzR3W/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 8,
+          "text": "ప్రవాళతామ్రం కిమిదం పదం క్షతం, సరోజరమ్యౌ ను కరౌ విరాజితౌ ।\nఇతి ప్రసర్పత్కరుణాతరంగితాః త్వదంగమాపస్పృ శురంగ నాజనాః ॥ 8॥",
+          "audioUrl": "/audio/dasakam42/sloka_8.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1dlSiTealnFbvYxFsGMzg7nhf77kwfCbZ/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 9,
+          "text": "అయే సు తం దేహి జగత్పతేహ్ కృపాతరంగపాతాత్ పరిపాతమద్య మే ।\nఇతి స్మ సంగృహ్య పితా త్వదంగకం, ముహుర్ముహుశ్ శ్లిష్యతి జాతకంటకః ॥ 9 ॥",
+          "audioUrl": "/audio/dasakam42/sloka_9.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1Z6eY6Blg0NykMlJpmLC5-11DOTSpuFiE/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 10,
+          "text": "అనోనిలీనహ్ కిల హంతుమాగతః సురారిరేవం భవతా విహింసితః ।\nరజోపి నో దృష్టమముష్య తత్కథం, సశుద్ధసత్త్వే త్వయి లీనవాన్ ధ్రువమ్ ॥ 10 ॥",
+          "audioUrl": "/audio/dasakam42/sloka_10.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1RegT6Cxtd55h2gGOz_QluNviwQNjwfzD/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 11,
+          "text": "ప్రపూజితైస్తత్ర తతో ద్విజాతిభిః విశేషతోలంభితమంగలాశిషః ।\nవ్రజం నిజైర్బా ల్యరసైర్విమోహయన్, మరుత్పురాధీశ! రుజాం జహీహి మే॥11॥",
+          "audioUrl": "/audio/dasakam42/sloka_11.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1Zg-O2lY4JXck-_KnPxgvHPVnqwNj4nxP/view?usp=drive_link"
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "number": 43,
+      "title": "Dasakam 43: Slaying of Sakatasura & Trinavarta",
+      "titleTelugu": "దశకం 43: శకటాసుర తృణావర్త వధ",
+      "summary": "Child Krishna subduing Sakatasura and whirlwind demon Trinavarta.",
+      "slokaCount": 10,
+      "slokas": [
+        {
+          "slokaNo": 1,
+          "text": "త్వామేకదా గురుమరుత్పురనాథ! వోఢుం\nగాఢాధిరూఢగరిమాణమపారయంతీ\nమాతా నిధాయ శయ నే 'కిమిదం బతే' తి\nధ్యాయంత్యచేష్టత గృహేషు నివిష్టశంకా॥ 1 ॥",
+          "audioUrl": "/audio/dasakam43/sloka_1.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1bwXekcOEWEdqOuyCCEpY5NPxPscedtJL/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 2,
+          "text": "తావద్విదూరముపకర్ణితఘోరఘోష -\nవ్యాజృంభిపాంసుపటలీపరిపూరితాశః\nవాత్యా వపుస్స కిల దైత్యవరస్తృ ణావర్\nతాఖ్యో జహార జనమానసహారిణం త్వామ్ ॥ 2 ॥",
+          "audioUrl": "/audio/dasakam43/sloka_2.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1Sp2Em-7Xb4RdWmsYbESpb3xBfZ-l7DlE/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 3,
+          "text": "ఉద్దామపాంసుతిమిరాహతదృష్టిపాతే\nద్రష్టుం కిమప్యకుశలే పశుపాలలోకే ।\nహా బాలక స్య కిమితి త్వదుపాంతమాప్తా\nమాతా భ వంతమవిలోక్య భృశం రురోద ॥ 3॥",
+          "audioUrl": "/audio/dasakam43/sloka_3.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1JmDULpJY0aFk-stCLAzPNFrklOssE47Q/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 4,
+          "text": "తావత్-స దానవరోపి చ దీనమూర్తిః\nభావత్కభారపరిధారణలూనవేగః ।\nసంకోచమాప తదను క్షతపాంసుఘోషే\nఘోషే వ్యతాయత భవజ్జననీనినాదః ॥ 4 ॥",
+          "audioUrl": "/audio/dasakam43/sloka_4.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1ZY2_FQFrQ58y2OXFmF7igwJamoOIxHC4/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 5,
+          "text": "రోదోపకర్ణనవశాదుపగమ్య గేహం\nక్రం దత్సు నందముఖగోపకులేషు దీనః ।\nత్వాం దానవస్త్వ ఖిలముక్తికరం ముముక్షుః\nత్వయ్యప్రముంచతి పపాత వియత్ప్రదేశాత్॥ 5 ॥",
+          "audioUrl": "/audio/dasakam43/sloka_5.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1ABv8rVla9uKCTsFo0MXMMzvj7NG2XK3z/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 6,
+          "text": "రోదాకులాస్తదను గో పగణా బహిష్ఠ-\nపాషాణపృష్ఠభువి దేహమ తిస్థవిష్ఠమ్ ।\nప్రైక్షంప్రై త హంత నిపతంతమముష్యవక్షసి\nఅక్షీణమేవ చ భవంతమలం హసంతమ్ ॥ 6॥",
+          "audioUrl": "/audio/dasakam43/sloka_6.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1Rof055qGt65rRYAyveJnyfbvOpqJ4CiO/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 7,
+          "text": "గ్రావప్రపాతపరిపిష్టగరిష్టదేహ-\nభ్రష్టాసుదుష్టదనుజోపరి ధృష్టహాసమ్ ।\n\nఆఘ్నానమంబుజకరేణ భవంతమేత్య\nగోపా దదుర్-గిరివరాదివ నీల రత్నమ్ ॥ 7॥",
+          "audioUrl": "/audio/dasakam43/sloka_7.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1rrnE9h4C8NK3pYsO7zcbd0Uf6YLBXvNb/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 8,
+          "text": "ఏకైకమాశు కై పరిగృహ్య నికామనందన్\nనందాదిగోపపరిరబ్ధవిచుంబితాంగమ్ ।\nఆదాతుకామపరిశంకితగోపనారీ\nహస్తాం బుజప్రపతితం ప్రణుమో భవంతమ్ ॥ 8 ॥",
+          "audioUrl": "/audio/dasakam43/sloka_8.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1AhVDttr9b9fNE5tNRvogoL-vPpH9o4dq/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 9,
+          "text": "భూయో పి కిన్ను కృణుమః ప్రణతార్తిహారీ\nగోవింద ఏవ పరిపాలయతాత్ సుతం నః ।\nఇత్యాదిమాతరపితృప్రముఖైస్తదానీం\nసంప్రార్థితస్త్వ దవనాయ విభో! త్వమేవ ॥ 9 ॥",
+          "audioUrl": "/audio/dasakam43/sloka_9.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1oExkgJxINFrjox1eXi0FlPLNDvx7xhHL/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 10,
+          "text": "వాతాత్మకం దనుజమేవమయి ప్రధూన్వన్\nవాతోద్భవాన్ మమ గదాన్ కిము నో ధునోషి ।\nకిం వా కరోమి పునరప్యనిలాలయేశ!\nనిశ్శేషరోగశమనం ముహురర్థయే త్వామ్ ॥ 10 ॥",
+          "audioUrl": "/audio/dasakam43/sloka_10.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1__PnekUZY1cgHk32IkaagrVFxbqEsYsb/view?usp=drive_link"
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "number": 44,
+      "title": "Dasakam 44: Namakarana & Childhood Leelas",
+      "titleTelugu": "దశకం 44: నామకరణము & బాలలీలలు",
+      "summary": "Naming ceremony by Sage Garga and toddler pastimes.",
+      "slokaCount": 10,
+      "slokas": [
+        {
+          "slokaNo": 1,
+          "text": "గూఢం వసుదేవగిరా, కర్తుం తే నిష్క్రియస్య సంస్కారాన్ ।\nహృద్గతహోరాతత్త్వో గర్గమునిః త్వద్గృహం విభో! గతవాన్ ॥ 1 ॥",
+          "audioUrl": "/audio/dasakam44/sloka_1.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1bk6fFbQbMzOhkUuf0EAmGOYfkG2gxUES/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 2,
+          "text": "నందోథ నందితాత్మా, వృందిష్ఠం మానయన్నముం యమినామ్ ।\nమందస్మితార్ద్రమూర్ద్ర చే, త్వత్సంస్కారాన్ విధాతుముత్ సుకధీః ॥ 2 ॥",
+          "audioUrl": "/audio/dasakam44/sloka_2.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1gw2p90Y8UtfLOJVk6wYzCiy8SC29N4Y8/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 3,
+          "text": "యదువంశాచార్యత్వాత్, సునిభృతమిదమార్య! కార్యమితి కథయన్ ।\nగర్గోనిర్గతపులకః చక్రే తవ సాగ్రజగ్రస్య నామాని ॥ 3 ॥",
+          "audioUrl": "/audio/dasakam44/sloka_3.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1QhpLtU4NCFXwJE2Tqn-e_QUHxAPqNSHF/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 4,
+          "text": "కథమస్య నామ కుర్వే, సహస్రనామ్నో హ్యనంతనామ్నో వా ।\nఇతి నూనం గర్గమునిః చక్రేతవ నామ నామ రహసి విభో! ॥ 4॥",
+          "audioUrl": "/audio/dasakam44/sloka_4.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1v-zzJZwIMHgFT1b_cUZ90oUfJoErIwNv/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 5,
+          "text": "కృషి ధాతుణకారాభ్యాం, సత్తానందాత్మతాం కిలాభిలపత్ ।\nజగదఘకర్షిత్వం వా, కథయదృషిహ్ కృష్ణనామ తే వ్యతనోత్ ॥ 5 ॥",
+          "audioUrl": "/audio/dasakam44/sloka_5.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1d78EoSTtZq3XoTUlSvEbLaAl045Uxx4c/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 6,
+          "text": "అన్యాంశ్చ నామభేదాన్, వ్యాకుర్వన్నగ్రజేగ్ర చ రామాదీన్ ।\nఅతిమానుషానుభావం, న్యగదత్ త్వామప్రకాశయన్ పిత్రే॥ 6 ॥",
+          "audioUrl": "/audio/dasakam44/sloka_6.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1mDljBM9s1iYZcieXP-s0wtr4g78kFKgQ/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 7,
+          "text": "స్నిహ్యతి యస్తవ పుత్రే, ముహ్యతి స న మాయికైః పునశ్శోకైః ।\nద్రుహ్యతి య స్స తు నశ్యేత్, ఇత్యవదత్తే మహత్వమృషివర్యః ॥ 7 ॥",
+          "audioUrl": "/audio/dasakam44/sloka_7.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1y1R4hVCTmfnrakStdzlVv9Y2T487cLAz/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 8,
+          "text": "జేష్యతి బహుతర దైత్యాన్, నేష్యతి నిజబంధులోకమమలపదమ్\nశ్రోష్యసి సువిమలకీర్తీః అస్యేతి భవద్విభూతిమృషిరూచే ॥ 8 ॥",
+          "audioUrl": "/audio/dasakam44/sloka_8.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1miAEOZg4T2o0Z2z4kldy3f2BTBSI1B8g/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 9,
+          "text": "అమునైవ సర్వదుర్గం, తరితాస్థకృతాస్థమత్ర తిష్ఠధ్వమ్ ।\nహరిరేవేత్యనభిలపన్, ఇత్యాది త్వామవర్ణయత్ స మునిః ॥ 9 ॥",
+          "audioUrl": "/audio/dasakam44/sloka_9.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1WJmZojhJHZFpyjLIKNo2eA-akmGcz42X/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 10,
+          "text": "గర్గే థ నిర్గతే స్మిన్ నందితనందాదినంద్యమానస్త్వ మ్ ।\nమద్గదముద్గతకరుణో ని ర్గమయ శ్రీమరుత్పురాధీశ! ॥ 10 ॥",
+          "audioUrl": "/audio/dasakam44/sloka_10.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1hZ_2Y0tAkY0KqamB8E0BQkM2MUGl-K3D/view?usp=drive_link"
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "number": 45,
+      "title": "Dasakam 45: Universal Vision in Krishna's Mouth",
+      "titleTelugu": "దశకం 45: విశ్వరూప దర్శనము",
+      "summary": "Mother Yashoda witnessing the cosmos inside Krishna's mouth.",
+      "slokaCount": 10,
+      "slokas": [
+        {
+          "slokaNo": 1,
+          "text": "అయి! సబలమురారే! పాణిజానుప్రచారైః\nకిమపి భవ నభాగాన్ భూషయంతౌ భవంతౌ ।\nచలితచరణకంజౌ మంజుమంజీరశింజా\nశ్రవణకు శ్ర తుకభాజౌ చేరతుశ్చారువేగాత్ ॥ 1 ॥",
+          "audioUrl": "/audio/dasakam45/sloka_1.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1AENIXmRJEuluhjCUzmm6u87pXUTfWrQA/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 2,
+          "text": "మృదు మృదు విహసంతావున్మిషద్దంతవంతౌ\nవదనపతితకేశౌ దృశ్యపాదాబ్జదేశౌ ।\nభుజగలితకరాంతవ్యాలగత్కంకణాంకౌ\nమతిమహరతముచ్చైః పశ్యతాం విశ్వనౄ ణామ్ ॥ 2 ॥",
+          "audioUrl": "/audio/dasakam45/sloka_2.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1CV_rE9UIMWiYN7Y06APpnBH9a5cCIoRV/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 3,
+          "text": "అనుసరతి జనౌఘే కౌతుకవ్యాకులాక్షే\nకిమపి కృతనినాదం వ్యాహసంతౌ ద్రవంతౌ ।\nవలితవదనపద్మం పృష్ఠతో దత్తదృష్టీ\nకిమివ న విదధాథే కౌతుకం వాసుదేవ! ॥ 3 ॥",
+          "audioUrl": "/audio/dasakam45/sloka_3.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1VrxKOPpGI_v5Mf-TL_PE3Xw89EP5maaD/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 4,
+          "text": "ద్రుతగతిషు పతంతావుత్థితౌ లిప్తపంకౌ\nదివి మునిభిరపంకైః సస్మితం వంద్యమానౌ ।\nద్రుతమథ జ ననీభ్యాం సానుకంపం గృహీతౌ\nముహురపి పరిరబ్ధౌ ద్రాగ్యువాం చుంబితౌ చ ॥ 4 ॥",
+          "audioUrl": "/audio/dasakam45/sloka_4.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1D7qJW6dN6gsnvU-TaXNParBrCDcrwhSy/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 5,
+          "text": "స్నుతకుచభరమంకే ధా రయంతీ భవంతం\nతరలమతి యశోదా స్తన్యదా ధన్యధన్యా ।\nకపటపశుప! మధ్యే ముగ్ధహాసాంకురం తే\nదశనముకుళహృద్యం వీక్ష్య వక్త్రం జహర్ష॥ 5 ॥",
+          "audioUrl": "/audio/dasakam45/sloka_5.mp3",
+          "driveUrl": "https://drive.google.com/file/d/16ev793wOODpC0ECbuPGTVT2KXs27Tk9p/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 6,
+          "text": "తదనుచరణచారీ దారకైస్సా కై కమారాత్\nనిలయతతిషు ఖేలన్ బాలచా పల్యశాలీ ।\nభవనశుకవిడాలాన్ వత్సకాంశ్చానుధావన్\nకథమపి కృతహాసైర్-గోపకైర్కై-వారితో భూః ॥ 6 ॥",
+          "audioUrl": "/audio/dasakam45/sloka_6.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1P_IHV1s3corjQCj32Xycqi0MNNTzUKIf/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 7,
+          "text": "హలధరసహితస్త్వం యత్ర యత్రోపయాతో\nవివశపతితనేత్రాః తత్ర తత్రైవ గోత్రై ప్యః ।\nవిగలితగృహకృత్యా విస్మృతాపత్యభృత్యాః\nమురహర! ముహురత్యంతాకులా ని త్యమాసన్ ॥ 7॥",
+          "audioUrl": "/audio/dasakam45/sloka_7.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1mQ0pmm9b9EmnLHljHj0aRcbGaxL9c1Mp/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 8,
+          "text": "ప్రతినవనవనీతం గోపికాదత్తమిచ్ఛన్\nకలపదముపగాయన్ కోమ లం క్వాపి నృత్యన్ ।\nసదయయువతిలోకైరకైర్పితం సర్పిరశ్నన్\nక్వచన నవవిపక్వం దుగ్ధమప్యాపిబస్త్వ మ్ ॥ 8 ॥",
+          "audioUrl": "/audio/dasakam45/sloka_8.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1AV3vzw2ufmFTUvehbvhiu6qB8HjYKM34/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 9,
+          "text": "మమ ఖలు బలిగేహే యాచనం జాతమాస్తామ్\nఇహ పునరబలానామ్అగ్రతోగ్ర నైవ కుర్వే\nఇతి విహితమతిహ్ కిం దేవ! సంత్యజ్య యాచ్-న్యాం\nదధిఘృతమహరస్త్వం చారుణా చోరణేన ॥ 9 ॥",
+          "audioUrl": "/audio/dasakam45/sloka_9.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1MuDSmBXUX1S6JydgpiTDCh4AD59jgXsx/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 10,
+          "text": "తవ ద ధిఘృతమోషే ఘోషయోషాజనానామ్\nఅభజత హృది రోషో నావకాశం న శోకః ।\nహృదయమపి ము షిత్వా హర్షసింధౌ న్యధాస్త్వం\nస మమ శమయ రోగాన్ వాతగేహాధినాథ! ॥ 10 ॥",
+          "audioUrl": "/audio/dasakam45/sloka_10.mp3",
+          "driveUrl": "https://drive.google.com/file/d/11O_yCfX-XrZV4D_mR2HJl-S54Yony1Qa/view?usp=drive_link"
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "number": 46,
+      "title": "Dasakam 46: Damodara Leela & Yashoda's Love",
+      "titleTelugu": "దశకం 46: దామోదర లీల",
+      "summary": "Yashoda binding Krishna to the wooden mortar.",
+      "slokaCount": 10,
+      "slokas": [
+        {
+          "slokaNo": 1,
+          "text": "అయి! దేవ! పురా కిల త్వయి! స్వయముత్తానశయే స్తనంధయే ।\nపరిజృంభణతో వ్యపావృతే, వదనే విశ్వమచష్టవల్లవీ॥ 1॥",
+          "audioUrl": "/audio/dasakam46/sloka_1.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1I19n2lAmRxpRC16o5TDKAp0tXCMsDIlU/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 2,
+          "text": "పునరప్యథ బాల కై స్సమం, త్వయి లీలాని రతే జగత్పతే! ।\nఫలసంచయవంచనక్రుధా, తవ మృద్భోజనమూచురర్భకాః ॥ 2 ॥",
+          "audioUrl": "/audio/dasakam46/sloka_2.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1OODy3lHP0V2DSxlFixkf9otkPhTCmSE6/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 3,
+          "text": "అయి! తే ప్రళయావధౌ విభో! క్షితితోయాదిసమస్తభక్షిణః ।\nమృదుపాశనతో రుజా భవే త్, ఇతి భీతా జననీ చుకోప సా ॥ 3 ॥",
+          "audioUrl": "/audio/dasakam46/sloka_3.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1mTSTE3GDzt3GMh40C8kJVHQ7y4NeePKX/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 4,
+          "text": "అయి! దుర్వినయాత్మక! త్వయా, కిము మృత్సా బత! వత్స! భక్షితా।\nఇతి మాతృగిరం చిరం విభో! వితథాం త్వం ప్రతిజజ్ఞిషే- హసన్ ॥ 4 ॥",
+          "audioUrl": "/audio/dasakam46/sloka_4.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1AgipOVSFqNDxqfhe7-ka4NPy3v-FpRU7/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 5,
+          "text": "అయి! తే సకలైర్వినిశ్చితే, విమతిశ్చేత్ వద నం విదార్యతామ్ ।\nఇతి మాతృవిభర్త్సితో ముఖం, వికసత్పద్మనిభం వ్యదారయః ॥ 5 ॥",
+          "audioUrl": "/audio/dasakam46/sloka_5.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1rqDWOI8Fs1LdBJ_-tSTY1KJefViMPBsK/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 6,
+          "text": "అపి మృల్లవదర్శనోత్సుకాం, జననీం తాం బహు తర్పయన్నివ ।\nపృథివీం నిఖిలాన్న కేవలం, భువనాన్యప్యఖిలాన్యదీదృశః ॥ 6 ॥",
+          "audioUrl": "/audio/dasakam46/sloka_6.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1KV2Tg26tfB49BE1CaeAoXQqEZ5IcphDs/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 7,
+          "text": "కుహచిత్ వ నమంబుధిహ్ క్వచిత్, క్వచిదభ్రం కుహచిద్రసాతలమ్ ।\nమనుజా దనుజాహ్ క్వచిత్ సురా, దదృశే కిన్న తదా త్వదాననే ॥ 7 ॥",
+          "audioUrl": "/audio/dasakam46/sloka_7.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1TNlCLCpl9s-_eXU3GG1FGw2mMIVHJdGx/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 8,
+          "text": "కలశాంబుధిశాయినం పునః పరవైకుంఠపదాధివాసినమ్ ।\nస్వపురశ్చ నిజార్భకాత్మకం, కతిథా త్వాన్న దదర్శ సా ముఖే ॥ 8॥",
+          "audioUrl": "/audio/dasakam46/sloka_8.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1DGWjgqq-DbijCxTmm29a8xnhTNMxaTr9/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 9,
+          "text": "వికసద్భువనే ముఖోదరే, నను భూయో పి తథావిధాననః ।\nఅనయా స్ఫుటమీక్షితో భవాన్, అనవస్థాం జగతాం బతాతనోత్ ॥ 9 ॥",
+          "audioUrl": "/audio/dasakam46/sloka_9.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1WywtBHXTrQBp0FwGw7GPAgv-k_xbKA0x/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 10,
+          "text": "ధృతతత్త్వ ధియం తదా క్షణం, జననీం తాం ప్రణయేన మోహయన్ ।\nస్తనమంబ దిశేత్యుపాసజన్, భగవన్నద్భుతబాల! పాహి మామ్ ॥ 10 ॥",
+          "audioUrl": "/audio/dasakam46/sloka_10.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1hBAgaY2BH8Llzyqr_6J3bDCmJdsZ1rJ7/view?usp=drive_link"
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "number": 47,
+      "title": "Dasakam 47: Liberation of Yamalarjuna Trees",
+      "titleTelugu": "దశకం 47: యమలార్జున భంజనము",
+      "summary": "Felling of twin Arjuna trees liberating Nalakuvara and Manigriva.",
+      "slokaCount": 10,
+      "slokas": [
+        {
+          "slokaNo": 1,
+          "text": "ఏకదా దధివిమాథకారిణీం, మాతరం సముపసేదివాన్ భవాన్ ।\nస్తన్యలోలుపతయా నివారయన్, అంకమేత్య పపివాన్ పయోధరౌ ॥ 1 ॥",
+          "audioUrl": "/audio/dasakam47/sloka_1.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1tePGyADsKivCdjzXxB8f1lxmr1s9gtA8/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 2,
+          "text": "అర్ధపీతకుచకుడ్మలే త్వయి, స్నిగ్ధహాసమధురాననాంబుజే ।\nదుగ్ధమీశ దహ నే పరిస్రుతం, ధర్తుమాశు జ ననీ జగామ తే ॥ 2 ॥",
+          "audioUrl": "/audio/dasakam47/sloka_2.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1JhaX-Q8G6YIIZ4RdAdJ886pDuggjm6t6/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 3,
+          "text": "సామిపీతరసభంగసంగత, క్రోధభారపరిభూతచేతసా\nమంథదండముపగృహ్య పాటితం, హంత దేవ! దధిభాజనం త్వయా ॥ 3 ॥",
+          "audioUrl": "/audio/dasakam47/sloka_3.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1KX3J-eguxR1zz09miNx8405CwOh6P74k/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 4,
+          "text": "ఉచ్చలద్ధ్వనితముచ్చకైస్తకైస్తదా, సంనిశమ్య జననీ సమాద్రుతా ।\nత్వద్యశో విసరవద్దదర్శ సా, సద్య ఏవ దధి విస్తృ తం క్షితౌ ॥ 4 ।",
+          "audioUrl": "/audio/dasakam47/sloka_4.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1GAUNttJPy17T0E9khISbfiZeovBvDW8U/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 5,
+          "text": "వేదమార్గపరిమార్గితం రుషా, త్వామవీక్ష్య పరిమార్గయంత్యసౌ ।\nసందదర్శ సుకృతిన్యులూఖలే, దీయమాననవనీతమోతవే ॥ 5 ।",
+          "audioUrl": "/audio/dasakam47/sloka_5.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1wsds3ULGYVrJqKCxzI4T7_c_bepdiUVH/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 6,
+          "text": "త్వాం ప్రగృహ్య బత భీతిభావనా, భాసురాననసరోజమాశు సా ।\nరోషరూషితముఖీ సఖీపురో, బంధనాయ రశనాముపాదదే ॥ 6 ।",
+          "audioUrl": "/audio/dasakam47/sloka_6.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1ijsdpmim9ZbYCYh1iPdZnReVU1wXDqct/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 7,
+          "text": "బంధుమిచ్ఛతి యమేవ సజ్జనః తం భవంతమయి! బంధుమిచ్ఛతీ ।\nసా నియుజ్య రశనాగుణాన్ బహూన్, ద్వ్యంగుళోనమఖిలం కిలైక్షత ॥ 7 ॥",
+          "audioUrl": "/audio/dasakam47/sloka_7.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1BpQXcrGVaipox6HYNpXkkrUvHoE2vkOg/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 8,
+          "text": "విస్మితోత్స్మి తసఖీజనేక్షితాం, స్విన్నసన్నవపుషం నిరీక్ష్య తామ్ ।\nనిత్యముక్తవపుక్త రప్యహో! హరే! బంధమేవ కృపయాన్వమన్యథాః ॥ 8 ॥",
+          "audioUrl": "/audio/dasakam47/sloka_8.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1FKvJeZWvyv9pnfght4z9LmggQi_M9Exv/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 9,
+          "text": "వేదమార్గపరిమార్గితం రుషా, త్వామవీక్ష్య పరిమార్గయంత్యసౌ ।\nసందదర్శ సుకృతిన్యులూఖలే, దీయమాననవనీతమోతవే ॥ 5 ।",
+          "audioUrl": "/audio/dasakam47/sloka_9.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1hf1MuwE16QlGTLXPhSVAqLjVklZlddRO/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 10,
+          "text": "యద్యపాశసుగమో వి భో భవాన్! సంయతహ్ కిము సపాశయానయా ।\nఏవమాది దివిజైరభిష్టుతో, వాతనాథ పరిపాహి మాం గదాత్ ॥ 10 ॥",
+          "audioUrl": "/audio/dasakam47/sloka_10.mp3",
+          "driveUrl": "https://drive.google.com/file/d/15XIOgR18dXPIQh6RqwzszVoz0lbrLxh5/view?usp=drive_link"
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "number": 48,
+      "title": "Dasakam 48: Move to Vrindavan & Vatsasura",
+      "titleTelugu": "దశకం 48: బృందావన ప్రవేశము & వత్సాసుర వధ",
+      "summary": "Journey to Vrindavan and subduing Vatsasura & Bakasura.",
+      "slokaCount": 10,
+      "slokas": [
+        {
+          "slokaNo": 1,
+          "text": "ముదా సురౌఘైస్త్వ ముదారసమ్మదైః ఉదీర్య దామోదర ఇత్యభిష్టుతః ।\nమృదూదరస్ స్వైరములూఖలే లగన్, అదూరతో ద్వౌ కకుభావుదైక్షథాః ॥ 1 ॥",
+          "audioUrl": "/audio/dasakam48/sloka_1.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1qHqQYUzCkLEjGfc098PnJhYmwdIv_7pT/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 2,
+          "text": "కుబేరసూనుర్నలకూబరాభిధః పరో మణిగ్రీవ ఇతి ప్రథాం గతః ।\nమహేశసేవాధిగతశ్రియోన్మదౌ, చిరం కిల త్వద్విముఖావఖేలతామ్ ॥ 2 ॥",
+          "audioUrl": "/audio/dasakam48/sloka_2.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1RvqNuLjriePAs-0trWF_V5f3xaJuJV8c/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 3,
+          "text": "సురాపగాయాం కిల తౌ మదోత్కటౌ, సురాపగా య ద్బ హుయౌవతావృతౌ ।\nవివాససౌ కేళి పరౌ స నారదః భవత్పదైక ప్రవణో నిరైక్షత ॥ 3 ।",
+          "audioUrl": "/audio/dasakam48/sloka_3.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1qnDL7M-lqfl61mc5fURhgBCjFitt0Ch2/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 4,
+          "text": "భియా ప్రియాలోకముపాత్తవాససం, పురో నిరీక్ష్యాపి మదాంధచేతసౌ ।\nఇమౌ భవద్భక్త్యు పశాంతిసిద్ధయే, మునిర్జగౌ శాంతిమృతే కుతస్సుఖమ్ ॥ 4 ॥",
+          "audioUrl": "/audio/dasakam48/sloka_4.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1XmKNagjgUD5tEPwkwZxK0FPPZGn3oQ3k/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 5,
+          "text": "యువామవాప్తౌ కకుభాత్మతాం చిరం, హరిం నిరీక్ష్యాథ పదం స్వమాప్నుతమ్\nఇతీరితౌ తౌ భవదీక్షణస్పృహాం, గతౌ వ్రజాంతే కకుభౌ బభూవతుః ॥ 5 ।",
+          "audioUrl": "/audio/dasakam48/sloka_5.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1HszNLQA2nleVMvUD2Xka7bE2Wt9J9ehC/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 6,
+          "text": "అతంద్రమింద్రద్రుయుగం తథావిధం, సమేయుషా మంథరగామినా త్వయా ।\nతిరాయితోలూఖలరోధనిర్ధుతౌ, చిరాయ జీర్ణౌ పరిపాతితౌ తరూ ॥ 6 ।",
+          "audioUrl": "/audio/dasakam48/sloka_6.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1blkYL6LDPSM3i_ls8HhrWgWhe26e6M13/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 7,
+          "text": "అభాజి శాఖి ద్వితయం యదా త్వయా, తదైవ తద్గర్భతలాన్నిరేయుషా I\nమహాత్విషా యక్షయుగేన తత్-క్షణాత్, అభాజి గోవింద! భవానపి స్తవైః ॥ 7 ॥",
+          "audioUrl": "/audio/dasakam48/sloka_7.mp3",
+          "driveUrl": "https://drive.google.com/file/d/15NQeNMe7ChKfnlcG_4iAz2Q8v7skc5a6/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 8,
+          "text": "ఇహాన్యభక్తోపి సమేష్యతి క్రమాత్ క్ర , భవంతమేతౌ ఖలు రుద్రసేవకౌ ।\nమునిప్రసాదాత్ భవదంఘ్రిమాగతౌ, గతౌ వృణానౌ ఖలు భక్తిముత్తమామ్ ॥ 8 ॥",
+          "audioUrl": "/audio/dasakam48/sloka_8.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1875b_C6BvolNSDJgPelHAw8wYG_mhJgF/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 9,
+          "text": "తతస్తరూద్దారణ దారు ణారవప్రకంపి సంపాతిని గోపమండలే ।\nవిలజ్జిత త్వజ్జననీ ముఖేక్షిణా, వ్యమోక్షి నందేన భవాన్ విమోక్షదః॥ 9 ॥",
+          "audioUrl": "/audio/dasakam48/sloka_9.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1BBbRj949tZVTAIzj8QVK8KApmTu6kh8M/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 10,
+          "text": "మహీరుహోర్మధ్యగతో బతార్భకః హరేః ప్రభావాదపరిక్షతో ధునా ।\nఇతి బ్రువాణైర్గమితో గృహం భవాన్, మరుత్పురాధీశ్వర పాహి మాం గదాత్ ॥ 10॥",
+          "audioUrl": "/audio/dasakam48/sloka_10.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1BBbRj949tZVTAIzj8QVK8KApmTu6kh8M/view?usp=drive_link"
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "number": 49,
+      "title": "Dasakam 49: Slaying of Aghasura",
+      "titleTelugu": "దశకం 49: అఘాసుర వధ",
+      "summary": "Liberation of serpent demon Aghasura.",
+      "slokaCount": 10,
+      "slokas": [
+        {
+          "slokaNo": 1,
+          "text": "భవత్ప్రభావావిదురా-హి గోపాః తరు ప్రపాతాదికమత్ర గోష్ఠే।\nఅహేతుముత్పాతగణం విశంక్య, ప్రయాతుమన్యత్ర మనో వితేనుః ॥ 1 ॥",
+          "audioUrl": "/audio/dasakam49/sloka_1.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1lUYDDlf9ZvYmo4HrXRDeQcyi-VAkgxPI/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 2,
+          "text": "తత్రోపనందాభిధగోపవర్యః జగౌ భవత్ప్రేరణయైవ నూనమ్ ।\nఇతః ప్రతీచ్యామ్ విపినం మనోజ్ఞం, బృందావనం నామ విరాజతీతి ॥ 2 ॥",
+          "audioUrl": "/audio/dasakam49/sloka_2.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1YjKKJyqqY3jHSF0GuCf3bNmvlj-6l0ZT/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 3,
+          "text": "బృహద్వనం తత్ఖలు నందముఖ్యాః విధాయ గౌష్ఠీనమథ క్షణేన ।\nత్వదన్వితత్వజ్జననీనివిష్టగరిష్ఠయానానుగతా విచేలుః ॥ 3 ॥",
+          "audioUrl": "/audio/dasakam49/sloka_3.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1TWB41OT5I24y-UOnuiFCaRYosfP03DNA/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 4,
+          "text": "అనోమనోజ్ఞధ్వనిధేనుపాలీఖురప్రణాదాంతరతో వ ధూభిః ।\nభవద్వినోదాలపితాక్షరాణి, ప్రపీయ నా జ్ఞాయత మార్గదైర్ఘ్య మ్ ॥ 4 ॥",
+          "audioUrl": "/audio/dasakam49/sloka_4.mp3",
+          "driveUrl": "https://drive.google.com/file/d/15oxQBjd20YquFN_3XZ02NBVm_owxGDOZ/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 5,
+          "text": "నిరీక్ష్య బృందావనమీశ నందత్, ప్రసూన కుంద ప్రముఖ ద్రుమౌఘమ్ ।\nఅమోదథాశ్ శాద్వలసాంద్రలక్ష్మ్యా, హరిన్మణీకుట్టిమపుష్టశోభమ్ ॥ 5 ॥",
+          "audioUrl": "/audio/dasakam49/sloka_5.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1yOvGk4sqyBDIMpmdDQ6JpbDjQW7uv39W/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 6,
+          "text": "నవాకనిర్వ్యూఢ నివాసభేదేషు, అశేషగోపేషు సు ఖాసితేషు ।\nవనశ్రియం గోపకిశోరపాలీ, విమిశ్రితః పర్యగలోకథాస్త్వ మ్ ॥ 6 ॥",
+          "audioUrl": "/audio/dasakam49/sloka_6.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1n3eIrDPTiH6NidAXqzwOnR0bxtbV1cUm/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 7,
+          "text": "అరాళమార్గాగతనిర్మలాపాం, మరాలకూజాకృతనర్మలాపామ్ ।\nనిరంతర స్మేరసరోజవక్త్రాం , కళిందకన్యాం సమలోకయస్త్వ మ్ ॥ 7 ॥",
+          "audioUrl": "/audio/dasakam49/sloka_7.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1Toz0ycKcV20cADLpGLko9cSQ-PapQT9K/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 8,
+          "text": "మయూరకేకాశతలోభనీయం, మయూఖమాలాశబలం మణీనామ్ ।\nవిరించలోకస్పృశముచ్చశృంగైః గిరిం-చ గోవర్ధనమైక్షథాస్త్వ మ్ ॥ 8॥",
+          "audioUrl": "/audio/dasakam49/sloka_8.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1F-ZusiPXbAn7vrDm1HTbp_bgIpUekWPh/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 9,
+          "text": "సమం-తతో గోపకుమారకైస్త్వంకైస్త్వం , సమంతతో య త్ర వనాంతమాగాః ।\nతతస్-తతస్తాం కుటిలామపశ్యః కళిందజాం రాగవతీమివైకామ్ ॥ 9 ॥",
+          "audioUrl": "/audio/dasakam49/sloka_9.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1Zlor6SzKFB8hIdBo084wZJHKaqwm1A2H/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 10,
+          "text": "తథావిధే స్మిన్ విపినే పశవ్యే, సముత్సుకో వ త్సగణప్రచారే ।\nచరన్ సరామోథ కుమారకైస్త్వంకైస్త్వం , సమీరగేహాధిప పాహి రోగాత్॥ 10 ॥",
+          "audioUrl": "/audio/dasakam49/sloka_10.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1QCb_1uoXnh6GJoTGu-zsqOXZAAGB8RcR/view?usp=drive_link"
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "number": 50,
+      "title": "Dasakam 50: Brahma Mohan Leela",
+      "titleTelugu": "దశకం 50: బ్రహ్మ మోహన లీల",
+      "summary": "Lord Brahma's illusion and Krishna manifesting as all calves and cowherds.",
+      "slokaCount": 10,
+      "slokas": [
+        {
+          "slokaNo": 1,
+          "text": "తరలమధుకృద్బృం దే బృందావనేథ మనోహరే\nపశుపశిశుభి స్సాకం వత్సానుపాలనలోలుపః ।\nహలధరసఖో దేవ! శ్రీమన్! విచేరిథ ధారయన్\nగవలమురళీ వేత్రం నేత్రాభిరామతనుద్యుతిః ॥ 1॥",
+          "audioUrl": "/audio/dasakam50/sloka_1.mp3",
+          "driveUrl": "https://drive.google.com/file/d/11jEjlFnApHHiksVxcuHhNfliL5TCOUGD/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 2,
+          "text": "విహితజగతీరక్షం లక్ష్మీకరాంబుజలాలితం\nదదతి చరణద్వంద్వం బృందావనే త్వయి పావనే।\nకిమివ-న బభౌ సంపత్సంపూరితం తరువల్లరీ\nసలిలధరణీగోత్రక్షేత్రాదికం కమలాపతే!॥ 2 ॥",
+          "audioUrl": "/audio/dasakam50/sloka_2.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1ae67fXhLbqLXHylQJdBI0v7giayvPlvq/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 3,
+          "text": "విలసదులపే కాంతారాంతే సమీరణ శీతలే\nవిపులయమునాతీరే గోవ ర్ధనాచలమూర్ధసు ।\nలలితమురళీనాదస్ సంచారయన్ ఖలు వాత్సకం\nక్వచన దివసే దైత్యం వత్సాకృతిం త్వముదైక్షథాః॥ 3॥",
+          "audioUrl": "/audio/dasakam50/sloka_3.mp3",
+          "driveUrl": "https://drive.google.com/file/d/18WaA81tMq5NIkDObaj5w1-jYqrismlej/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 4,
+          "text": "రభసవిలసత్పుచ్ఛం విచ్ఛాయతో స్య విలోకయన్\nకిమపి వలి తస్కంధం రంధ్రప్రతీక్షముదీక్షితమ్ ।\nతమథ చరణే బిభ్రత్ విభ్రామయన్ ముహురుచ్చకైః\nకుహచన మహావృక్షే చిక్షేపిథ క్షతజీవితమ్ ॥ 4 ॥",
+          "audioUrl": "/audio/dasakam50/sloka_4.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1hVjUKodNOMtiAdaelVEE2Lrtmx3nE_Op/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 5,
+          "text": "నిపతతి మహాదైత్యే జాత్యా దురాత్మని తత్ క్షణం\nనిపతనజవక్షుణ్ణక్షోణీరుహక్షతకాననే\nదివి పరిమిలత్ బృందాబృందారకాహ్ కుసుమోత్కరైః\nశిరసి భవతో హ ర్షాత్ వర్షంతి నామ తదా హరే ॥ 5 ।",
+          "audioUrl": "/audio/dasakam50/sloka_5.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1Alx6KZDHoaW7baU6-cRdovNKQi3W-PUS/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 6,
+          "text": "సురభిలతమామూర్ధన్యూర్ధ్వం కుతహ్ కుసుమావలీ\nనిపతతి తవేత్యుక్తోబాలైస్సహేలముదైరయః ।\nఝటితి దనుజక్షేపేణోర్ధ్వం గతస్తరుమండలాత్\nకుసుమనికరస్ సోయం నూనం సమేతి శనైరితి ॥ 6 ॥",
+          "audioUrl": "/audio/dasakam50/sloka_6.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1WzjhQknQ6rBq5cHiyyRQ_iVDAE6RCJLm/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 7,
+          "text": "క్వచన దివసే భూయో భూయస్తరే పరుషాతపే\nతపనతనయాపాథః పాతుం గతా భవదాదయః ।\nచలితగరుతం ప్రేక్షామాసుర్బ కం ఖలు విస్మృతం\nక్షితిధరగరుచ్ఛేదే కైలాకై సశైలమివా శై పరమ్ ॥ 7 ॥",
+          "audioUrl": "/audio/dasakam50/sloka_7.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1amOZggyX9-4RJ2UFnqHGA9d4jfZFIy3E/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 8,
+          "text": "పిబతి సలిలం గోపవ్రాతే భవంతమభిద్రుతః\nస-కిల ని గిలన్నగ్ని ప్రఖ్యం పునర్ద్రుతముద్వమన్ ।\nదలయితుమగాత్ త్రోట్యాహ్ కోట్యా తదాశు భవాన్ విభో!\nఖలజనభిదాచుంచుశ్చంచూ ప్రగృహ్య దదార తమ్ ॥ 8 ॥",
+          "audioUrl": "/audio/dasakam50/sloka_8.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1e1uxb7kn8WilvyazGS_NVtmHMOErDti2/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 9,
+          "text": "సపది సహజాం సంద్రష్టుం వా మృతాం ఖలు పూతనామ్\nఅనుజమఘమప్యగ్రే గత్వా ప్రతీక్షితుమేవ వా ।\nశమననిలయం యాతే తస్మిన్ బకే సుమనోగణే\nకిరతి సుమనోబృందం బృందావనాత్ గృహమైయథాః ॥ 9॥",
+          "audioUrl": "/audio/dasakam50/sloka_9.mp3",
+          "driveUrl": "https://drive.google.com/file/d/1bIurUdvlOywvwfeGTk-vSS2FTj_-Opv9/view?usp=drive_link"
+        },
+        {
+          "slokaNo": 10,
+          "text": "లలిత మురళీ నాదం దూరాన్నిశమ్య వధూ జనైః\nత్వరితముపగమ్యారాదారూఢమోదముదీక్షితః ।\n\nజనిత జననీ నందా నందస్ సమీరణ మందిర-\nప్రథిత వసతే! శౌరే! దూరీకురుష్వ మమామయాన్॥ 10 ॥",
+          "audioUrl": "/audio/dasakam50/sloka_10.mp3",
+          "driveUrl": "https://drive.google.com/file/d/191kafk079A83hu6whmuv6Rbd9uXq_4MB/view?usp=drive_link"
         }
       ]
     }
