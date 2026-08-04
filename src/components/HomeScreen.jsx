@@ -155,19 +155,6 @@ export default function HomeScreen({
           </button>
         </div>
       )}
-
-      {/* App Info Footer */}
-      <div style={{
-        marginTop: 'auto',
-        textAlign: 'center',
-        paddingTop: '20px',
-        color: '#ffffff',
-        fontSize: '0.85rem',
-        fontWeight: 600,
-        textShadow: '0 2px 6px rgba(0, 0, 0, 0.8)'
-      }}>
-        <p style={{ margin: 0 }}>Srimad Narayaneeyam Devotional Player</p>
-      </div>
     </div>
   );
 }
