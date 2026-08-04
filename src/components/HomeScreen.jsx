@@ -13,18 +13,18 @@ export default function HomeScreen({
         padding: '20px 16px 140px 16px',
         display: 'flex',
         flexDirection: 'column',
-        justifyContent: 'flex-end',
-        gap: '16px',
-        minHeight: 'calc(100vh - 60px)',
-        backgroundImage: `linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.35)), url('/images/home_bg.jpg')`,
+        justifyContent: 'center',
+        gap: '20px',
+        minHeight: 'calc(100vh - 80px)',
+        backgroundImage: `linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.3)), url('/images/home_bg.jpg')`,
         backgroundSize: 'cover',
         backgroundPosition: 'center top',
         backgroundRepeat: 'no-repeat',
         backgroundAttachment: 'fixed'
       }}
     >
-      {/* Main Feature Button: Narayaneeyam */}
-      <div>
+      {/* Main Feature Button: Narayaneeyam Centered */}
+      <div style={{ width: '100%' }}>
         <button
           onClick={onSelectNarayaneeyam}
           style={{
@@ -34,20 +34,20 @@ export default function HomeScreen({
             WebkitBackdropFilter: 'blur(12px)',
             border: '2px solid var(--primary)',
             borderRadius: 'var(--radius-md)',
-            padding: '20px',
+            padding: '22px 20px',
             display: 'flex',
             alignItems: 'center',
             justifyContent: 'space-between',
             cursor: 'pointer',
-            boxShadow: '0 10px 30px rgba(0, 0, 0, 0.35)',
+            boxShadow: '0 12px 36px rgba(0, 0, 0, 0.4)',
             transition: 'transform 0.15s, box-shadow 0.15s',
             textAlign: 'left'
           }}
         >
           <div style={{ display: 'flex', alignItems: 'center', gap: '16px' }}>
             <div style={{
-              width: '54px',
-              height: '54px',
+              width: '56px',
+              height: '56px',
               borderRadius: 'var(--radius-md)',
               backgroundColor: 'var(--primary-light)',
               color: 'var(--primary)',
@@ -56,13 +56,13 @@ export default function HomeScreen({
               justifyContent: 'center',
               boxShadow: 'var(--shadow-sm)'
             }}>
-              <BookOpen size={28} />
+              <BookOpen size={30} />
             </div>
             <div>
-              <h4 style={{ fontSize: '1.3rem', fontWeight: 700, color: '#0f172a', margin: '0 0 2px 0' }}>
+              <h4 style={{ fontSize: '1.35rem', fontWeight: 700, color: '#0f172a', margin: '0 0 2px 0' }}>
                 Narayaneeyam
               </h4>
-              <p style={{ fontSize: '1.05rem', color: 'var(--primary)', fontWeight: 700, margin: 0, fontFamily: 'var(--font-telugu)' }}>
+              <p style={{ fontSize: '1.1rem', color: 'var(--primary)', fontWeight: 700, margin: 0, fontFamily: 'var(--font-telugu)' }}>
                 నారాయణీయం (100 దశకాలు)
               </p>
             </div>
@@ -70,7 +70,7 @@ export default function HomeScreen({
           <div style={{
             backgroundColor: 'var(--primary)',
             color: '#ffffff',
-            padding: '10px 20px',
+            padding: '10px 22px',
             borderRadius: 'var(--radius-sm)',
             fontSize: '0.95rem',
             fontWeight: 700,
