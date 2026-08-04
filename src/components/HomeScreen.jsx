@@ -15,44 +15,37 @@ export default function HomeScreen({
         flexDirection: 'column',
         gap: '20px',
         minHeight: 'calc(100vh - 60px)',
-        backgroundImage: `linear-gradient(rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.35)), url('/images/home_bg.jpg')`,
+        backgroundImage: `linear-gradient(rgba(0, 0, 0, 0.15), rgba(0, 0, 0, 0.25)), url('/images/home_bg.jpg')`,
         backgroundSize: 'cover',
-        backgroundPosition: 'center',
+        backgroundPosition: 'center top',
         backgroundRepeat: 'no-repeat',
         backgroundAttachment: 'fixed'
       }}
     >
-      {/* Welcome Banner */}
+      {/* Frosted Glassmorphism Welcome Banner */}
       <div style={{
-        background: 'linear-gradient(135deg, rgba(79, 70, 229, 0.95) 0%, rgba(49, 46, 129, 0.98) 100%)',
+        background: 'linear-gradient(135deg, rgba(30, 27, 75, 0.45) 0%, rgba(15, 23, 42, 0.55) 100%)',
+        backdropFilter: 'blur(12px)',
+        WebkitBackdropFilter: 'blur(12px)',
+        border: '1px solid rgba(255, 255, 255, 0.3)',
         color: '#ffffff',
-        padding: '24px 20px',
+        padding: '20px',
         borderRadius: 'var(--radius-lg)',
-        boxShadow: '0 8px 24px rgba(0, 0, 0, 0.3)',
+        boxShadow: '0 8px 32px rgba(0, 0, 0, 0.3)',
         position: 'relative',
         overflow: 'hidden'
       }}>
         <div style={{ position: 'relative', zIndex: 2 }}>
-          <div style={{ display: 'flex', alignItems: 'center', gap: '6px', fontSize: '0.85rem', color: '#fde047', fontWeight: 600, marginBottom: '6px' }}>
+          <div style={{ display: 'flex', alignItems: 'center', gap: '6px', fontSize: '0.85rem', color: '#fde047', fontWeight: 600, marginBottom: '4px' }}>
             <Sparkles size={16} fill="#fde047" />
             <span>Devotional Prayer App</span>
           </div>
-          <h2 style={{ fontSize: '1.8rem', fontWeight: 800, margin: '0 0 4px 0', fontFamily: 'var(--font-telugu)', color: '#ffffff' }}>
+          <h2 style={{ fontSize: '1.8rem', fontWeight: 800, margin: '0 0 2px 0', fontFamily: 'var(--font-telugu)', color: '#ffffff', textShadow: '0 2px 8px rgba(0, 0, 0, 0.6)' }}>
             నారాయణీయం
           </h2>
-          <p style={{ fontSize: '0.95rem', opacity: 0.95, margin: 0, color: '#e0e7ff' }}>
+          <p style={{ fontSize: '0.9rem', opacity: 0.95, margin: 0, color: '#f1f5f9', textShadow: '0 1px 4px rgba(0, 0, 0, 0.6)' }}>
             Srimad Narayaneeyam Slokas with Audio
           </p>
-        </div>
-        <div style={{
-          position: 'absolute',
-          right: '-10px',
-          bottom: '-15px',
-          fontSize: '90px',
-          opacity: 0.2,
-          userSelect: 'none'
-        }}>
-          🪷
         </div>
       </div>
 
@@ -60,15 +53,17 @@ export default function HomeScreen({
       <div>
         <div style={{
           display: 'inline-block',
-          backgroundColor: 'rgba(15, 23, 42, 0.75)',
+          backgroundColor: 'rgba(15, 23, 42, 0.65)',
           color: '#ffffff',
           padding: '6px 14px',
           borderRadius: '20px',
-          fontSize: '0.85rem',
+          fontSize: '0.82rem',
           fontWeight: 700,
-          marginBottom: '12px',
-          backdropFilter: 'blur(4px)',
-          boxShadow: '0 2px 8px rgba(0, 0, 0, 0.2)'
+          marginBottom: '10px',
+          backdropFilter: 'blur(8px)',
+          WebkitBackdropFilter: 'blur(8px)',
+          border: '1px solid rgba(255, 255, 255, 0.2)',
+          boxShadow: '0 4px 12px rgba(0, 0, 0, 0.2)'
         }}>
           SELECT PRAYER / ప్రార్థన
         </div>
@@ -77,7 +72,9 @@ export default function HomeScreen({
           onClick={onSelectNarayaneeyam}
           style={{
             width: '100%',
-            backgroundColor: '#ffffff',
+            backgroundColor: 'rgba(255, 255, 255, 0.88)',
+            backdropFilter: 'blur(12px)',
+            WebkitBackdropFilter: 'blur(12px)',
             border: '2px solid var(--primary)',
             borderRadius: 'var(--radius-md)',
             padding: '20px',
@@ -85,7 +82,7 @@ export default function HomeScreen({
             alignItems: 'center',
             justifyContent: 'space-between',
             cursor: 'pointer',
-            boxShadow: '0 10px 25px rgba(0, 0, 0, 0.25)',
+            boxShadow: '0 10px 30px rgba(0, 0, 0, 0.25)',
             transition: 'transform 0.15s, box-shadow 0.15s',
             textAlign: 'left'
           }}
@@ -130,14 +127,16 @@ export default function HomeScreen({
       {/* Continue Listening (If last played exists) */}
       {lastPlayedSloka && (
         <div style={{
-          backgroundColor: '#ffffff',
+          backgroundColor: 'rgba(255, 255, 255, 0.88)',
+          backdropFilter: 'blur(12px)',
+          WebkitBackdropFilter: 'blur(12px)',
           border: '1px solid var(--border)',
           borderRadius: 'var(--radius-md)',
           padding: '16px',
           display: 'flex',
           alignItems: 'center',
           justifyContent: 'space-between',
-          boxShadow: '0 8px 20px rgba(0, 0, 0, 0.2)'
+          boxShadow: '0 8px 24px rgba(0, 0, 0, 0.2)'
         }}>
           <div>
             <span style={{ fontSize: '0.75rem', fontWeight: 700, color: 'var(--accent-gold)', textTransform: 'uppercase' }}>
