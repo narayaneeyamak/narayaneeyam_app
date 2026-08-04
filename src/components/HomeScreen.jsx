@@ -13,56 +13,23 @@ export default function HomeScreen({
         padding: '20px 16px 140px 16px',
         display: 'flex',
         flexDirection: 'column',
-        gap: '20px',
+        justifyContent: 'flex-end',
+        gap: '16px',
         minHeight: 'calc(100vh - 60px)',
-        backgroundImage: `linear-gradient(rgba(0, 0, 0, 0.15), rgba(0, 0, 0, 0.25)), url('/images/home_bg.jpg')`,
+        backgroundImage: `linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.35)), url('/images/home_bg.jpg')`,
         backgroundSize: 'cover',
         backgroundPosition: 'center top',
         backgroundRepeat: 'no-repeat',
         backgroundAttachment: 'fixed'
       }}
     >
-      {/* Frosted Glassmorphism Welcome Banner */}
-      <div style={{
-        background: 'linear-gradient(135deg, rgba(30, 27, 75, 0.45) 0%, rgba(15, 23, 42, 0.55) 100%)',
-        backdropFilter: 'blur(12px)',
-        WebkitBackdropFilter: 'blur(12px)',
-        border: '1px solid rgba(255, 255, 255, 0.3)',
-        color: '#ffffff',
-        padding: '16px 20px',
-        borderRadius: 'var(--radius-lg)',
-        boxShadow: '0 8px 32px rgba(0, 0, 0, 0.3)',
-        textAlign: 'center'
-      }}>
-        <h2 style={{ fontSize: '2.1rem', fontWeight: 800, margin: 0, fontFamily: 'var(--font-telugu)', color: '#ffffff', textShadow: '0 2px 8px rgba(0, 0, 0, 0.6)' }}>
-          నారాయణీయం
-        </h2>
-      </div>
-
       {/* Main Feature Button: Narayaneeyam */}
       <div>
-        <div style={{
-          display: 'inline-block',
-          backgroundColor: 'rgba(15, 23, 42, 0.65)',
-          color: '#ffffff',
-          padding: '6px 14px',
-          borderRadius: '20px',
-          fontSize: '0.82rem',
-          fontWeight: 700,
-          marginBottom: '10px',
-          backdropFilter: 'blur(8px)',
-          WebkitBackdropFilter: 'blur(8px)',
-          border: '1px solid rgba(255, 255, 255, 0.2)',
-          boxShadow: '0 4px 12px rgba(0, 0, 0, 0.2)'
-        }}>
-          SELECT PRAYER / ప్రార్థన
-        </div>
-
         <button
           onClick={onSelectNarayaneeyam}
           style={{
             width: '100%',
-            backgroundColor: 'rgba(255, 255, 255, 0.88)',
+            backgroundColor: 'rgba(255, 255, 255, 0.92)',
             backdropFilter: 'blur(12px)',
             WebkitBackdropFilter: 'blur(12px)',
             border: '2px solid var(--primary)',
@@ -72,7 +39,7 @@ export default function HomeScreen({
             alignItems: 'center',
             justifyContent: 'space-between',
             cursor: 'pointer',
-            boxShadow: '0 10px 30px rgba(0, 0, 0, 0.25)',
+            boxShadow: '0 10px 30px rgba(0, 0, 0, 0.35)',
             transition: 'transform 0.15s, box-shadow 0.15s',
             textAlign: 'left'
           }}
@@ -103,9 +70,9 @@ export default function HomeScreen({
           <div style={{
             backgroundColor: 'var(--primary)',
             color: '#ffffff',
-            padding: '8px 18px',
+            padding: '10px 20px',
             borderRadius: 'var(--radius-sm)',
-            fontSize: '0.9rem',
+            fontSize: '0.95rem',
             fontWeight: 700,
             boxShadow: 'var(--shadow-sm)'
           }}>
@@ -117,7 +84,7 @@ export default function HomeScreen({
       {/* Continue Listening (If last played exists) */}
       {lastPlayedSloka && (
         <div style={{
-          backgroundColor: 'rgba(255, 255, 255, 0.88)',
+          backgroundColor: 'rgba(255, 255, 255, 0.92)',
           backdropFilter: 'blur(12px)',
           WebkitBackdropFilter: 'blur(12px)',
           border: '1px solid var(--border)',
@@ -126,7 +93,7 @@ export default function HomeScreen({
           display: 'flex',
           alignItems: 'center',
           justifyContent: 'space-between',
-          boxShadow: '0 8px 24px rgba(0, 0, 0, 0.2)'
+          boxShadow: '0 8px 24px rgba(0, 0, 0, 0.3)'
         }}>
           <div>
             <span style={{ fontSize: '0.75rem', fontWeight: 700, color: 'var(--accent-gold)', textTransform: 'uppercase' }}>
