@@ -14,7 +14,7 @@ export default function DasakamList({ dasakams, onSelectDasakam }) {
   });
 
   return (
-    <div className="animate-fade-in" style={{ padding: '16px', display: 'flex', flexDirection: 'column', gap: '16px' }}>
+    <div className="animate-fade-in" style={{ padding: '16px 16px 140px 16px', display: 'flex', flexDirection: 'column', gap: '16px' }}>
       
       {/* Search Input */}
       <div style={{ position: 'relative' }}>

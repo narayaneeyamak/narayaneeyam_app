@@ -12,7 +12,7 @@ export default function SlokaView({
   if (!dasakam) return null;
 
   return (
-    <div className="animate-fade-in" style={{ padding: '16px 16px 100px 16px', display: 'flex', flexDirection: 'column', gap: '16px' }}>
+    <div className="animate-fade-in" style={{ padding: '16px 16px 140px 16px', display: 'flex', flexDirection: 'column', gap: '16px' }}>
       
       {/* Dasakam Title Header */}
       <div style={{
