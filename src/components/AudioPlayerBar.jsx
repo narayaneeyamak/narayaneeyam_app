@@ -22,14 +22,12 @@ export default function AudioPlayerBar({
 
   const streamUrl = activeSloka?.audioUrl ? getAudioStreamUrl(activeSloka.audioUrl) : '';
 
-  // Reset audio error when active sloka changes
   useEffect(() => {
     setAudioError(false);
     setCurrentTime(0);
     setDuration(0);
   }, [activeSloka?.audioUrl, activeSloka?.slokaNo]);
 
-  // Handle Play / Pause changes
   useEffect(() => {
     if (!audioRef.current || !streamUrl) return;
     if (isPlaying) {
@@ -45,7 +43,6 @@ export default function AudioPlayerBar({
     }
   }, [isPlaying, streamUrl]);
 
-  // Handle Speed Change
   useEffect(() => {
     if (audioRef.current) {
       audioRef.current.playbackRate = playbackSpeed;
@@ -83,13 +80,13 @@ export default function AudioPlayerBar({
       transform: 'translateX(-50%)',
       width: '100%',
       maxWidth: '540px',
-      backgroundColor: 'var(--bg-card)',
-      borderTop: '1px solid var(--border)',
+      background: 'linear-gradient(135deg, #3b090f 0%, #1f0407 100%)',
+      borderTop: '2px solid #d4af37',
       padding: '10px 16px 14px 16px',
-      boxShadow: '0 -4px 20px rgba(0, 0, 0, 0.15)',
-      zIndex: 50
+      boxShadow: '0 -6px 24px rgba(0, 0, 0, 0.4)',
+      zIndex: 50,
+      color: '#ffffff'
     }}>
-      {/* Hidden HTML Audio element */}
       <audio
         ref={audioRef}
         src={streamUrl}
@@ -100,21 +97,21 @@ export default function AudioPlayerBar({
         onError={() => setAudioError(true)}
       />
 
-      {/* Header Row: Close ('X') button */}
+      {/* Header Row */}
       <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '6px' }}>
-        <span style={{ fontSize: '0.75rem', fontWeight: 700, color: 'var(--primary)' }}>
-          Dasakam {activeSloka.dasakamNo} • Sloka {activeSloka.slokaNo}
+        <span style={{ fontSize: '0.8rem', fontWeight: 700, color: '#ffd700', letterSpacing: '0.02em' }}>
+          దశకం {activeSloka.dasakamNo} • శ్లోకం {activeSloka.slokaNo}
         </span>
         <button
           onClick={onClose}
           aria-label="Close player"
           title="Close player"
           style={{
-            background: 'var(--bg-card-hover)',
-            border: 'none',
-            color: 'var(--text-muted)',
+            background: 'rgba(212, 175, 55, 0.2)',
+            border: '1px solid #d4af37',
+            color: '#ffd700',
             cursor: 'pointer',
-            padding: '4px 8px',
+            padding: '3px 8px',
             borderRadius: '12px',
             display: 'flex',
             alignItems: 'center',
@@ -130,7 +127,7 @@ export default function AudioPlayerBar({
 
       {/* Progress Bar */}
       <div style={{ display: 'flex', alignItems: 'center', gap: '10px', marginBottom: '8px' }}>
-        <span style={{ fontSize: '0.75rem', color: 'var(--text-muted)', width: '32px' }}>
+        <span style={{ fontSize: '0.75rem', color: '#fce8b3', width: '32px' }}>
           {formatTime(currentTime)}
         </span>
         <input
@@ -142,113 +139,83 @@ export default function AudioPlayerBar({
           style={{
             flex: 1,
             height: '4px',
-            accentColor: 'var(--primary)',
+            accentColor: '#ffd700',
             cursor: 'pointer'
           }}
         />
-        <span style={{ fontSize: '0.75rem', color: 'var(--text-muted)', width: '32px', textAlign: 'right' }}>
+        <span style={{ fontSize: '0.75rem', color: '#fce8b3', width: '32px', textAlign: 'right' }}>
           {formatTime(duration)}
         </span>
       </div>
 
-      {/* Main Controls Row */}
+      {/* Controls Row */}
       <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
-        {/* Track Status */}
         <div style={{ flex: 1, minWidth: 0, marginRight: '12px' }}>
-          {audioError ? (
-            <a
-              href={activeSloka.audioUrl}
-              target="_blank"
-              rel="noopener noreferrer"
-              style={{ fontSize: '0.75rem', color: '#ef4444', textDecoration: 'underline', display: 'flex', alignItems: 'center', gap: '2px' }}
-            >
-              Permission needed <ExternalLink size={12} />
-            </a>
-          ) : (
-            <p style={{ fontSize: '0.75rem', color: 'var(--text-muted)', margin: 0 }}>
-              {isPlaying ? 'Playing continuous audio' : 'Paused'}
-            </p>
-          )}
+          <p style={{ fontSize: '0.75rem', color: '#fce8b3', margin: 0, opacity: 0.9 }}>
+            {isPlaying ? 'AUDIO PLAYING' : 'AUDIO PAUSED'}
+          </p>
         </div>
 
-        {/* Buttons */}
-        <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
-          {/* Speed Toggle */}
+        <div style={{ display: 'flex', alignItems: 'center', gap: '10px' }}>
           <button
             onClick={cycleSpeed}
             title="Speed"
             style={{
               background: 'none',
-              border: 'none',
-              color: 'var(--text-muted)',
+              border: '1px solid #d4af37',
+              color: '#ffd700',
               fontSize: '0.75rem',
               fontWeight: 700,
-              padding: '4px 6px',
-              borderRadius: 'var(--radius-sm)',
+              padding: '2px 6px',
+              borderRadius: '4px',
               cursor: 'pointer'
             }}
           >
             {playbackSpeed}x
           </button>
 
-          {/* Prev Button */}
           <button
             onClick={onPrev}
-            style={{
-              background: 'none',
-              border: 'none',
-              color: 'var(--text-main)',
-              cursor: 'pointer',
-              padding: '6px'
-            }}
+            style={{ background: 'none', border: 'none', color: '#ffffff', cursor: 'pointer', padding: '4px' }}
           >
             <SkipBack size={20} />
           </button>
 
-          {/* Main Play/Pause Button */}
           <button
             onClick={onTogglePlay}
             style={{
-              backgroundColor: 'var(--primary)',
-              color: '#ffffff',
+              background: 'linear-gradient(135deg, #d4af37 0%, #aa820a 100%)',
+              color: '#2b070c',
               border: 'none',
               borderRadius: '50%',
-              width: '44px',
-              height: '44px',
+              width: '42px',
+              height: '42px',
               display: 'flex',
               alignItems: 'center',
               justifyContent: 'center',
               cursor: 'pointer',
-              boxShadow: 'var(--shadow-md)'
+              boxShadow: '0 2px 8px rgba(0, 0, 0, 0.4)'
             }}
           >
-            {isPlaying ? <Pause size={22} /> : <Play size={22} style={{ marginLeft: '2px' }} />}
+            {isPlaying ? <Pause size={20} fill="#2b070c" /> : <Play size={20} fill="#2b070c" style={{ marginLeft: '2px' }} />}
           </button>
 
-          {/* Next Button */}
           <button
             onClick={onNext}
-            style={{
-              background: 'none',
-              border: 'none',
-              color: 'var(--text-main)',
-              cursor: 'pointer',
-              padding: '6px'
-            }}
+            style={{ background: 'none', border: 'none', color: '#ffffff', cursor: 'pointer', padding: '4px' }}
           >
             <SkipForward size={20} />
           </button>
 
-          {/* Loop Mode Toggle */}
           <button
             onClick={() => setIsLooping(!isLooping)}
             title="Loop Sloka"
             style={{
               background: 'none',
               border: 'none',
-              color: isLooping ? 'var(--primary)' : 'var(--text-muted)',
+              color: isLooping ? '#ffd700' : 'rgba(255, 255, 255, 0.6)',
               cursor: 'pointer',
-              padding: '6px'
+              padding: '4px'
             }}
           >
             <Repeat size={18} />
