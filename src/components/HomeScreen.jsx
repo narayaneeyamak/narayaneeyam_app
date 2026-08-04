@@ -1,5 +1,5 @@
 import React from 'react';
-import { BookOpen, Play, Sparkles } from 'lucide-react';
+import { BookOpen, Play } from 'lucide-react';
 
 export default function HomeScreen({ 
   onSelectNarayaneeyam, 
@@ -36,14 +36,10 @@ export default function HomeScreen({
         overflow: 'hidden'
       }}>
         <div style={{ position: 'relative', zIndex: 2 }}>
-          <div style={{ display: 'flex', alignItems: 'center', gap: '6px', fontSize: '0.85rem', color: '#fde047', fontWeight: 600, marginBottom: '4px' }}>
-            <Sparkles size={16} fill="#fde047" />
-            <span>Devotional Prayer App</span>
-          </div>
-          <h2 style={{ fontSize: '1.8rem', fontWeight: 800, margin: '0 0 2px 0', fontFamily: 'var(--font-telugu)', color: '#ffffff', textShadow: '0 2px 8px rgba(0, 0, 0, 0.6)' }}>
+          <h2 style={{ fontSize: '1.9rem', fontWeight: 800, margin: '0 0 4px 0', fontFamily: 'var(--font-telugu)', color: '#ffffff', textShadow: '0 2px 8px rgba(0, 0, 0, 0.6)' }}>
             నారాయణీయం
           </h2>
-          <p style={{ fontSize: '0.9rem', opacity: 0.95, margin: 0, color: '#f1f5f9', textShadow: '0 1px 4px rgba(0, 0, 0, 0.6)' }}>
+          <p style={{ fontSize: '0.95rem', opacity: 0.95, margin: 0, color: '#f1f5f9', textShadow: '0 1px 4px rgba(0, 0, 0, 0.6)' }}>
             Srimad Narayaneeyam Slokas with Audio
           </p>
         </div>
