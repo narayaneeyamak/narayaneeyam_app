@@ -128,32 +128,34 @@ export default function SlokaView({
                       {isThisPlaying ? <Pause size={18} /> : <Play size={18} style={{ marginLeft: '2px' }} />}
                     </button>
 
-                    <a
-                      href={sloka.audioUrl}
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      title="Open audio link directly"
-                      style={{
-                        color: 'var(--text-light)',
-                        padding: '6px',
-                        display: 'flex',
-                        alignItems: 'center',
-                        justifyContent: 'center'
-                      }}
-                    >
-                      <ExternalLink size={16} />
-                    </a>
+                    {sloka.driveUrl && (
+                      <a
+                        href={sloka.driveUrl}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        title="Open audio in Google Drive"
+                        style={{
+                          color: 'var(--text-light)',
+                          padding: '6px',
+                          display: 'flex',
+                          alignItems: 'center',
+                          justifyContent: 'center'
+                        }}
+                      >
+                        <ExternalLink size={16} />
+                      </a>
+                    )}
                   </div>
                 )}
               </div>
 
-              {/* Slokam Text in Telugu */}
+              {/* Slokam Text in Telugu with exact pre-wrap spacing & indentation */}
               <div 
                 className="telugu-text"
                 style={{
                   fontSize: `calc(1.2rem * ${fontSizeMultiplier})`,
                   color: 'var(--text-main)',
-                  whiteSpace: 'pre-line',
+                  whiteSpace: 'pre-wrap',
                   wordBreak: 'break-word',
                   fontWeight: 500
                 }}
