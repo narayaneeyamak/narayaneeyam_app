@@ -1,5 +1,5 @@
 import React, { useRef, useEffect, useState } from 'react';
-import { Play, Pause, SkipBack, SkipForward, Repeat, ExternalLink } from 'lucide-react';
+import { Play, Pause, SkipBack, SkipForward, Repeat, ExternalLink, X } from 'lucide-react';
 import { getAudioStreamUrl } from '../utils/googleDrive';
 
 export default function AudioPlayerBar({
@@ -10,7 +10,8 @@ export default function AudioPlayerBar({
   onPrev,
   onEnded,
   isAutoplay,
-  onToggleAutoplay
+  onToggleAutoplay,
+  onClose
 }) {
   const audioRef = useRef(null);
   const [currentTime, setCurrentTime] = useState(0);
@@ -84,8 +85,8 @@ export default function AudioPlayerBar({
       maxWidth: '540px',
       backgroundColor: 'var(--bg-card)',
       borderTop: '1px solid var(--border)',
-      padding: '12px 16px 16px 16px',
-      boxShadow: '0 -4px 20px rgba(0, 0, 0, 0.1)',
+      padding: '10px 16px 14px 16px',
+      boxShadow: '0 -4px 20px rgba(0, 0, 0, 0.15)',
       zIndex: 50
     }}>
       {/* Hidden HTML Audio element */}
@@ -98,6 +99,34 @@ export default function AudioPlayerBar({
         onEnded={onEnded}
         onError={() => setAudioError(true)}
       />
+
+      {/* Header Row: Close ('X') button */}
+      <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '6px' }}>
+        <span style={{ fontSize: '0.75rem', fontWeight: 700, color: 'var(--primary)' }}>
+          Dasakam {activeSloka.dasakamNo} • Sloka {activeSloka.slokaNo}
+        </span>
+        <button
+          onClick={onClose}
+          aria-label="Close player"
+          title="Close player"
+          style={{
+            background: 'var(--bg-card-hover)',
+            border: 'none',
+            color: 'var(--text-muted)',
+            cursor: 'pointer',
+            padding: '4px 8px',
+            borderRadius: '12px',
+            display: 'flex',
+            alignItems: 'center',
+            gap: '4px',
+            fontSize: '0.75rem',
+            fontWeight: 600
+          }}
+        >
+          <span>Close</span>
+          <X size={14} />
+        </button>
+      </div>
 
       {/* Progress Bar */}
       <div style={{ display: 'flex', alignItems: 'center', gap: '10px', marginBottom: '8px' }}>
@@ -124,23 +153,20 @@ export default function AudioPlayerBar({
 
       {/* Main Controls Row */}
       <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
-        {/* Track Title Info */}
+        {/* Track Status */}
         <div style={{ flex: 1, minWidth: 0, marginRight: '12px' }}>
-          <h4 style={{ fontSize: '0.9rem', fontWeight: 700, color: 'var(--text-main)', margin: 0, whiteSpace: 'nowrap', overflow: 'hidden', textOverflow: 'ellipsis' }}>
-            Dasakam {activeSloka.dasakamNo} • Sloka {activeSloka.slokaNo}
-          </h4>
           {audioError ? (
             <a
               href={activeSloka.audioUrl}
               target="_blank"
               rel="noopener noreferrer"
-              style={{ fontSize: '0.75rem', color: '#ef4444', textDecoration: 'underline', display: 'flex', alignItems: 'center', gap: '2px', marginTop: '2px' }}
+              style={{ fontSize: '0.75rem', color: '#ef4444', textDecoration: 'underline', display: 'flex', alignItems: 'center', gap: '2px' }}
             >
-              Permission needed in Drive <ExternalLink size={12} />
+              Permission needed <ExternalLink size={12} />
             </a>
           ) : (
             <p style={{ fontSize: '0.75rem', color: 'var(--text-muted)', margin: 0 }}>
-              {isPlaying ? 'Playing...' : 'Paused'}
+              {isPlaying ? 'Playing continuous audio' : 'Paused'}
             </p>
           )}
         </div>

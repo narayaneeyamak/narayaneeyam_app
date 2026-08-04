@@ -49,6 +49,12 @@ export default function App() {
     }
   };
 
+  // Close audio player bar
+  const handleClosePlayer = () => {
+    setActiveSloka(null);
+    setIsPlaying(false);
+  };
+
   // Get current selected Dasakam object
   const currentDasakam = narayaneeyamData.dasakams.find(d => d.id === selectedDasakamId) || narayaneeyamData.dasakams[0];
 
@@ -206,6 +212,7 @@ export default function App() {
         onEnded={handleAudioEnded}
         isAutoplay={isAutoplay}
         onToggleAutoplay={() => setIsAutoplay(!isAutoplay)}
+        onClose={handleClosePlayer}
       />
     </div>
   );
