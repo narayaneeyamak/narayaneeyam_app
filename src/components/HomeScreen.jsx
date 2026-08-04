@@ -29,20 +29,14 @@ export default function HomeScreen({
         WebkitBackdropFilter: 'blur(12px)',
         border: '1px solid rgba(255, 255, 255, 0.3)',
         color: '#ffffff',
-        padding: '20px',
+        padding: '16px 20px',
         borderRadius: 'var(--radius-lg)',
         boxShadow: '0 8px 32px rgba(0, 0, 0, 0.3)',
-        position: 'relative',
-        overflow: 'hidden'
+        textAlign: 'center'
       }}>
-        <div style={{ position: 'relative', zIndex: 2 }}>
-          <h2 style={{ fontSize: '1.9rem', fontWeight: 800, margin: '0 0 4px 0', fontFamily: 'var(--font-telugu)', color: '#ffffff', textShadow: '0 2px 8px rgba(0, 0, 0, 0.6)' }}>
-            నారాయణీయం
-          </h2>
-          <p style={{ fontSize: '0.95rem', opacity: 0.95, margin: 0, color: '#f1f5f9', textShadow: '0 1px 4px rgba(0, 0, 0, 0.6)' }}>
-            Srimad Narayaneeyam Slokas with Audio
-          </p>
-        </div>
+        <h2 style={{ fontSize: '2.1rem', fontWeight: 800, margin: 0, fontFamily: 'var(--font-telugu)', color: '#ffffff', textShadow: '0 2px 8px rgba(0, 0, 0, 0.6)' }}>
+          నారాయణీయం
+        </h2>
       </div>
 
       {/* Main Feature Button: Narayaneeyam */}
