@@ -158,7 +158,7 @@ export default function App() {
   };
 
   // Title for Header
-  let headerTitle = "Devotional App";
+  let headerTitle = "Narayaneeyam App";
   if (currentView === "dasakams") headerTitle = "Narayaneeyam Dasakams";
   if (currentView === "sloka") headerTitle = `Dasakam ${currentDasakam?.number || 1}`;
 
